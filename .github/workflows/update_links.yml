@@ -9,6 +9,8 @@ on:
 jobs:
   update-links:
     runs-on: ubuntu-latest
+    permissions:  # Add this block
+      contents: write # Grant write permission
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
