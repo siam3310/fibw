@@ -32,7 +32,13 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          if [ -f "scraped-links.json" ]; then
-            git add scraped-links.json
+          git add scraped-links.json
+          # Check if there are any changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
           fi
-          git diff --staged --quiet || (git commit -m "Update scraped links" && git push)
+          git commit -m "Update scraped links"
+          # Pull latest changes from remote and rebase our commit on top
+          git pull --rebase
+          git push
