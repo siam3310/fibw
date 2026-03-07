@@ -1,5 +1,5 @@
 
-import requests
+import cloudscraper
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse, parse_qs
 import sys
@@ -31,7 +31,7 @@ def find_all_watch_links(url: str, session) -> list:
         print(f"Found {len(watch_links)} unique watch links.")
         return list(watch_links)
 
-    except requests.exceptions.RequestException as e:
+    except Exception as e:
         print(f"Error fetching URL: {str(e)}")
         return []
 
@@ -106,7 +106,7 @@ def find_media_links_on_page(url: str, session) -> list:
                 media_info_list.append(media_info)
                 print(f"  - Found: {media_info['name']} ({media_info['year']}) - {media_info['quality']}")
 
-    except requests.exceptions.RequestException as e:
+    except Exception as e:
         print(f"Error fetching page {url}: {str(e)}")
     
     return media_info_list
@@ -116,10 +116,7 @@ if __name__ == "__main__":
     all_media_info = []
     all_collected_links = set()
 
-    session = requests.Session()
-    session.headers.update({
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-    })
+    session = cloudscraper.create_scraper() # Use cloudscraper
 
     for page_number in range(1, 4):
         if page_number == 1:
