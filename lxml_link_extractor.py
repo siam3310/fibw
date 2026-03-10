@@ -113,7 +113,7 @@ if __name__ == "__main__":
 
     session = cloudscraper.create_scraper()
 
-    for page_number in range(1, 4):
+    for page_number in range(1, 9):
         current_url = f"{base_url}?page_id={page_number}" if page_number > 1 else base_url
         
         watch_links = find_all_watch_links(current_url, session)
