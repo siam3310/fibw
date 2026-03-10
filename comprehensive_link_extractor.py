@@ -119,7 +119,7 @@ if __name__ == "__main__":
 
     session = cloudscraper.create_scraper() # Use cloudscraper
 
-    for page_number in range(1, 4):
+    for page_number in range(1, 8):
         if page_number == 1:
             current_url = base_url
         else:
