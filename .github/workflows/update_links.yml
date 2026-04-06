@@ -3,7 +3,7 @@ name: Update Scraped Links
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '*/30 * * * *' 
   workflow_dispatch:
 
 jobs:
