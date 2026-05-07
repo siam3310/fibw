@@ -1,7 +1,13 @@
 {
     "made_by": "@siam3310",
-    "last_update_time": "2026-05-07 01:59:32 UTC",
+    "last_update_time": "2026-05-07 05:30:47 UTC",
     "scraped_media": [
+        {
+            "name": "The House of the Spirits",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.House.of.the.Spirits.S01E04-05.Dual.1080p.mkv"
+        },
         {
             "name": "Sultan Abdul Hamid",
             "year": null,
@@ -9,46 +15,40 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E132.Bengali.ORG.720p.mkv"
         },
         {
-            "name": "The Boys",
+            "name": "The House of the Spirits",
             "year": null,
             "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Boys.S05E06.Dual.720p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.House.of.the.Spirits.S01E04-05.Dual.720p.mkv"
+        },
+        {
+            "name": "Pother Pechal 2026",
+            "year": null,
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Pother.Pechal.2026.720p.mkv"
+        },
+        {
+            "name": "Pother Pechal 2026",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Pother.Pechal.2026.1080p.mkv"
         },
         {
             "name": "Proshnouttor",
             "year": "2026",
+            "quality": "480p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Proshnouttor.(2026).480p.mkv"
+        },
+        {
+            "name": "the Drama 2026 English",
+            "year": null,
             "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Proshnouttor.(2026).720p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]the.Drama.2026.English.720p.mkv"
         },
         {
             "name": "Naagin",
             "year": null,
             "quality": "1080P",
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Naagin.S07E37-38.Bengali.1080P.mkv"
-        },
-        {
-            "name": "Gopal Bhar",
-            "year": null,
-            "quality": null,
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Gopal.Bhar.S13E1247-1252.mkv"
-        },
-        {
-            "name": "the Drama 2026 English",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]the.Drama.2026.English.1080p.mkv"
-        },
-        {
-            "name": "Arafta",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Arafta.S01E11-20.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Proshnouttor",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Proshnouttor.(2026).1080p.mkv"
         },
         {
             "name": "StartUp",
@@ -59,26 +59,14 @@
         {
             "name": "Proshnouttor",
             "year": "2026",
-            "quality": "480p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Proshnouttor.(2026).480p.mkv"
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Proshnouttor.(2026).720p.mkv"
         },
         {
-            "name": "Naagin",
-            "year": null,
-            "quality": "720P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Naagin.S07E37-38.Bengali.720P.mkv"
-        },
-        {
-            "name": "The House of the Spirits",
+            "name": "Arafta",
             "year": null,
             "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.House.of.the.Spirits.S01E04-05.Dual.1080p.mkv"
-        },
-        {
-            "name": "The House of the Spirits",
-            "year": null,
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.House.of.the.Spirits.S01E04-05.Dual.720p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Arafta.S01E11-20.Hindi.1080p.mkv"
         },
         {
             "name": "The Boys",
@@ -87,22 +75,28 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Boys.S05E06.Dual.1080p.mkv"
         },
         {
-            "name": "Pother Pechal 2026",
+            "name": "Naagin",
             "year": null,
+            "quality": "720P",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Naagin.S07E37-38.Bengali.720P.mkv"
+        },
+        {
+            "name": "The Boys",
+            "year": null,
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Boys.S05E06.Dual.720p.mkv"
+        },
+        {
+            "name": "Gopal Bhar",
+            "year": null,
+            "quality": null,
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Gopal.Bhar.S13E1247-1252.mkv"
+        },
+        {
+            "name": "Proshnouttor",
+            "year": "2026",
             "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Pother.Pechal.2026.1080p.mkv"
-        },
-        {
-            "name": "Arafta",
-            "year": null,
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Arafta.S01E11-20.Hindi.720p.mkv"
-        },
-        {
-            "name": "Pother Pechal 2026",
-            "year": null,
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Pother.Pechal.2026.720p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Proshnouttor.(2026).1080p.mkv"
         },
         {
             "name": "Sultan Abdul Hamid",
@@ -113,8 +107,14 @@
         {
             "name": "the Drama 2026 English",
             "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]the.Drama.2026.English.1080p.mkv"
+        },
+        {
+            "name": "Arafta",
+            "year": null,
             "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]the.Drama.2026.English.720p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Arafta.S01E11-20.Hindi.720p.mkv"
         },
         {
             "name": "StartUp",
@@ -123,10 +123,10 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]StartUp.S01E09-16.Hindi.ORG.720P.mkv"
         },
         {
-            "name": "Raakaasa  Bengali Dubbed",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Raakaasa.(2026).Bengali.Dubbed.480p.mkv"
+            "name": "Bugsy 1991 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Bugsy.1991.Dual.720p.mkv"
         },
         {
             "name": "Sultan Abdul Hamid",
@@ -135,16 +135,28 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E131.Bengali.ORG.720p.mkv"
         },
         {
-            "name": "StartUp",
+            "name": "The Hunting Party",
             "year": null,
-            "quality": "1080P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]StartUp.S01E01-08.Hindi.ORG.1080P.mkv"
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Hunting.Party.S02E11-12.Dual.720p.mkv"
+        },
+        {
+            "name": "Daredevil Born Again",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Daredevil.Born.Again.S02E08.Dual.1080p.mkv"
+        },
+        {
+            "name": "Raakaasa  Bengali Dubbed",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Raakaasa.(2026).Bengali.Dubbed.480p.mkv"
         },
         {
             "name": "Ray",
             "year": "2021",
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Ray.(2021).S01E01-04.Bengali.1080p.mkv"
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Ray.(2021).S01E01-04.Bengali.720p.mkv"
         },
         {
             "name": "Raakaasa  Telugu",
@@ -153,28 +165,16 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Raakaasa.(2026).Telugu.720p.mkv"
         },
         {
-            "name": "Ray",
-            "year": "2021",
-            "quality": "480p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Ray.(2021).S01E01-04.Bengali.480p.mkv"
-        },
-        {
-            "name": "Bugsy 1991 Dual",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Bugsy.1991.Dual.1080p.mkv"
-        },
-        {
             "name": "Citadel",
             "year": null,
             "quality": "480P",
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Citadel.S02.Dual.480P.mkv"
         },
         {
-            "name": "StartUp",
+            "name": "Citadel",
             "year": null,
             "quality": "720P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]StartUp.S01E01-08.Hindi.ORG.720P.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Citadel.S02.Dual.720P.mkv"
         },
         {
             "name": "Raakaasa  Bengali Dubbed",
@@ -185,56 +185,14 @@
         {
             "name": "Citadel",
             "year": null,
-            "quality": "720P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Citadel.S02.Dual.720P.mkv"
-        },
-        {
-            "name": "The Hunting Party",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Hunting.Party.S02E11-12.Dual.1080p.mkv"
-        },
-        {
-            "name": "Daredevil Born Again",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Daredevil.Born.Again.S02E08.Dual.1080p.mkv"
-        },
-        {
-            "name": "Citadel",
-            "year": null,
             "quality": "1080P",
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Citadel.S02.Dual.1080P.mkv"
         },
         {
-            "name": "Ray",
-            "year": "2021",
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Ray.(2021).S01E01-04.Bengali.720p.mkv"
-        },
-        {
-            "name": "Bugsy 1991 Dual",
+            "name": "StartUp",
             "year": null,
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Bugsy.1991.Dual.720p.mkv"
-        },
-        {
-            "name": "Raakaasa  Telugu",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Raakaasa.(2026).Telugu.1080p.mkv"
-        },
-        {
-            "name": "The Hunting Party",
-            "year": null,
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Hunting.Party.S02E11-12.Dual.720p.mkv"
-        },
-        {
-            "name": "Raakaasa  Bengali Dubbed",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Raakaasa.(2026).Bengali.Dubbed.720p.mkv"
+            "quality": "720P",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]StartUp.S01E01-08.Hindi.ORG.720P.mkv"
         },
         {
             "name": "Daredevil Born Again",
@@ -243,10 +201,82 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Daredevil.Born.Again.S02E08.Dual.720p.mkv"
         },
         {
-            "name": "The Whisper 2026 Dual",
+            "name": "StartUp",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]StartUp.S01E01-08.Hindi.ORG.1080P.mkv"
+        },
+        {
+            "name": "Raakaasa  Bengali Dubbed",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Raakaasa.(2026).Bengali.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Raakaasa  Telugu",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Raakaasa.(2026).Telugu.1080p.mkv"
+        },
+        {
+            "name": "Ray",
+            "year": "2021",
+            "quality": "480p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Ray.(2021).S01E01-04.Bengali.480p.mkv"
+        },
+        {
+            "name": "Ray",
+            "year": "2021",
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Ray.(2021).S01E01-04.Bengali.1080p.mkv"
+        },
+        {
+            "name": "The Hunting Party",
             "year": null,
             "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Whisper.2026.Dual.1080p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Hunting.Party.S02E11-12.Dual.1080p.mkv"
+        },
+        {
+            "name": "Bugsy 1991 Dual",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Bugsy.1991.Dual.1080p.mkv"
+        },
+        {
+            "name": "Love Insurance Kompany 2026 Dual",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Love.Insurance.Kompany.2026.Dual.1080p.mkv"
+        },
+        {
+            "name": "Clika 2026 Dual",
+            "year": null,
+            "quality": "480p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Clika.2026.Dual.480p.mkv"
+        },
+        {
+            "name": "Hello My Name Is Doris  Dual",
+            "year": "2015",
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Hello.My.Name.Is.Doris.(2015).Dual.1080p.mkv"
+        },
+        {
+            "name": "Sultan Abdul Hamid",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E131.Bengali.ORG.1080p.mkv"
+        },
+        {
+            "name": "Hello My Name Is Doris  Dual",
+            "year": "2015",
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Hello.My.Name.Is.Doris.(2015).Dual.720p.mkv"
+        },
+        {
+            "name": "Rongbazar  Bangla WEB-DL",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Rongbazar.(2026).Bangla.WEB-DL.720P.mkv"
         },
         {
             "name": "sdfasd",
@@ -261,16 +291,22 @@
             "link": "https://fibwatch.art/watch/https%3A%2F%2Fsdfasd.mp4"
         },
         {
-            "name": "Sultan Abdul Hamid",
+            "name": "Family Feud",
             "year": null,
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E130.Bengali.ORG.720p.mkv"
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Family.Feud.S02E15.1080p.mkv"
         },
         {
-            "name": "R o N 2026 English",
+            "name": "Clika 2026 Dual",
             "year": null,
             "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]R.o.N.2026.English.720p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Clika.2026.Dual.720p.mkv"
+        },
+        {
+            "name": "The Whisper 2026 Dual",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Whisper.2026.Dual.1080p.mkv"
         },
         {
             "name": "Rongbazar  Bangla WEB-DL",
@@ -279,34 +315,16 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Rongbazar.(2026).Bangla.WEB-DL.1080P.mkv"
         },
         {
-            "name": "Hello My Name Is Doris  Dual",
-            "year": "2015",
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Hello.My.Name.Is.Doris.(2015).Dual.1080p.mkv"
+            "name": "The Whisper 2026 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Whisper.2026.Dual.720p.mkv"
         },
         {
             "name": "Rongbazar  Bangla WEB-DL",
             "year": "2026",
-            "quality": "720P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Rongbazar.(2026).Bangla.WEB-DL.720P.mkv"
-        },
-        {
-            "name": "Clika 2026 Dual",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Clika.2026.Dual.1080p.mkv"
-        },
-        {
-            "name": "Clika 2026 Dual",
-            "year": null,
-            "quality": "480p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Clika.2026.Dual.480p.mkv"
-        },
-        {
-            "name": "Love Insurance Kompany 2026 Dual",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Love.Insurance.Kompany.2026.Dual.1080p.mkv"
+            "quality": "480P",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Rongbazar.(2026).Bangla.WEB-DL.480P.mkv"
         },
         {
             "name": "R o N 2026 English",
@@ -315,10 +333,22 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]R.o.N.2026.English.1080p.mkv"
         },
         {
-            "name": "Rongbazar  Bangla WEB-DL",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Rongbazar.(2026).Bangla.WEB-DL.480P.mkv"
+            "name": "Clika 2026 Dual",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Clika.2026.Dual.1080p.mkv"
+        },
+        {
+            "name": "The Whisper 2026 Dual",
+            "year": null,
+            "quality": "480p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Whisper.2026.Dual.480p.mkv"
+        },
+        {
+            "name": "R o N 2026 English",
+            "year": null,
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]R.o.N.2026.English.720p.mkv"
         },
         {
             "name": "Love Insurance Kompany 2026 Dual",
@@ -329,38 +359,8 @@
         {
             "name": "Sultan Abdul Hamid",
             "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E131.Bengali.ORG.1080p.mkv"
-        },
-        {
-            "name": "The Whisper 2026 Dual",
-            "year": null,
-            "quality": "480p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Whisper.2026.Dual.480p.mkv"
-        },
-        {
-            "name": "Clika 2026 Dual",
-            "year": null,
             "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Clika.2026.Dual.720p.mkv"
-        },
-        {
-            "name": "Hello My Name Is Doris  Dual",
-            "year": "2015",
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Hello.My.Name.Is.Doris.(2015).Dual.720p.mkv"
-        },
-        {
-            "name": "The Whisper 2026 Dual",
-            "year": null,
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Whisper.2026.Dual.720p.mkv"
-        },
-        {
-            "name": "Family Feud",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Family.Feud.S02E15.1080p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E130.Bengali.ORG.720p.mkv"
         },
         {
             "name": "Family Feud",
@@ -369,16 +369,64 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Family.Feud.S02E15.720p.mkv"
         },
         {
+            "name": "Cruel Intentions 2 2000 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Cruel.Intentions.2.2000.Dual.720p.mkv"
+        },
+        {
+            "name": "Ek Din  Hindi HDTS",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Ek.Din.(2026).Hindi.HDTS.1080p.mkv"
+        },
+        {
+            "name": "Laughter Chefs Unlimited Entertainment",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E48.Hindi.1080P.mkv"
+        },
+        {
+            "name": "Euphoria",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Euphoria.S03E04.English.1080P.mkv"
+        },
+        {
+            "name": "Patriot HDTC-V2 Malayalam LiNE",
+            "year": null,
+            "quality": "480p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Patriot.HDTC-V2.Malayalam.LiNE.480p.mkv"
+        },
+        {
+            "name": "Sultan Abdul Hamid",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E129.Bengali.ORG.1080p.mkv"
+        },
+        {
+            "name": "Cruel Intentions 2 2000 Dual",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Cruel.Intentions.2.2000.Dual.1080p.mkv"
+        },
+        {
             "name": "Ek Din  Hindi HDTS",
             "year": "2026",
             "quality": "480p",
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Ek.Din.(2026).Hindi.HDTS.480p.mkv"
         },
         {
-            "name": "Laughter Chefs Unlimited Entertainment",
+            "name": "Euphoria",
             "year": null,
             "quality": "720P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E48.Hindi.720P.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Euphoria.S03E04.English.720P.mkv"
+        },
+        {
+            "name": "Patriot HDTC-V2 Malayalam LiNE",
+            "year": null,
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Patriot.HDTC-V2.Malayalam.LiNE.720p.mkv"
         },
         {
             "name": "Sa Re Ga Ma Pa 2025",
@@ -399,58 +447,16 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Cruel.Intentions.3.(2004).Dual.720p.mkv"
         },
         {
-            "name": "Cruel Intentions 2 2000 Dual",
-            "year": null,
+            "name": "Ek Din  Hindi HDTS",
+            "year": "2026",
             "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Cruel.Intentions.2.2000.Dual.720p.mkv"
-        },
-        {
-            "name": "Euphoria",
-            "year": null,
-            "quality": "720P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Euphoria.S03E04.English.720P.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Ek.Din.(2026).Hindi.HDTS.720p.mkv"
         },
         {
             "name": "Laughter Chefs Unlimited Entertainment",
             "year": null,
-            "quality": "1080P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E48.Hindi.1080P.mkv"
-        },
-        {
-            "name": "Cruel Intentions 3  Dual",
-            "year": "2004",
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Cruel.Intentions.3.(2004).Dual.1080p.mkv"
-        },
-        {
-            "name": "Patriot HDTC-V2 Malayalam LiNE",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Patriot.HDTC-V2.Malayalam.LiNE.1080p.mkv"
-        },
-        {
-            "name": "Ek Din  Hindi HDTS",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Ek.Din.(2026).Hindi.HDTS.1080p.mkv"
-        },
-        {
-            "name": "Patriot HDTC-V2 Malayalam LiNE",
-            "year": null,
-            "quality": "480p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Patriot.HDTC-V2.Malayalam.LiNE.480p.mkv"
-        },
-        {
-            "name": "Cruel Intentions 2 2000 Dual",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Cruel.Intentions.2.2000.Dual.1080p.mkv"
-        },
-        {
-            "name": "Sultan Abdul Hamid",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E129.Bengali.ORG.1080p.mkv"
+            "quality": "720P",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E48.Hindi.720P.mkv"
         },
         {
             "name": "Sa Re Ga Ma Pa 2025",
@@ -459,16 +465,16 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.2025.S22E70.720p.mkv"
         },
         {
-            "name": "Sultan Abdul Hamid",
+            "name": "Patriot HDTC-V2 Malayalam LiNE",
             "year": null,
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E129.Bengali.ORG.720p.mkv"
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Patriot.HDTC-V2.Malayalam.LiNE.1080p.mkv"
         },
         {
-            "name": "Euphoria",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Euphoria.S03E04.English.1080P.mkv"
+            "name": "Cruel Intentions 3  Dual",
+            "year": "2004",
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Cruel.Intentions.3.(2004).Dual.1080p.mkv"
         },
         {
             "name": "Real Time Love",
@@ -477,28 +483,22 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Real.Time.Love.(2026).S01E01-02.mkv"
         },
         {
-            "name": "Ek Din  Hindi HDTS",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Ek.Din.(2026).Hindi.HDTS.720p.mkv"
-        },
-        {
-            "name": "Patriot HDTC-V2 Malayalam LiNE",
+            "name": "Sultan Abdul Hamid",
             "year": null,
             "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Patriot.HDTC-V2.Malayalam.LiNE.720p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E129.Bengali.ORG.720p.mkv"
         },
         {
-            "name": "Laughter Chefs Unlimited Entertainment",
-            "year": null,
-            "quality": "720P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E47.Hindi.720P.mkv"
-        },
-        {
-            "name": "Jana Nayagan  Hindi HQ-Studio Dub",
+            "name": "MTV Splitsvilla X6",
             "year": "2026",
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]MTV.Splitsvilla.X6.(2026).S16E51.Hindi.720p.mkv"
+        },
+        {
+            "name": "From",
+            "year": null,
             "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Jana.Nayagan.(2026).Hindi.HQ-Studio.Dub.1080p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]From.S04E03.Dual.1080p.mkv"
         },
         {
             "name": "undekhi 2026",
@@ -509,20 +509,20 @@
         {
             "name": "Jana Nayagan  Hindi HQ-Studio Dub",
             "year": "2026",
-            "quality": "480p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Jana.Nayagan.(2026).Hindi.HQ-Studio.Dub.480p.mkv"
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Jana.Nayagan.(2026).Hindi.HQ-Studio.Dub.720p.mkv"
         },
         {
-            "name": "CID Bangla",
+            "name": "Laughter Chefs Unlimited Entertainment",
             "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]CID.Bangla.S02E100.1080p.mkv"
+            "quality": "720P",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E47.Hindi.720P.mkv"
         },
         {
-            "name": "Cruel Intentions 1999 Dual",
+            "name": "From",
             "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Cruel.Intentions.1999.Dual.1080p.mkv"
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]From.S04E03.Dual.720p.mkv"
         },
         {
             "name": "Indian Idol",
@@ -537,16 +537,22 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Cruel.Intentions.1999.Dual.720p.mkv"
         },
         {
-            "name": "Indian Idol",
-            "year": "2025",
+            "name": "CID Bangla",
+            "year": null,
             "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Indian.Idol.(2025).S16E58.1080p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]CID.Bangla.S02E100.1080p.mkv"
         },
         {
             "name": "Laughter Chefs Unlimited Entertainment",
             "year": null,
             "quality": "1080P",
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E47.Hindi.1080P.mkv"
+        },
+        {
+            "name": "Indian Idol",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Indian.Idol.(2025).S16E58.1080p.mkv"
         },
         {
             "name": "Naagin",
@@ -557,14 +563,14 @@
         {
             "name": "CID Bangla",
             "year": null,
-            "quality": "480p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]CID.Bangla.S02E100.480p.mkv"
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]CID.Bangla.S02E100.720p.mkv"
         },
         {
-            "name": "undekhi 2026",
-            "year": null,
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]undekhi.2026.S04E01-02.Dual.720p.mkv"
+            "name": "Jana Nayagan  Hindi HQ-Studio Dub",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Jana.Nayagan.(2026).Hindi.HQ-Studio.Dub.480p.mkv"
         },
         {
             "name": "MTV Splitsvilla X6",
@@ -573,22 +579,16 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]MTV.Splitsvilla.X6.(2026).S16E51.Hindi.1080p.mkv"
         },
         {
+            "name": "undekhi 2026",
+            "year": null,
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]undekhi.2026.S04E01-02.Dual.720p.mkv"
+        },
+        {
             "name": "CID Bangla",
             "year": null,
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]CID.Bangla.S02E100.720p.mkv"
-        },
-        {
-            "name": "From",
-            "year": null,
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]From.S04E03.Dual.720p.mkv"
-        },
-        {
-            "name": "From",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]From.S04E03.Dual.1080p.mkv"
+            "quality": "480p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]CID.Bangla.S02E100.480p.mkv"
         },
         {
             "name": "Naagin",
@@ -599,56 +599,14 @@
         {
             "name": "Jana Nayagan  Hindi HQ-Studio Dub",
             "year": "2026",
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Jana.Nayagan.(2026).Hindi.HQ-Studio.Dub.720p.mkv"
-        },
-        {
-            "name": "MTV Splitsvilla X6",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]MTV.Splitsvilla.X6.(2026).S16E51.Hindi.720p.mkv"
-        },
-        {
-            "name": "Sa Re Ga Ma Pa 2025",
-            "year": null,
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.2025.S22E69.720p.mkv"
-        },
-        {
-            "name": "Indian Idol",
-            "year": "2025",
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Indian.Idol.(2025).S16E57.720p.mkv"
-        },
-        {
-            "name": "Raja Shivaji  HDTC-V2 Hindi LiNE",
-            "year": "2026",
             "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Raja.Shivaji.(2026).HDTC-V2.Hindi.LiNE.1080p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Jana.Nayagan.(2026).Hindi.HQ-Studio.Dub.1080p.mkv"
         },
         {
-            "name": "Sangamarmar",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sangamarmar.(2026).S01E42-45.Dual.1080P.mkv"
-        },
-        {
-            "name": "Sangamarmar",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sangamarmar.(2026).S01E42-45.Dual.720P.mkv"
-        },
-        {
-            "name": "Raja Shivaji  HDTC-V2 Hindi LiNE",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Raja.Shivaji.(2026).HDTC-V2.Hindi.LiNE.480p.mkv"
-        },
-        {
-            "name": "The Great Indian Kapil Show",
+            "name": "Cruel Intentions 1999 Dual",
             "year": null,
-            "quality": "720P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Great.Indian.Kapil.Show.S05E01.720P.mkv"
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Cruel.Intentions.1999.Dual.1080p.mkv"
         },
         {
             "name": "MTV Splitsvilla X6",
@@ -657,10 +615,52 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]MTV.Splitsvilla.X6.(2026).S16E50.Hindi.720p.mkv"
         },
         {
+            "name": "Sa Re Ga Ma Pa 2025",
+            "year": null,
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.2025.S22E69.720p.mkv"
+        },
+        {
+            "name": "Resort",
+            "year": null,
+            "quality": "720P",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Resort.S01E29-32.720P.mkv"
+        },
+        {
+            "name": "Raja Shivaji  HDTC-V2 Hindi LiNE",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Raja.Shivaji.(2026).HDTC-V2.Hindi.LiNE.480p.mkv"
+        },
+        {
+            "name": "CID Bangla",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]CID.Bangla.S02E99.1080p.mkv"
+        },
+        {
+            "name": "Sangamarmar",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sangamarmar.(2026).S01E42-45.Dual.720P.mkv"
+        },
+        {
+            "name": "Sa Re Ga Ma Pa 2025",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.2025.S22E69.1080p.mkv"
+        },
+        {
             "name": "CID Bangla",
             "year": null,
             "quality": "720p",
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]CID.Bangla.S02E99.720p.mkv"
+        },
+        {
+            "name": "Naagin",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Naagin.S07E37.1080P.mkv"
         },
         {
             "name": "CID Bangla",
@@ -675,10 +675,16 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]MTV.Splitsvilla.X6.(2026).S16E50.Hindi.1080p.mkv"
         },
         {
-            "name": "Resort",
+            "name": "Raja Shivaji  HDTC-V2 Hindi LiNE",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Raja.Shivaji.(2026).HDTC-V2.Hindi.LiNE.1080p.mkv"
+        },
+        {
+            "name": "The Great Indian Kapil Show",
             "year": null,
             "quality": "720P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Resort.S01E29-32.720P.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Great.Indian.Kapil.Show.S05E01.720P.mkv"
         },
         {
             "name": "Raja Shivaji  HDTC-V2 Hindi LiNE",
@@ -689,8 +695,8 @@
         {
             "name": "Indian Idol",
             "year": "2025",
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Indian.Idol.(2025).S16E57.1080p.mkv"
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Indian.Idol.(2025).S16E57.720p.mkv"
         },
         {
             "name": "Resort",
@@ -699,10 +705,10 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Resort.S01E29-32.1080P.mkv"
         },
         {
-            "name": "CID Bangla",
-            "year": null,
+            "name": "Indian Idol",
+            "year": "2025",
             "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]CID.Bangla.S02E99.1080p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Indian.Idol.(2025).S16E57.1080p.mkv"
         },
         {
             "name": "The Great Indian Kapil Show",
@@ -711,16 +717,10 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]The.Great.Indian.Kapil.Show.S05E01.1080P.mkv"
         },
         {
-            "name": "Sa Re Ga Ma Pa 2025",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.2025.S22E69.1080p.mkv"
-        },
-        {
-            "name": "Naagin",
-            "year": null,
+            "name": "Sangamarmar",
+            "year": "2026",
             "quality": "1080P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Naagin.S07E37.1080P.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Sangamarmar.(2026).S01E42-45.Dual.1080P.mkv"
         },
         {
             "name": "[Arafta",
@@ -729,76 +729,10 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[[Fibwatch.Com]Arafta.S01E06-10.Hindi.720p.mkv"
         },
         {
-            "name": "User Not Found",
-            "year": null,
-            "quality": null,
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]User.Not.Found.S01E22.Bengali.mkv"
-        },
-        {
-            "name": "Kara  Telugu Pre-DVDRip",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Kara.(2026).Telugu.Pre-DVDRip.720p.mkv"
-        },
-        {
             "name": "Kara  Telugu Pre-DVDRip",
             "year": "2026",
             "quality": "1080p",
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Kara.(2026).Telugu.Pre-DVDRip.1080p.mkv"
-        },
-        {
-            "name": "Absolute Value of Romance",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Absolute.Value.of.Romance.S01E07-08.Dual.1080p.mkv"
-        },
-        {
-            "name": "Rishton Ki Aakhari Baazi",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Rishton.Ki.Aakhari.Baazi.(2026).1080p.mkv"
-        },
-        {
-            "name": "Vikram On Duty",
-            "year": null,
-            "quality": "720P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Vikram.On.Duty.S01E33-36.Dual.720P.mkv"
-        },
-        {
-            "name": "MTV Splitsvilla X6",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]MTV.Splitsvilla.X6.(2026).S16E49.Hindi.720p.mkv"
-        },
-        {
-            "name": "My Dearest Senorita 2026 Dual",
-            "year": null,
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]My.Dearest.Senorita.2026.Dual.720p.mkv"
-        },
-        {
-            "name": "My Dearest Senorita 2026 Dual",
-            "year": null,
-            "quality": "480p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]My.Dearest.Senorita.2026.Dual.480p..mkv"
-        },
-        {
-            "name": "My Dearest Senorita 2026 Dual",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]My.Dearest.Senorita.2026.Dual.1080p..mkv"
-        },
-        {
-            "name": "Wheel Of Fortune",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Wheel.Of.Fortune.(2026).S01E65.Hindi.720P.mkv"
-        },
-        {
-            "name": "Absolute Value of Romance",
-            "year": null,
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Absolute.Value.of.Romance.S01E07-08.Dual.720p.mkv"
         },
         {
             "name": "[Arafta",
@@ -807,10 +741,40 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[[Fibwatch.Com]Arafta.S01E06-10.Hindi.1080p.mkv"
         },
         {
-            "name": "Notun Premer Gaan",
-            "year": "2026",
+            "name": "My Dearest Senorita 2026 Dual",
+            "year": null,
             "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Notun.Premer.Gaan.(2026).1080p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]My.Dearest.Senorita.2026.Dual.1080p..mkv"
+        },
+        {
+            "name": "Vikram On Duty",
+            "year": null,
+            "quality": "720P",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Vikram.On.Duty.S01E33-36.Dual.720P.mkv"
+        },
+        {
+            "name": "Absolute Value of Romance",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Absolute.Value.of.Romance.S01E07-08.Dual.1080p.mkv"
+        },
+        {
+            "name": "Wheel Of Fortune",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Wheel.Of.Fortune.(2026).S01E65.Hindi.720P.mkv"
+        },
+        {
+            "name": "My Dearest Senorita 2026 Dual",
+            "year": null,
+            "quality": "480p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]My.Dearest.Senorita.2026.Dual.480p..mkv"
+        },
+        {
+            "name": "Kara  Telugu Pre-DVDRip",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Kara.(2026).Telugu.Pre-DVDRip.720p.mkv"
         },
         {
             "name": "Vikram On Duty",
@@ -825,6 +789,12 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]MTV.Splitsvilla.X6.(2026).S16E49.Hindi.1080p.mkv"
         },
         {
+            "name": "Notun Premer Gaan",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Notun.Premer.Gaan.(2026).720p.mkv"
+        },
+        {
             "name": "Rishton Ki Aakhari Baazi",
             "year": "2026",
             "quality": "720p",
@@ -833,8 +803,32 @@
         {
             "name": "Notun Premer Gaan",
             "year": "2026",
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Notun.Premer.Gaan.(2026).1080p.mkv"
+        },
+        {
+            "name": "MTV Splitsvilla X6",
+            "year": "2026",
             "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Notun.Premer.Gaan.(2026).720p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]MTV.Splitsvilla.X6.(2026).S16E49.Hindi.720p.mkv"
+        },
+        {
+            "name": "User Not Found",
+            "year": null,
+            "quality": null,
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]User.Not.Found.S01E22.Bengali.mkv"
+        },
+        {
+            "name": "Rishton Ki Aakhari Baazi",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Rishton.Ki.Aakhari.Baazi.(2026).1080p.mkv"
+        },
+        {
+            "name": "Absolute Value of Romance",
+            "year": null,
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Absolute.Value.of.Romance.S01E07-08.Dual.720p.mkv"
         },
         {
             "name": "Wheel Of Fortune",
@@ -843,16 +837,34 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]Wheel.Of.Fortune.(2026).S01E65.Hindi.1080P.mkv"
         },
         {
-            "name": "Biker  Dual",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Biker.(2026).Dual.480p.mkv"
+            "name": "My Dearest Senorita 2026 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/05/[Fibwatch.Com]My.Dearest.Senorita.2026.Dual.720p.mkv"
         },
         {
-            "name": "Glory",
+            "name": "Roktofolok",
             "year": "2026",
-            "quality": "480p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Glory.(2026).S01.Hindi.480p.mkv"
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Roktofolok.(2026).S01E01-06.Bangla.1080p.mkv"
+        },
+        {
+            "name": "Swapped 2026 Dual",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Swapped.2026.Dual.1080p.mkv"
+        },
+        {
+            "name": "Roktofolok",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Roktofolok.(2026).S01E01-06.Bangla.720p.mkv"
+        },
+        {
+            "name": "Biker  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Biker.(2026).Dual.720p.mkv"
         },
         {
             "name": "Roktofolok",
@@ -861,10 +873,10 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Roktofolok.(2026).S01E01-06.Bangla.480p.mkv"
         },
         {
-            "name": "Roktofolok",
+            "name": "Glory",
             "year": "2026",
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Roktofolok.(2026).S01E01-06.Bangla.720p.mkv"
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Glory.(2026).S01.Hindi.1080p.mkv"
         },
         {
             "name": "Happy Raj 2026 Dual",
@@ -875,38 +887,8 @@
         {
             "name": "Swapped 2026 Dual",
             "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Swapped.2026.Dual.1080p.mkv"
-        },
-        {
-            "name": "Swapped 2026 Dual",
-            "year": null,
-            "quality": "480p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Swapped.2026.Dual.480p..mkv"
-        },
-        {
-            "name": "Happy Raj 2026 Dual",
-            "year": null,
-            "quality": "480p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Happy.Raj.2026.Dual.480p.mkv"
-        },
-        {
-            "name": "Biker  Dual",
-            "year": "2026",
             "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Biker.(2026).Dual.720p.mkv"
-        },
-        {
-            "name": "Sapne Vs Everyone",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Sapne.Vs.Everyone.(2026).S02.Dual.480p.mkv"
-        },
-        {
-            "name": "Monarch Legacy of Monsters",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Monarch.Legacy.of.Monsters.S02E10.English.1080p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Swapped.2026.Dual.720p.mkv"
         },
         {
             "name": "Monarch Legacy of Monsters",
@@ -917,26 +899,8 @@
         {
             "name": "Sapne Vs Everyone",
             "year": "2026",
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Sapne.Vs.Everyone.(2026).S02.Dual.720p.mkv"
-        },
-        {
-            "name": "Biker  Dual",
-            "year": "2026",
             "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Biker.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "Swapped 2026 Dual",
-            "year": null,
-            "quality": "720p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Swapped.2026.Dual.720p.mkv"
-        },
-        {
-            "name": "Glory",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Glory.(2026).S01.Hindi.1080p.mkv"
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Sapne.Vs.Everyone.(2026).S02.Dual.1080p.mkv"
         },
         {
             "name": "Glory",
@@ -945,22 +909,58 @@
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Glory.(2026).S01.Hindi.720p.mkv"
         },
         {
+            "name": "Glory",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Glory.(2026).S01.Hindi.480p.mkv"
+        },
+        {
+            "name": "Sapne Vs Everyone",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Sapne.Vs.Everyone.(2026).S02.Dual.720p.mkv"
+        },
+        {
+            "name": "Monarch Legacy of Monsters",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Monarch.Legacy.of.Monsters.S02E10.English.1080p.mkv"
+        },
+        {
+            "name": "Biker  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Biker.(2026).Dual.1080p.mkv"
+        },
+        {
             "name": "Happy Raj 2026 Dual",
             "year": null,
             "quality": "720p",
             "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Happy.Raj.2026.Dual.720p.mkv"
         },
         {
-            "name": "Roktofolok",
+            "name": "Happy Raj 2026 Dual",
+            "year": null,
+            "quality": "480p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Happy.Raj.2026.Dual.480p.mkv"
+        },
+        {
+            "name": "Biker  Dual",
             "year": "2026",
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Roktofolok.(2026).S01E01-06.Bangla.1080p.mkv"
+            "quality": "480p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Biker.(2026).Dual.480p.mkv"
         },
         {
             "name": "Sapne Vs Everyone",
             "year": "2026",
-            "quality": "1080p",
-            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Sapne.Vs.Everyone.(2026).S02.Dual.1080p.mkv"
+            "quality": "480p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Sapne.Vs.Everyone.(2026).S02.Dual.480p.mkv"
+        },
+        {
+            "name": "Swapped 2026 Dual",
+            "year": null,
+            "quality": "480p",
+            "link": "https://afgnh.b-cdn.net/s3/upload/videos/2026/04/[Fibwatch.Com]Swapped.2026.Dual.480p..mkv"
         }
     ]
 }
