@@ -1,102 +1,30 @@
 {
     "made_by": "@siam3310",
-    "last_update_time": "2026-07-18 06:27:20 UTC",
+    "last_update_time": "2026-07-18 08:16:18 UTC",
     "scraped_media": [
         {
-            "name": "Agent Kim Reactivated",
+            "name": "The East Palace",
             "year": null,
             "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Agent.Kim.Reactivated.S01E07.Dual.1080p.mkv"
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.East.Palace.S01E01-04.Dual.1080p.mkv"
+        },
+        {
+            "name": "The East Palace",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.East.Palace.S01E05-08.Dual.1080p.mkv"
+        },
+        {
+            "name": "The East Palace",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.East.Palace.S01E05-08.Dual.720p.mkv"
         },
         {
             "name": "Alliance",
             "year": "2026",
             "quality": "1080p",
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E23.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E22.Hindi.1080p.mkv"
-        },
-        {
-            "name": "The Map of Longing",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Map.of.Longing.(2026).S01.Dual.720p.mkv"
-        },
-        {
-            "name": "The Map of Longing",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Map.of.Longing.(2026).S01.Dual.480p.mkv"
-        },
-        {
-            "name": "Vikram On Duty",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Vikram.On.Duty.S01E77-80.Dual.1080P.mkv"
-        },
-        {
-            "name": "The Map of Longing",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Map.of.Longing.(2026).S01.Dual.1080p.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E25.Hindi.720p.mkv"
-        },
-        {
-            "name": "Indias Got Latent",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Got.Latent.S02E03.1080p.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E23.Hindi.720p.mkv"
-        },
-        {
-            "name": "Agent Kim Reactivated",
-            "year": null,
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Agent.Kim.Reactivated.S01E06.Dual.720p.mkv"
-        },
-        {
-            "name": "Agent Kim Reactivated",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Agent.Kim.Reactivated.S01E06.Dual.1080p.mkv"
-        },
-        {
-            "name": "Vikram On Duty",
-            "year": null,
-            "quality": "720P",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Vikram.On.Duty.S01E77-80.Dual.720P.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E22.Hindi.720p.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E24.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E24.Hindi.720p.mkv"
         },
         {
             "name": "Agent Kim Reactivated",
@@ -108,13 +36,157 @@
             "name": "Alliance",
             "year": "2026",
             "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E22.Hindi.1080p.mkv"
+        },
+        {
+            "name": "The Map of Longing",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Map.of.Longing.(2026).S01.Dual.1080p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E24.Hindi.720p.mkv"
+        },
+        {
+            "name": "Agent Kim Reactivated",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Agent.Kim.Reactivated.S01E07.Dual.1080p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E24.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Agent Kim Reactivated",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Agent.Kim.Reactivated.S01E06.Dual.720p.mkv"
+        },
+        {
+            "name": "The Map of Longing",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Map.of.Longing.(2026).S01.Dual.480p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E25.Hindi.720p.mkv"
+        },
+        {
+            "name": "The East Palace",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.East.Palace.S01E01-04.Dual.720p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "1080p",
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E25.Hindi.1080p.mkv"
+        },
+        {
+            "name": "The Map of Longing",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Map.of.Longing.(2026).S01.Dual.720p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E26.Hindi.720p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E22.Hindi.720p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E26.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E23.Hindi.720p.mkv"
+        },
+        {
+            "name": "The Odyssey 2026 Dual HDTS",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Odyssey.2026.Dual.HDTS.1080p.mkv"
+        },
+        {
+            "name": "Abar Hawa Bodol  Bengali",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Abar.Hawa.Bodol.(2026).Bengali.480p.mkv"
         },
         {
             "name": "Cousins and Kalyanams",
             "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Cousins.and.Kalyanams.S01E29-32.Dual.1080p.mkv"
+        },
+        {
+            "name": "Maa Inti Bangaram  Bengali Dubbed",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Maa.Inti.Bangaram.(2026).Bengali.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Desire 2026 Multi",
+            "year": null,
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Desire.2026.Multi.480p.mkv"
+        },
+        {
+            "name": "The Odyssey 2026 Dual HDTS",
+            "year": null,
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Odyssey.2026.Dual.HDTS.480p.mkv"
+        },
+        {
+            "name": "Agent Kim Reactivated",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Agent.Kim.Reactivated.S01E06.Dual.1080p.mkv"
+        },
+        {
+            "name": "Abar Hawa Bodol  Bengali",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Abar.Hawa.Bodol.(2026).Bengali.1080p.mkv"
+        },
+        {
+            "name": "13 Days 13 Nights  Dual",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]13.Days.13.Nights.(2025).Dual.1080p.mkv"
+        },
+        {
+            "name": "The Odyssey 2026 Dual HDTS",
+            "year": null,
             "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Cousins.and.Kalyanams.S01E29-32.Dual.720p.mkv"
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Odyssey.2026.Dual.HDTS.720p.mkv"
+        },
+        {
+            "name": "13 Days 13 Nights  Dual",
+            "year": "2025",
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]13.Days.13.Nights.(2025).Dual.480p.mkv"
         },
         {
             "name": "Indias Got Latent",
@@ -123,22 +195,190 @@
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Got.Latent.S02E03.720p.mkv"
         },
         {
+            "name": "13 Days 13 Nights  Dual",
+            "year": "2025",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]13.Days.13.Nights.(2025).Dual.720p.mkv"
+        },
+        {
+            "name": "Vikram On Duty",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Vikram.On.Duty.S01E77-80.Dual.1080P.mkv"
+        },
+        {
+            "name": "Vikram On Duty",
+            "year": null,
+            "quality": "720P",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Vikram.On.Duty.S01E77-80.Dual.720P.mkv"
+        },
+        {
+            "name": "Cousins and Kalyanams",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Cousins.and.Kalyanams.S01E29-32.Dual.720p.mkv"
+        },
+        {
+            "name": "Desire 2026 Multi",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Desire.2026.Multi.720p.mkv"
+        },
+        {
+            "name": "Maa Inti Bangaram  Bengali Dubbed",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Maa.Inti.Bangaram.(2026).Bengali.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Indias Got Latent",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Got.Latent.S02E03.1080p.mkv"
+        },
+        {
+            "name": "Abar Hawa Bodol  Bengali",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Abar.Hawa.Bodol.(2026).Bengali.720p.mkv"
+        },
+        {
+            "name": "Khamosh Aahatein",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Khamosh.Aahatein.(2026).S01E07-12.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Sultan Abdul Hamid",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E162.Bengali.ORG.1080p.mkv"
+        },
+        {
+            "name": "23 000 Lives  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]23.000.Lives.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Perfect Family",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Perfect.Family.(2026).S02E07-08.Hindi.720p.mkv"
+        },
+        {
+            "name": "Desire 2026 Multi",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Desire.2026.Multi.1080p.mkv"
+        },
+        {
+            "name": "Maa Inti Bangaaram  Multi",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Maa.Inti.Bangaaram.(2026).Multi.720p.mkv"
+        },
+        {
+            "name": "23 000 Lives  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]23.000.Lives.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Thukra Ke Mera Pyaar",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Thukra.Ke.Mera.Pyaar.S02E17-20.Dual.720p.mkv"
+        },
+        {
+            "name": "Maa Inti Bangaaram  Multi",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Maa.Inti.Bangaaram.(2026).Multi.1080p.mkv"
+        },
+        {
+            "name": "Sultan Abdul Hamid",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E162.Bengali.ORG.720p.mkv"
+        },
+        {
+            "name": "Me Before Me 2026 Dual",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Me.Before.Me.2026.Dual.1080p.mkv"
+        },
+        {
+            "name": "Khamosh Aahatein",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Khamosh.Aahatein.(2026).S01E01-06.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Resort",
+            "year": null,
+            "quality": "720P",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Resort.S01E73-76.720P.mkv"
+        },
+        {
+            "name": "Thukra Ke Mera Pyaar",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Thukra.Ke.Mera.Pyaar.S02E17-20.Dual.1080p..mkv"
+        },
+        {
+            "name": "Me Before Me 2026 Dual",
+            "year": null,
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Me.Before.Me.2026.Dual.480p.mkv"
+        },
+        {
+            "name": "Me Before Me 2026 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Me.Before.Me.2026.Dual.720p.mkv"
+        },
+        {
+            "name": "23 000 Lives  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]23.000.Lives.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Khamosh Aahatein",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Khamosh.Aahatein.(2026).S01E01-06.Hindi.720p.mkv"
+        },
+        {
+            "name": "Perfect Family",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Perfect.Family.(2026).S02E07-08.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Khamosh Aahatein",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Khamosh.Aahatein.(2026).S01E07-12.Hindi.720p.mkv"
+        },
+        {
+            "name": "Saptadingar Guptodhon  Bengali",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Saptadingar.Guptodhon.(2026).Bengali.1080p.mkv"
+        },
+        {
             "name": "Virginpur",
             "year": "2026",
             "quality": "480p",
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Virginpur.(2026).S01.480p.mkv"
         },
         {
-            "name": "Bachelor Point",
+            "name": "Desert Warrior 2026 Dual",
             "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E101-104.1080p.mkv"
-        },
-        {
-            "name": "LBW Love Beyond Wicket",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]LBW.Love.Beyond.Wicket.(2026).S01E109-112.Dual.1080P.mkv"
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Desert.Warrior.2026.Dual.480p.mkv"
         },
         {
             "name": "Brothers and Sisters",
@@ -147,16 +387,52 @@
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Brothers.and.Sisters.S01E29-32.Dual.720P.mkv"
         },
         {
-            "name": "Batchmates",
+            "name": "Virginpur",
             "year": "2026",
             "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Batchmates.(2026).S01E45-48.Hindi.720p.mkv"
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Virginpur.(2026).S01.720p.mkv"
         },
         {
-            "name": "Bachelor Point",
+            "name": "Desert Warrior 2026 Dual",
             "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Desert.Warrior.2026.Dual.1080p.mkv"
+        },
+        {
+            "name": "Resort",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Resort.S01E73-76.1080P.mkv"
+        },
+        {
+            "name": "LBW Love Beyond Wicket",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]LBW.Love.Beyond.Wicket.(2026).S01E109-112.Dual.1080P.mkv"
+        },
+        {
+            "name": "Saptadingar Guptodhon  Bengali",
+            "year": "2026",
             "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E101-104.720p.mkv"
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Saptadingar.Guptodhon.(2026).Bengali.720p.mkv"
+        },
+        {
+            "name": "Shanmukha  Dual",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Shanmukha.(2025).Dual.1080p.mkv"
+        },
+        {
+            "name": "LBW Love Beyond Wicket",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]LBW.Love.Beyond.Wicket.(2026).S01E109-112.Dual.720P.mkv"
+        },
+        {
+            "name": "Saptadingar Guptodhon  Bengali",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Saptadingar.Guptodhon.(2026).Bengali.480p.mkv"
         },
         {
             "name": "Brothers and Sisters",
@@ -165,10 +441,46 @@
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Brothers.and.Sisters.S01E29-32.Dual.1080P.mkv"
         },
         {
-            "name": "LBW Love Beyond Wicket",
+            "name": "Shanmukha  Dual",
+            "year": "2025",
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Shanmukha.(2025).Dual.480p.mkv"
+        },
+        {
+            "name": "Batchmates",
             "year": "2026",
-            "quality": "720P",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]LBW.Love.Beyond.Wicket.(2026).S01E109-112.Dual.720P.mkv"
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Batchmates.(2026).S01E45-48.Hindi.720p.mkv"
+        },
+        {
+            "name": "Atonko",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Atonko.(2026).S01E19-24.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Batchmates",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Batchmates.(2026).S01E45-48.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Shanmukha  Dual",
+            "year": "2025",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Shanmukha.(2025).Dual.720p.mkv"
+        },
+        {
+            "name": "Atonko",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Atonko.(2026).S01E19-24.Bengali.720p.mkv"
+        },
+        {
+            "name": "Desert Warrior 2026 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Desert.Warrior.2026.Dual.720p.mkv"
         },
         {
             "name": "Love Per Square Foot 2018 Hindi",
@@ -179,14 +491,8 @@
         {
             "name": "Bachelor Point",
             "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E103.1080p.mkv"
-        },
-        {
-            "name": "Love Per Square Foot 2018 Hindi",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Love.Per.Square.Foot.2018.Hindi.1080p.mkv"
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E101.720p.mkv"
         },
         {
             "name": "Bachelor Point",
@@ -195,22 +501,10 @@
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E104.1080p.mkv"
         },
         {
-            "name": "Bachelor Point",
-            "year": null,
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E102.720p.mkv"
-        },
-        {
-            "name": "Virginpur",
+            "name": "The Hawk",
             "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Virginpur.(2026).S01.720p.mkv"
-        },
-        {
-            "name": "Bachelor Point",
-            "year": null,
             "quality": "480p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E101-104.480p.mkv"
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Hawk.(2026).S01.Dual.480p.mkv"
         },
         {
             "name": "Virginpur",
@@ -227,98 +521,8 @@
         {
             "name": "Bachelor Point",
             "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E102.1080p.mkv"
-        },
-        {
-            "name": "Batchmates",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Batchmates.(2026).S01E45-48.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Bachelor Point",
-            "year": null,
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E104.720p.mkv"
-        },
-        {
-            "name": "Ride or Die",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ride.or.Die.(2026).S01.Dual.1080p.mkv"
-        },
-        {
-            "name": "The Hawk",
-            "year": "2026",
             "quality": "480p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Hawk.(2026).S01.Dual.480p.mkv"
-        },
-        {
-            "name": "Bachelor Point",
-            "year": null,
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E101.720p.mkv"
-        },
-        {
-            "name": "Ride or Die",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ride.or.Die.(2026).S01.Dual.720p.mkv"
-        },
-        {
-            "name": "Mejo Babu  Bengali",
-            "year": "2009",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Mejo.Babu.(2009).Bengali.1080p.mkv"
-        },
-        {
-            "name": "Bachelor Point",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E101.1080p.mkv"
-        },
-        {
-            "name": "Raktanchal",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Raktanchal.(2026).S03.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Ride or Die",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ride.or.Die.(2026).S01.Dual.480p.mkv"
-        },
-        {
-            "name": "Raktanchal",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Raktanchal.(2026).S03.Hindi.720p.mkv"
-        },
-        {
-            "name": "Raktanchal",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Raktanchal.(2026).S03.Hindi.480p.mkv"
-        },
-        {
-            "name": "Badla 2009 Bengali",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Badla.2009.Bengali.1080p.mkv"
-        },
-        {
-            "name": "Mejo Babu  Bengali",
-            "year": "2009",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Mejo.Babu.(2009).Bengali.720p.mkv"
-        },
-        {
-            "name": "The Hawk",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Hawk.(2026).S01.Dual.720p.mkv"
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E101-104.480p.mkv"
         },
         {
             "name": "Adbhoot  Bengali",
@@ -327,10 +531,52 @@
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Adbhoot.(2013).Bengali.720p.mkv"
         },
         {
-            "name": "Badla 2009 Bengali",
+            "name": "The Hawk",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Hawk.(2026).S01.Dual.720p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
             "year": null,
             "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Badla.2009.Bengali.720p.mkv"
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E101-104.720p.mkv"
+        },
+        {
+            "name": "Love Per Square Foot 2018 Hindi",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Love.Per.Square.Foot.2018.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E102.1080p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E101.1080p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E102.720p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E104.720p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E103.1080p.mkv"
         },
         {
             "name": "Adbhoot  Bengali",
@@ -339,16 +585,16 @@
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Adbhoot.(2013).Bengali.1080p.mkv"
         },
         {
-            "name": "DayMukti  Bangla",
-            "year": "2025",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]DayMukti.(2025).Bangla.720p.mkv"
+            "name": "Raktanchal",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Raktanchal.(2026).S03.Hindi.480p.mkv"
         },
         {
-            "name": "DayMukti  Bangla",
-            "year": "2025",
+            "name": "Bachelor Point",
+            "year": null,
             "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]DayMukti.(2025).Bangla.1080p.mkv"
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bachelor.Point.S05E101-104.1080p.mkv"
         },
         {
             "name": "The Hawk",
@@ -357,58 +603,58 @@
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Hawk.(2026).S01.Dual.1080p.mkv"
         },
         {
+            "name": "Mejo Babu  Bengali",
+            "year": "2009",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Mejo.Babu.(2009).Bengali.1080p.mkv"
+        },
+        {
+            "name": "DayMukti  Bangla",
+            "year": "2025",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]DayMukti.(2025).Bangla.720p.mkv"
+        },
+        {
+            "name": "Ride or Die",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ride.or.Die.(2026).S01.Dual.1080p.mkv"
+        },
+        {
+            "name": "Badla 2009 Bengali",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Badla.2009.Bengali.720p.mkv"
+        },
+        {
+            "name": "Mejo Babu  Bengali",
+            "year": "2009",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Mejo.Babu.(2009).Bengali.720p.mkv"
+        },
+        {
             "name": "DayMukti  Bangla",
             "year": "2025",
             "quality": "480p",
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]DayMukti.(2025).Bangla.480p.mkv"
         },
         {
+            "name": "DayMukti  Bangla",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]DayMukti.(2025).Bangla.1080p.mkv"
+        },
+        {
             "name": "Ek Din",
             "year": "2026",
-            "quality": "480p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ek.Din.(2026).480p.mkv"
-        },
-        {
-            "name": "Tribhanga  Hindi",
-            "year": "2021",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Tribhanga.(2021).Hindi.1080p.mkv"
-        },
-        {
-            "name": "Honey Bunch  Dual",
-            "year": "2025",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Honey.Bunch.(2025).Dual.1080p.mkv"
-        },
-        {
-            "name": "Royal  Dual",
-            "year": "2025",
-            "quality": "480p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Royal.(2025).Dual.480p.mkv"
-        },
-        {
-            "name": "Honey Bunch  Dual",
-            "year": "2025",
             "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Honey.Bunch.(2025).Dual.720p.mkv"
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ek.Din.(2026).720p.mkv"
         },
         {
-            "name": "Royal  Dual",
-            "year": "2025",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Royal.(2025).Dual.1080p.mkv"
-        },
-        {
-            "name": "Gopal Bhar",
-            "year": null,
-            "quality": null,
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Gopal.Bhar.S13E1263-1268.mkv"
-        },
-        {
-            "name": "Tribhanga  Hindi",
-            "year": "2021",
+            "name": "Ride or Die",
+            "year": "2026",
             "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Tribhanga.(2021).Hindi.720p.mkv"
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ride.or.Die.(2026).S01.Dual.720p.mkv"
         },
         {
             "name": "FIFA WC 2026 SF England vs Argentina",
@@ -417,34 +663,46 @@
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]FIFA.WC.2026.SF.England.vs.Argentina.mkv"
         },
         {
+            "name": "Badla 2009 Bengali",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Badla.2009.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Royal  Dual",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Royal.(2025).Dual.1080p.mkv"
+        },
+        {
+            "name": "Ek Din",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ek.Din.(2026).480p.mkv"
+        },
+        {
             "name": "Honey Bunch  Dual",
             "year": "2025",
             "quality": "480p",
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Honey.Bunch.(2025).Dual.480p.mkv"
         },
         {
-            "name": "Alliance",
+            "name": "Raktanchal",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Raktanchal.(2026).S03.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Raktanchal",
             "year": "2026",
             "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E21.Hindi.720p.mkv"
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Raktanchal.(2026).S03.Hindi.720p.mkv"
         },
         {
-            "name": "Aajo Ardhangini 2026 Bangla HDTC",
-            "year": null,
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Aajo.Ardhangini.2026.Bangla.HDTC.720p.mkv"
-        },
-        {
-            "name": "Aajo Ardhangini 2026 Bangla HDTC",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Aajo.Ardhangini.2026.Bangla.HDTC.1080p.mkv"
-        },
-        {
-            "name": "See You at Work Tomorrow",
-            "year": null,
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E08.Dual.720p.mkv"
+            "name": "Royal  Dual",
+            "year": "2025",
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Royal.(2025).Dual.480p.mkv"
         },
         {
             "name": "Ek Din",
@@ -459,76 +717,10 @@
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Royal.(2025).Dual.720p.mkv"
         },
         {
-            "name": "Ek Din",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ek.Din.(2026).720p.mkv"
-        },
-        {
-            "name": "Aajo Ardhangini 2026 Bangla HDTC",
-            "year": null,
-            "quality": "480p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Aajo.Ardhangini.2026.Bangla.HDTC.480p.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E21.Hindi.1080p.mkv"
-        },
-        {
-            "name": "See You at Work Tomorrow",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E08.Dual.1080p.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E20.Hindi.720p.mkv"
-        },
-        {
-            "name": "Is God Is  Dual",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Is.God.Is.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "Family Feud",
-            "year": null,
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Family.Feud.S02E24.720p.mkv"
-        },
-        {
-            "name": "Fever 2016 Hindi",
-            "year": null,
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Fever.2016.Hindi.720p.mkv"
-        },
-        {
-            "name": "Is God Is  Dual",
+            "name": "Ride or Die",
             "year": "2026",
             "quality": "480p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Is.God.Is.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "Lock Upp",
-            "year": null,
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E14.Hindi.720p..mkv"
-        },
-        {
-            "name": "Is God Is  Dual",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Is.God.Is.(2026).Dual.720p.mkv"
-        },
-        {
-            "name": "Sultan Abdul Hamid",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E161.Bengali.ORG.1080p.mkv"
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ride.or.Die.(2026).S01.Dual.480p.mkv"
         },
         {
             "name": "Fever 2016 Hindi",
@@ -537,10 +729,28 @@
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Fever.2016.Hindi.1080p.mkv"
         },
         {
-            "name": "The Breadwinner 2026 Dual",
+            "name": "Bakcrooms 2026 English",
             "year": null,
             "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Breadwinner.2026.Dual.1080p.mkv"
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bakcrooms.2026.English.1080p.mkv"
+        },
+        {
+            "name": "Aajo Ardhangini 2026 Bangla HDTC",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Aajo.Ardhangini.2026.Bangla.HDTC.720p.mkv"
+        },
+        {
+            "name": "Honey Bunch  Dual",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Honey.Bunch.(2025).Dual.1080p.mkv"
+        },
+        {
+            "name": "Tribhanga  Hindi",
+            "year": "2021",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Tribhanga.(2021).Hindi.1080p.mkv"
         },
         {
             "name": "Real Time Love",
@@ -549,10 +759,16 @@
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Real.Time.Love.(2026).S03E08.mkv"
         },
         {
-            "name": "Ladder 49 2004 Dual",
+            "name": "Family Feud",
             "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Family.Feud.S02E24.720p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
             "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ladder.49.2004.Dual.1080p.mkv"
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E21.Hindi.1080p.mkv"
         },
         {
             "name": "Sultan Abdul Hamid",
@@ -561,34 +777,22 @@
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E161.Bengali.ORG.720p.mkv"
         },
         {
-            "name": "Lock Upp",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E14.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Bakcrooms 2026 English",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bakcrooms.2026.English.1080p.mkv"
-        },
-        {
-            "name": "Ladder 49 2004 Dual",
-            "year": null,
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ladder.49.2004.Dual.720p.mkv"
-        },
-        {
-            "name": "The Breadwinner 2026 Dual",
-            "year": null,
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Breadwinner.2026.Dual.720p.mkv"
-        },
-        {
             "name": "Bakcrooms 2026 English",
             "year": null,
             "quality": "720p",
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Bakcrooms.2026.English.720p.mkv"
+        },
+        {
+            "name": "Aajo Ardhangini 2026 Bangla HDTC",
+            "year": null,
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Aajo.Ardhangini.2026.Bangla.HDTC.480p.mkv"
+        },
+        {
+            "name": "Gopal Bhar",
+            "year": null,
+            "quality": null,
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Gopal.Bhar.S13E1263-1268.mkv"
         },
         {
             "name": "Family Feud",
@@ -597,10 +801,58 @@
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Family.Feud.S02E24.1080p.mkv"
         },
         {
+            "name": "See You at Work Tomorrow",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E08.Dual.720p.mkv"
+        },
+        {
+            "name": "Tribhanga  Hindi",
+            "year": "2021",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Tribhanga.(2021).Hindi.720p.mkv"
+        },
+        {
+            "name": "See You at Work Tomorrow",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E08.Dual.1080p.mkv"
+        },
+        {
+            "name": "Aajo Ardhangini 2026 Bangla HDTC",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Aajo.Ardhangini.2026.Bangla.HDTC.1080p.mkv"
+        },
+        {
+            "name": "Honey Bunch  Dual",
+            "year": "2025",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Honey.Bunch.(2025).Dual.720p.mkv"
+        },
+        {
+            "name": "Fever 2016 Hindi",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Fever.2016.Hindi.720p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E21.Hindi.720p.mkv"
+        },
+        {
             "name": "The Breadwinner 2026 Dual",
             "year": null,
-            "quality": "480p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Breadwinner.2026.Dual.480p.mkv"
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Breadwinner.2026.Dual.1080p.mkv"
+        },
+        {
+            "name": "Lock Upp",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E14.Hindi.720p..mkv"
         },
         {
             "name": "Pinjar  Bengali HQ HDTC",
@@ -609,10 +861,22 @@
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Pinjar.(2026).Bengali.HQ.HDTC.480p.mkv"
         },
         {
+            "name": "Is God Is  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Is.God.Is.(2026).Dual.480p.mkv"
+        },
+        {
             "name": "Pinjar  Bengali HQ HDTC",
             "year": "2026",
             "quality": "720p",
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Pinjar.(2026).Bengali.HQ.HDTC.720p.mkv"
+        },
+        {
+            "name": "See You at Work Tomorrow",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E07.Dual.1080p.mkv"
         },
         {
             "name": "Pinjar  Bengali HQ HDTC",
@@ -627,172 +891,76 @@
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E20.Hindi.1080p.mkv"
         },
         {
+            "name": "Ladder 49 2004 Dual",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ladder.49.2004.Dual.1080p.mkv"
+        },
+        {
+            "name": "Sultan Abdul Hamid",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E161.Bengali.ORG.1080p.mkv"
+        },
+        {
+            "name": "Brazentina Club",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Brazentina.Club.(2026).S01E02.1080P.mkv"
+        },
+        {
+            "name": "Ladder 49 2004 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ladder.49.2004.Dual.720p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E20.Hindi.720p.mkv"
+        },
+        {
+            "name": "The Breadwinner 2026 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Breadwinner.2026.Dual.720p.mkv"
+        },
+        {
+            "name": "The Breadwinner 2026 Dual",
+            "year": null,
+            "quality": "480p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Breadwinner.2026.Dual.480p.mkv"
+        },
+        {
+            "name": "Is God Is  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Is.God.Is.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Is God Is  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Is.God.Is.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Brazentina Club",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Brazentina.Club.(2026).S01E02.720P.mkv"
+        },
+        {
             "name": "See You at Work Tomorrow",
             "year": null,
             "quality": "720p",
             "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E07.Dual.720p.mkv"
         },
         {
-            "name": "See You at Work Tomorrow",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E07.Dual.1080p.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E19.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Lock Upp",
-            "year": null,
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E12.Hindi.720p.mkv"
-        },
-        {
-            "name": "Indias Best Dancer",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Best.Dancer.S05E12.1080P.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E18.Hindi.720p.mkv"
-        },
-        {
-            "name": "Dadagiri Unlimited",
-            "year": null,
-            "quality": "720P",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E03.720P.mkv"
-        },
-        {
             "name": "Lock Upp",
             "year": null,
             "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E12.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Queens",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Queens.(2026).S01.Hindi.Dubbed.720p.mkv"
-        },
-        {
-            "name": "Lock Upp",
-            "year": null,
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E13.Hindi.720p.mkv"
-        },
-        {
-            "name": "Football Hottogoal  Bangla",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Football.Hottogoal.(2026).Bangla.720p.mkv"
-        },
-        {
-            "name": "Dadagiri Unlimited",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E03.1080P.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E19.Hindi.720p.mkv"
-        },
-        {
-            "name": "Brazentina Club",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Brazentina.Club.(2026).S01E01.1080P.mkv"
-        },
-        {
-            "name": "Football Hottogoal  Bangla",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Football.Hottogoal.(2026).Bangla.1080p.mkv"
-        },
-        {
-            "name": "Queens",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Queens.(2026).S01.Hindi.Dubbed.1080p.mkv"
-        },
-        {
-            "name": "Brazentina Club",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Brazentina.Club.(2026).S01E01.720P.mkv"
-        },
-        {
-            "name": "Dadagiri Unlimited",
-            "year": null,
-            "quality": "480P",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E03.480P.mkv"
-        },
-        {
-            "name": "Queens",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Queens.(2026).S01.Hindi.Dubbed.480p.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E18.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Laughter Chefs Unlimited Entertainment",
-            "year": null,
-            "quality": "720P",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E67.Hindi.720P.mkv"
-        },
-        {
-            "name": "Lock Upp",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E13.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Sultan Abdul Hamid",
-            "year": null,
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E160.Bengali.ORG.720p.mkv"
-        },
-        {
-            "name": "Family Feud",
-            "year": null,
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Family.Feud.S02E23.720p.mkv"
-        },
-        {
-            "name": "Sultan Abdul Hamid",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Sultan.Abdul.Hamid.S01E160.Bengali.ORG.1080p.mkv"
-        },
-        {
-            "name": "Indian Idol",
-            "year": "2025",
-            "quality": "720p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indian.Idol.(2025).S16E77.720p.mkv"
-        },
-        {
-            "name": "Laughter Chefs Unlimited Entertainment",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E67.Hindi.1080P.mkv"
-        },
-        {
-            "name": "Family Feud",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Family.Feud.S02E23.1080p.mkv"
+            "link": "https://wgnjm.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E14.Hindi.1080p.mkv"
         }
     ]
 }
