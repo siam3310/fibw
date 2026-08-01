@@ -1,25 +1,7 @@
 {
     "made_by": "@siam3310",
-    "last_update_time": "2026-08-01 20:46:23 UTC",
+    "last_update_time": "2026-08-01 21:52:38 UTC",
     "scraped_media": [
-        {
-            "name": "Arafta",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Arafta.(2026).S02E01.Dual.1080p.mkv"
-        },
-        {
-            "name": "You Always  Dual",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]You.Always.(2026).Dual.720p.mkv"
-        },
-        {
-            "name": "Chum 2026 Dual",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Chum.2026.Dual.1080p.mkv"
-        },
         {
             "name": "Lock Upp",
             "year": null,
@@ -27,46 +9,16 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E30.Hindi.1080p.mkv"
         },
         {
-            "name": "Cousins and Kalyanams",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Cousins.and.Kalyanams.S01E37-40.Dual.720p.mkv"
-        },
-        {
-            "name": "Vikram On Duty",
-            "year": null,
-            "quality": "720P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Vikram.On.Duty.S01E85-88.Dual.720P.mkv"
-        },
-        {
-            "name": "Thukra Ke Mera Pyaar",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Thukra.Ke.Mera.Pyaar.S02E26-29.Dual.1080p.mkv"
-        },
-        {
             "name": "Soulm8te 2026 English",
             "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Soulm8te.2026.English.720p.mkv"
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Soulm8te.2026.English.1080p.mkv"
         },
         {
             "name": "Arafta",
             "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Arafta.(2026).S02E02.Dual.720p.mkv"
-        },
-        {
-            "name": "Vikram On Duty",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Vikram.On.Duty.S01E85-88.Dual.1080P.mkv"
-        },
-        {
-            "name": "You Always  Dual",
-            "year": "2026",
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]You.Always.(2026).Dual.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Arafta.(2026).S02E01.Dual.1080p.mkv"
         },
         {
             "name": "Arafta",
@@ -75,10 +27,58 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Arafta.(2026).S02E02.Dual.1080p.mkv"
         },
         {
+            "name": "Thukra Ke Mera Pyaar",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Thukra.Ke.Mera.Pyaar.S02E26-29.Dual.720p.mkv"
+        },
+        {
+            "name": "Arafta",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Arafta.(2026).S02E02.Dual.720p.mkv"
+        },
+        {
             "name": "Chotoder Chobi 2015 Bangla",
             "year": null,
             "quality": null,
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Chotoder.Chobi.2015.Bangla.mkv"
+        },
+        {
+            "name": "Chum 2026 Dual",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Chum.2026.Dual.1080p.mkv"
+        },
+        {
+            "name": "Cousins and Kalyanams",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Cousins.and.Kalyanams.S01E37-40.Dual.720p.mkv"
+        },
+        {
+            "name": "Thukra Ke Mera Pyaar",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Thukra.Ke.Mera.Pyaar.S02E26-29.Dual.1080p.mkv"
+        },
+        {
+            "name": "Vikram On Duty",
+            "year": null,
+            "quality": "720P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Vikram.On.Duty.S01E85-88.Dual.720P.mkv"
+        },
+        {
+            "name": "You Always  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]You.Always.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Ladies in Black  Dual",
+            "year": "2018",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ladies.in.Black.(2018).Dual.720p.mkv"
         },
         {
             "name": "You Always  Dual",
@@ -89,8 +89,20 @@
         {
             "name": "Soulm8te 2026 English",
             "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Soulm8te.2026.English.1080p.mkv"
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Soulm8te.2026.English.720p.mkv"
+        },
+        {
+            "name": "Vikram On Duty",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Vikram.On.Duty.S01E85-88.Dual.1080P.mkv"
+        },
+        {
+            "name": "You Always  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]You.Always.(2026).Dual.720p.mkv"
         },
         {
             "name": "Lock Upp",
@@ -105,40 +117,10 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ladies.in.Black.(2018).Dual.1080p.mkv"
         },
         {
-            "name": "Thukra Ke Mera Pyaar",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Thukra.Ke.Mera.Pyaar.S02E26-29.Dual.720p.mkv"
-        },
-        {
             "name": "Chum 2026 Dual",
             "year": null,
             "quality": "720p",
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Chum.2026.Dual.720p.mkv"
-        },
-        {
-            "name": "Ladies in Black  Dual",
-            "year": "2018",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ladies.in.Black.(2018).Dual.720p.mkv"
-        },
-        {
-            "name": "Dadagiri Unlimited",
-            "year": null,
-            "quality": "720P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E07.720P.mkv"
-        },
-        {
-            "name": "Lock Upp",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E25.Hindi.720p.mkv"
-        },
-        {
-            "name": "[The Apartment Job",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[[Fibwatch.Com]The.Apartment.Job.S01E06.Dual.720p.mkv"
         },
         {
             "name": "Doomsday  Dual",
@@ -147,28 +129,10 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Doomsday.(2008).Dual.mkv"
         },
         {
-            "name": "Brazentina Club",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Brazentina.Club.(2026).S01E04-06.720P.mkv"
-        },
-        {
-            "name": "Campus Beats",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Campus.Beats.(2026).S07.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Missing 2009 Dual",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Missing.2009.Dual.1080p.mkv"
-        },
-        {
-            "name": "Doomsday  Dual BluRay",
-            "year": "2015",
+            "name": "Dex Hamilton and the Doomsday Swarm  Dual",
+            "year": "2012",
             "quality": null,
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Doomsday.(2015).Dual.BluRay.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dex.Hamilton.and.the.Doomsday.Swarm.(2012).Dual.mkv"
         },
         {
             "name": "Dadagiri Unlimited",
@@ -177,16 +141,10 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E07.480P.mkv"
         },
         {
-            "name": "[The Apartment Job",
+            "name": "Office e Prem",
             "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[[Fibwatch.Com]The.Apartment.Job.S01E06.Dual.1080p.mkv"
-        },
-        {
-            "name": "Spooky in Love",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Spooky.in.Love.S01E04.Dual.1080p.mkv"
+            "quality": null,
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Office.e.Prem.S01E01-02.mkv"
         },
         {
             "name": "Spooky in Love",
@@ -195,40 +153,22 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Spooky.in.Love.S01E04.Dual.720p.mkv"
         },
         {
-            "name": "Lock Upp",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E25.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Dex Hamilton and the Doomsday Swarm  Dual",
-            "year": "2012",
-            "quality": null,
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dex.Hamilton.and.the.Doomsday.Swarm.(2012).Dual.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E35.Hindi.1080p.mkv"
-        },
-        {
             "name": "Missing 2009 Dual",
             "year": null,
             "quality": "720p",
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Missing.2009.Dual.720p.mkv"
         },
         {
+            "name": "[The Apartment Job",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[[Fibwatch.Com]The.Apartment.Job.S01E06.Dual.1080p.mkv"
+        },
+        {
             "name": "Dadagiri Unlimited",
             "year": null,
             "quality": "1080P",
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E07.1080P.mkv"
-        },
-        {
-            "name": "Office e Prem",
-            "year": null,
-            "quality": null,
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Office.e.Prem.S01E01-02.mkv"
         },
         {
             "name": "Alliance",
@@ -243,46 +183,70 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Brazentina.Club.(2026).S01E04-06.1080P.mkv"
         },
         {
-            "name": "Water  Hindi BluRay",
-            "year": "2005",
-            "quality": null,
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Water.(2005).Hindi.BluRay.mkv"
-        },
-        {
-            "name": "Day Shift  Dual",
-            "year": "2022",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Day.Shift.(2022).Dual.720p.mkv"
-        },
-        {
-            "name": "Solo Mio 2026 Dual",
+            "name": "Spooky in Love",
             "year": null,
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Solo.Mio.2026.Dual.480p.mkv"
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Spooky.in.Love.S01E04.Dual.1080p.mkv"
+        },
+        {
+            "name": "Campus Beats",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Campus.Beats.(2026).S07.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Missing 2009 Dual",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Missing.2009.Dual.1080p.mkv"
         },
         {
             "name": "Lock Upp",
             "year": null,
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E24.Hindi.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E25.Hindi.1080p.mkv"
         },
         {
-            "name": "Laughter Chefs Unlimited Entertainment",
-            "year": null,
-            "quality": "720P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E71.Hindi.720P.mkv"
-        },
-        {
-            "name": "Solo Mio 2026 Dual",
+            "name": "Lock Upp",
             "year": null,
             "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Solo.Mio.2026.Dual.720p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E25.Hindi.720p.mkv"
         },
         {
-            "name": "Indias Best Dancer",
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E35.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Brazentina Club",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Brazentina.Club.(2026).S01E04-06.720P.mkv"
+        },
+        {
+            "name": "Dadagiri Unlimited",
             "year": null,
             "quality": "720P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Best.Dancer.S05E15.720P.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E07.720P.mkv"
+        },
+        {
+            "name": "[The Apartment Job",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[[Fibwatch.Com]The.Apartment.Job.S01E06.Dual.720p.mkv"
+        },
+        {
+            "name": "Doomsday  Dual BluRay",
+            "year": "2015",
+            "quality": null,
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Doomsday.(2015).Dual.BluRay.mkv"
+        },
+        {
+            "name": "Tuner  English",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Tuner.(2026).English.720p.mkv"
         },
         {
             "name": "Indian Idol",
@@ -291,16 +255,136 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indian.Idol.(2025).S16E81.720p.mkv"
         },
         {
-            "name": "Avatar Aang The Last Airbender  Dual",
+            "name": "Tuner  English",
             "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Avatar.Aang.The.Last.Airbender.(2026).Dual.720p.mkv"
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Tuner.(2026).English.1080p.mkv"
         },
         {
             "name": "Solo Mio 2026 Dual",
             "year": null,
             "quality": "1080p",
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Solo.Mio.2026.Dual.1080p.mkv"
+        },
+        {
+            "name": "Silo",
+            "year": null,
+            "quality": "720P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Silo.S03E01-02.English.720P.mkv"
+        },
+        {
+            "name": "Day Shift  Dual",
+            "year": "2022",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Day.Shift.(2022).Dual.720p.mkv"
+        },
+        {
+            "name": "Dulhaniya Le Aaeegi  Hindi HDTC",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dulhaniya.Le.Aaeegi.(2026).Hindi.HDTC.480p.mkv"
+        },
+        {
+            "name": "Dulhaniya Le Aaeegi  Hindi HDTC",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dulhaniya.Le.Aaeegi.(2026).Hindi.HDTC.720p.mkv"
+        },
+        {
+            "name": "Avatar Aang The Last Airbender  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Avatar.Aang.The.Last.Airbender.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Laughter Chefs Unlimited Entertainment",
+            "year": null,
+            "quality": "720P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E71.Hindi.720P.mkv"
+        },
+        {
+            "name": "Day Shift  Dual",
+            "year": "2022",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Day.Shift.(2022).Dual.1080p.mkv"
+        },
+        {
+            "name": "Indian Idol",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indian.Idol.(2025).S16E81.1080p.mkv"
+        },
+        {
+            "name": "Silo",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Silo.S03E01-02.English.1080P.mkv"
+        },
+        {
+            "name": "Avatar Aang The Last Airbender  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Avatar.Aang.The.Last.Airbender.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Solo Mio 2026 Dual",
+            "year": null,
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Solo.Mio.2026.Dual.480p.mkv"
+        },
+        {
+            "name": "Indias Best Dancer",
+            "year": null,
+            "quality": "720P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Best.Dancer.S05E15.720P.mkv"
+        },
+        {
+            "name": "Avatar Aang The Last Airbender  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Avatar.Aang.The.Last.Airbender.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Laughter Chefs Unlimited Entertainment",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E71.Hindi.1080P.mkv"
+        },
+        {
+            "name": "Dulhaniya Le Aaeegi  Hindi HDTC",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dulhaniya.Le.Aaeegi.(2026).Hindi.HDTC.1080p.mkv"
+        },
+        {
+            "name": "Solo Mio 2026 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Solo.Mio.2026.Dual.720p.mkv"
+        },
+        {
+            "name": "Lock Upp",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E24.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E34.Hindi.720p.mkv"
+        },
+        {
+            "name": "Dadagiri Unlimited",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E06.1080P.mkv"
+        },
+        {
+            "name": "Garuda Gamana Vrishabha Vahana 2021 Hindi Dubbed HQ",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Garuda.Gamana.Vrishabha.Vahana.2021.Hindi.Dubbed.HQ.720p.mkv"
         },
         {
             "name": "Dadagiri Unlimited",
@@ -311,104 +395,8 @@
         {
             "name": "Dadagiri Unlimited",
             "year": null,
-            "quality": "1080P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E06.1080P.mkv"
-        },
-        {
-            "name": "Lock Upp",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E24.Hindi.720p.mkv"
-        },
-        {
-            "name": "Day Shift  Dual",
-            "year": "2022",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Day.Shift.(2022).Dual.1080p.mkv"
-        },
-        {
-            "name": "Laughter Chefs Unlimited Entertainment",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E71.Hindi.1080P.mkv"
-        },
-        {
-            "name": "Indias Best Dancer",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Best.Dancer.S05E15.1080P.mkv"
-        },
-        {
-            "name": "Indian Idol",
-            "year": "2025",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indian.Idol.(2025).S16E81.1080p.mkv"
-        },
-        {
-            "name": "Avatar Aang The Last Airbender  Dual",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Avatar.Aang.The.Last.Airbender.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "Dadagiri Unlimited",
-            "year": null,
             "quality": "480P",
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E06.480P.mkv"
-        },
-        {
-            "name": "Avatar Aang The Last Airbender  Dual",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Avatar.Aang.The.Last.Airbender.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "Garuda Gamana Vrishabha Vahana 2021 Hindi Dubbed HQ",
-            "year": null,
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Garuda.Gamana.Vrishabha.Vahana.2021.Hindi.Dubbed.HQ.480p.mkv"
-        },
-        {
-            "name": "Nagabandham The Secret Treasure Dual",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Nagabandham.The.Secret.Treasure.Dual.720p.mkv"
-        },
-        {
-            "name": "Garuda Gamana Vrishabha Vahana 2021 Hindi Dubbed HQ",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Garuda.Gamana.Vrishabha.Vahana.2021.Hindi.Dubbed.HQ.720p.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E33.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Nagabandham The Secret Treasure Dual",
-            "year": null,
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Nagabandham.The.Secret.Treasure.Dual.480p.mkv"
-        },
-        {
-            "name": "Lock Upp",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E23.Hindi.720p.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E34.Hindi.720p.mkv"
-        },
-        {
-            "name": "[The Apartment Job",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[[Fibwatch.Com]The.Apartment.Job.S01E05.Dual.1080p.mkv"
         },
         {
             "name": "Spooky in Love",
@@ -417,22 +405,22 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Spooky.in.Love.S01E03.Dual.1080p.mkv"
         },
         {
+            "name": "Lock Upp",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E23.Hindi.1080p.mkv"
+        },
+        {
             "name": "Suzzanna Witchcraft  Indonesian",
             "year": "2026",
             "quality": "720p",
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Suzzanna.Witchcraft.(2026).Indonesian.720p.mkv"
         },
         {
-            "name": "Yumi s Cells",
+            "name": "Lock Upp",
             "year": null,
             "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Yumi.s.Cells.S03E01-08.Dual.720p.mkv"
-        },
-        {
-            "name": "Yumi s Cells",
-            "year": null,
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Yumi.s.Cells.S03E01-08.Dual.480p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E23.Hindi.720p.mkv"
         },
         {
             "name": "Spooky in Love",
@@ -441,28 +429,10 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Spooky.in.Love.S01E03.Dual.720p.mkv"
         },
         {
-            "name": "Lock Upp",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E23.Hindi.1080p.mkv"
-        },
-        {
             "name": "Garuda Gamana Vrishabha Vahana 2021 Hindi Dubbed HQ",
             "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Garuda.Gamana.Vrishabha.Vahana.2021.Hindi.Dubbed.HQ.1080p.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E34.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E33.Hindi.720p.mkv"
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Garuda.Gamana.Vrishabha.Vahana.2021.Hindi.Dubbed.HQ.480p.mkv"
         },
         {
             "name": "[The Apartment Job",
@@ -471,16 +441,70 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[[Fibwatch.Com]The.Apartment.Job.S01E05.Dual.720p.mkv"
         },
         {
+            "name": "Garuda Gamana Vrishabha Vahana 2021 Hindi Dubbed HQ",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Garuda.Gamana.Vrishabha.Vahana.2021.Hindi.Dubbed.HQ.1080p.mkv"
+        },
+        {
+            "name": "[The Apartment Job",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[[Fibwatch.Com]The.Apartment.Job.S01E05.Dual.1080p.mkv"
+        },
+        {
+            "name": "Water  Hindi BluRay",
+            "year": "2005",
+            "quality": null,
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Water.(2005).Hindi.BluRay.mkv"
+        },
+        {
             "name": "Suzzanna Witchcraft  Indonesian",
             "year": "2026",
             "quality": "1080p",
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Suzzanna.Witchcraft.(2026).Indonesian.1080p.mkv"
         },
         {
-            "name": "Nagabandham The Secret Treasure Dual",
+            "name": "Lock Upp",
             "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E24.Hindi.720p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Nagabandham.The.Secret.Treasure.Dual.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E34.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Indias Best Dancer",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Best.Dancer.S05E15.1080P.mkv"
+        },
+        {
+            "name": "Supergirl  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Supergirl.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Doomsday Device 2017 Dual",
+            "year": null,
+            "quality": null,
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Doomsday.Device.2017.Dual.mkv"
+        },
+        {
+            "name": "House Of The Dragon",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]House.Of.The.Dragon.(2026).S03E06.Dual.720P.mkv"
+        },
+        {
+            "name": "House Of The Dragon",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]House.Of.The.Dragon.(2026).S03E06.Dual.1080P.mkv"
         },
         {
             "name": "Campus Beats",
@@ -489,22 +513,22 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Campus.Beats.(2026).S07.Hindi.480p.mkv"
         },
         {
+            "name": "Supergirl  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Supergirl.(2026).Dual.1080p.mkv"
+        },
+        {
             "name": "Campus Beats",
             "year": "2026",
             "quality": "720p",
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Campus.Beats.(2026).S07.Hindi.720p.mkv"
         },
         {
-            "name": "Indias Got Latent",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Got.Latent.S02.Bonus.E01.720p.mkv"
-        },
-        {
-            "name": "The Bose Family  Bengali",
-            "year": "2019",
-            "quality": null,
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Bose.Family.(2019).Bengali.mkv"
+            "name": "Supergirl  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Supergirl.(2026).Dual.480p.mkv"
         },
         {
             "name": "Ghost Train  Dual",
@@ -513,46 +537,10 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ghost.Train.(2024).Dual.720p.mkv"
         },
         {
-            "name": "Indias Best Dancer",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Best.Dancer.S05E16.1080P.mkv"
-        },
-        {
-            "name": "See You at Work Tomorrow",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E11.Dual.720p.mkv"
-        },
-        {
-            "name": "Chinna Chinna Aasai  Dual",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Chinna.Chinna.Aasai.(2026).Dual.720p.mkv"
-        },
-        {
             "name": "Lock Upp",
             "year": null,
             "quality": "720p",
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E26.Hindi.720p.mkv"
-        },
-        {
-            "name": "Naan Sirithal  Dual",
-            "year": "2020",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Naan.Sirithal.(2020).Dual.1080p.mkv"
-        },
-        {
-            "name": "Indias Best Dancer",
-            "year": null,
-            "quality": "720P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Best.Dancer.S05E16.720P.mkv"
-        },
-        {
-            "name": "See You at Work Tomorrow",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E11.Dual.1080p.mkv"
         },
         {
             "name": "The Rise Of Ashoka  Hindi Dubbed",
@@ -567,34 +555,10 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Chinna.Chinna.Aasai.(2026).Dual.480p.mkv"
         },
         {
-            "name": "Ghost Train  Dual",
-            "year": "2024",
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ghost.Train.(2024).Dual.480p.mkv"
-        },
-        {
-            "name": "Lock Upp",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E26.Hindi.1080p.mkv"
-        },
-        {
             "name": "Chinna Chinna Aasai  Dual",
             "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Chinna.Chinna.Aasai.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "Naan Sirithal  Dual",
-            "year": "2020",
             "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Naan.Sirithal.(2020).Dual.720p.mkv"
-        },
-        {
-            "name": "Naan Sirithal  Dual",
-            "year": "2020",
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Naan.Sirithal.(2020).Dual.480p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Chinna.Chinna.Aasai.(2026).Dual.720p.mkv"
         },
         {
             "name": "Indrajaal  Hindi HDTC",
@@ -603,10 +567,16 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indrajaal.(2026).Hindi.HDTC.1080p.mkv"
         },
         {
-            "name": "Indias Got Latent",
+            "name": "See You at Work Tomorrow",
             "year": null,
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Got.Latent.S02.Bonus.E01.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E11.Dual.1080p.mkv"
+        },
+        {
+            "name": "Naan Sirithal  Dual",
+            "year": "2020",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Naan.Sirithal.(2020).Dual.1080p.mkv"
         },
         {
             "name": "Ghost Train  Dual",
@@ -615,10 +585,70 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ghost.Train.(2024).Dual.1080p.mkv"
         },
         {
-            "name": "The Rise Of Ashoka  Hindi Dubbed",
+            "name": "Lock Upp",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E26.Hindi.1080p.mkv"
+        },
+        {
+            "name": "See You at Work Tomorrow",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E11.Dual.720p.mkv"
+        },
+        {
+            "name": "Chinna Chinna Aasai  Dual",
             "year": "2026",
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Rise.Of.Ashoka.(2026).Hindi.Dubbed.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Chinna.Chinna.Aasai.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Indias Best Dancer",
+            "year": null,
+            "quality": "720P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Best.Dancer.S05E16.720P.mkv"
+        },
+        {
+            "name": "Indias Best Dancer",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Best.Dancer.S05E16.1080P.mkv"
+        },
+        {
+            "name": "Indias Got Latent",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Got.Latent.S02.Bonus.E01.1080p.mkv"
+        },
+        {
+            "name": "The Bose Family  Bengali",
+            "year": "2019",
+            "quality": null,
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Bose.Family.(2019).Bengali.mkv"
+        },
+        {
+            "name": "Naan Sirithal  Dual",
+            "year": "2020",
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Naan.Sirithal.(2020).Dual.480p.mkv"
+        },
+        {
+            "name": "Indias Got Latent",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Got.Latent.S02.Bonus.E01.720p.mkv"
+        },
+        {
+            "name": "Naan Sirithal  Dual",
+            "year": "2020",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Naan.Sirithal.(2020).Dual.720p.mkv"
+        },
+        {
+            "name": "Ghost Train  Dual",
+            "year": "2024",
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ghost.Train.(2024).Dual.480p.mkv"
         },
         {
             "name": "Agent Kim Reactivated",
@@ -627,40 +657,34 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Agent.Kim.Reactivated.S01E10.Dual.720p.mkv"
         },
         {
-            "name": "Supergirl  Dual",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Supergirl.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "Doomsday Device 2017 Dual",
-            "year": null,
-            "quality": null,
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Doomsday.Device.2017.Dual.mkv"
-        },
-        {
-            "name": "Silo",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Silo.S03E03-04.English.1080P.mkv"
-        },
-        {
             "name": "Silo",
             "year": null,
             "quality": "720P",
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Silo.S03E03-04.English.720P.mkv"
         },
         {
-            "name": "Indian Idol",
-            "year": "2025",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indian.Idol.(2025).S16E82.1080p.mkv"
+            "name": "Uttar Da Puttar  Hindi HDTC",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Uttar.Da.Puttar.(2026).Hindi.HDTC.480P.mkv"
         },
         {
-            "name": "House Of The Dragon",
+            "name": "Indian Idol",
+            "year": "2025",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indian.Idol.(2025).S16E82.720p.mkv"
+        },
+        {
+            "name": "The Rise Of Ashoka  Hindi Dubbed",
             "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Rise.Of.Ashoka.(2026).Hindi.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Laughter Chefs Unlimited Entertainment",
+            "year": null,
             "quality": "1080P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]House.Of.The.Dragon.(2026).S03E06.Dual.1080P.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E72.Hindi.1080P.mkv"
         },
         {
             "name": "Laughter Chefs Unlimited Entertainment",
@@ -669,16 +693,22 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E72.Hindi.720P.mkv"
         },
         {
-            "name": "Agent Kim Reactivated",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Agent.Kim.Reactivated.S01E10.Dual.1080p.mkv"
-        },
-        {
             "name": "Uttar Da Puttar  Hindi HDTC",
             "year": "2026",
             "quality": "720P",
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Uttar.Da.Puttar.(2026).Hindi.HDTC.720P.mkv"
+        },
+        {
+            "name": "Indian Idol",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indian.Idol.(2025).S16E82.1080p.mkv"
+        },
+        {
+            "name": "Agent Kim Reactivated",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Agent.Kim.Reactivated.S01E10.Dual.1080p.mkv"
         },
         {
             "name": "Office e Prem",
@@ -687,22 +717,10 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Office.e.Prem.S01E03.mkv"
         },
         {
-            "name": "Supergirl  Dual",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Supergirl.(2026).Dual.720p.mkv"
-        },
-        {
-            "name": "Uttar Da Puttar  Hindi HDTC",
-            "year": "2026",
+            "name": "Silo",
+            "year": null,
             "quality": "1080P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Uttar.Da.Puttar.(2026).Hindi.HDTC.1080P.mkv"
-        },
-        {
-            "name": "Supergirl  Dual",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Supergirl.(2026).Dual.480p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Silo.S03E03-04.English.1080P.mkv"
         },
         {
             "name": "The Rise Of Ashoka  Hindi Dubbed",
@@ -713,38 +731,8 @@
         {
             "name": "Uttar Da Puttar  Hindi HDTC",
             "year": "2026",
-            "quality": "480P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Uttar.Da.Puttar.(2026).Hindi.HDTC.480P.mkv"
-        },
-        {
-            "name": "Laughter Chefs Unlimited Entertainment",
-            "year": null,
             "quality": "1080P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E72.Hindi.1080P.mkv"
-        },
-        {
-            "name": "House Of The Dragon",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]House.Of.The.Dragon.(2026).S03E06.Dual.720P.mkv"
-        },
-        {
-            "name": "Indian Idol",
-            "year": "2025",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indian.Idol.(2025).S16E82.720p.mkv"
-        },
-        {
-            "name": "Lenin 2026  Hindi Hallprint",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lenin.2026.720p.Hindi.Hallprint.mkv"
-        },
-        {
-            "name": "Lock Upp",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E22.Hindi.720p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Uttar.Da.Puttar.(2026).Hindi.HDTC.1080P.mkv"
         },
         {
             "name": "My Daughters Father",
@@ -753,22 +741,22 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]My.Daughters.Father.S01E06-10.Dual.720p.mkv"
         },
         {
+            "name": "Lock Upp",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E22.Hindi.720p.mkv"
+        },
+        {
             "name": "Pallichattambi  Dual",
             "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Pallichattambi.(2026).Dual.1080p.mkv"
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Pallichattambi.(2026).Dual.480p.mkv"
         },
         {
-            "name": "Adarsh Baal Vidyalaya",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Adarsh.Baal.Vidyalaya.(2026).S01.Hindi.720p.mkv"
-        },
-        {
-            "name": "Adarsh Baal Vidyalaya",
+            "name": "Batchmates",
             "year": "2026",
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Adarsh.Baal.Vidyalaya.(2026).S01.Hindi.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Batchmates.(2026).S01E49-52.Hindi.1080p.mkv"
         },
         {
             "name": "My Daughters Father",
@@ -777,10 +765,10 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]My.Daughters.Father.S01E01-05.Dual.720p.mkv"
         },
         {
-            "name": "Prem Shots",
+            "name": "Con City  Dual",
             "year": "2026",
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Prem.Shots.(2026).S01E01-06.Bengali.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Con.City.(2026).Dual.1080p.mkv"
         },
         {
             "name": "Prem Shots",
@@ -789,34 +777,28 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Prem.Shots.(2026).S01E01-06.Bengali.720p.mkv"
         },
         {
-            "name": "Prem Shots",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Prem.Shots.(2026).S01E01-06.Bengali.480p.mkv"
-        },
-        {
-            "name": "Con City  Dual",
+            "name": "Adarsh Baal Vidyalaya",
             "year": "2026",
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Con.City.(2026).Dual.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Adarsh.Baal.Vidyalaya.(2026).S01.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Lenin 2026  Hindi Hallprint",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lenin.2026.720p.Hindi.Hallprint.mkv"
+        },
+        {
+            "name": "Lenin 2026  Hindi Hallprint",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lenin.2026.1080p.Hindi.Hallprint.mkv"
         },
         {
             "name": "Pallichattambi  Dual",
             "year": "2026",
             "quality": "720p",
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Pallichattambi.(2026).Dual.720p.mkv"
-        },
-        {
-            "name": "My Daughters Father",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]My.Daughters.Father.S01E06-10.Dual.1080p.mkv"
-        },
-        {
-            "name": "Batchmates",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Batchmates.(2026).S01E49-52.Hindi.1080p.mkv"
         },
         {
             "name": "Adarsh Baal Vidyalaya",
@@ -831,16 +813,10 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Con.City.(2026).Dual.480p.mkv"
         },
         {
-            "name": "Pallichattambi  Dual",
+            "name": "Adarsh Baal Vidyalaya",
             "year": "2026",
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Pallichattambi.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "Lock Upp",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E22.Hindi.1080p.mkv"
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Adarsh.Baal.Vidyalaya.(2026).S01.Hindi.720p.mkv"
         },
         {
             "name": "Con City  Dual",
@@ -849,136 +825,46 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Con.City.(2026).Dual.720p.mkv"
         },
         {
-            "name": "Lenin 2026  Hindi Hallprint",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lenin.2026.1080p.Hindi.Hallprint.mkv"
-        },
-        {
-            "name": "Tuner  English",
+            "name": "Prem Shots",
             "year": "2026",
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Tuner.(2026).English.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Prem.Shots.(2026).S01E01-06.Bengali.1080p.mkv"
         },
         {
-            "name": "Silo",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Silo.S03E01-02.English.1080P.mkv"
-        },
-        {
-            "name": "Dulhaniya Le Aaeegi  Hindi HDTC",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dulhaniya.Le.Aaeegi.(2026).Hindi.HDTC.1080p.mkv"
-        },
-        {
-            "name": "Dulhaniya Le Aaeegi  Hindi HDTC",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dulhaniya.Le.Aaeegi.(2026).Hindi.HDTC.720p.mkv"
-        },
-        {
-            "name": "Tuner  English",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Tuner.(2026).English.720p.mkv"
-        },
-        {
-            "name": "Silo",
-            "year": null,
-            "quality": "720P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Silo.S03E01-02.English.720P.mkv"
-        },
-        {
-            "name": "Dulhaniya Le Aaeegi  Hindi HDTC",
+            "name": "Prem Shots",
             "year": "2026",
             "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dulhaniya.Le.Aaeegi.(2026).Hindi.HDTC.480p.mkv"
-        },
-        {
-            "name": "Star Trek Starfleet Academy",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Star.Trek.Starfleet.Academy.(2026).S01.Hindi.Dubbed.480p.mkv"
-        },
-        {
-            "name": "The Outer Threat  Hindi Dubbed",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Outer.Threat.(2026).Hindi.Dubbed.1080p.mkv"
-        },
-        {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E30.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Elite Force",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Elite.Force.(2026).S01.Dual.1080p.mkv"
-        },
-        {
-            "name": "The Outer Threat  Hindi Dubbed",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Outer.Threat.(2026).Hindi.Dubbed.720p.mkv"
-        },
-        {
-            "name": "Masters of the Universe 2026 Dual",
-            "year": null,
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Masters.of.the.Universe.2026.Dual.480p.mkv"
-        },
-        {
-            "name": "Rockstar 2026",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Rockstar.2026.720p.mkv"
-        },
-        {
-            "name": "Star Trek Starfleet Academy",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Star.Trek.Starfleet.Academy.(2026).S01.Hindi.Dubbed.720p.mkv"
-        },
-        {
-            "name": "Rockstar 2026",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Rockstar.2026.1080p.mkv"
-        },
-        {
-            "name": "Rockstar 2026",
-            "year": null,
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Rockstar.2026.480p.mkv"
-        },
-        {
-            "name": "Elite Force",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Elite.Force.(2026).S01.Dual.720p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Prem.Shots.(2026).S01E01-06.Bengali.480p.mkv"
         },
         {
             "name": "My Daughters Father",
             "year": null,
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]My.Daughters.Father.S01E01-05.Dual.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]My.Daughters.Father.S01E06-10.Dual.1080p.mkv"
         },
         {
-            "name": "Alliance",
+            "name": "Lock Upp",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E22.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Pallichattambi  Dual",
             "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Pallichattambi.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Brothers and Sisters",
+            "year": null,
+            "quality": "720P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Brothers.and.Sisters.S01E33-36.Dual.720P.mkv"
+        },
+        {
+            "name": "Lock Upp",
+            "year": null,
             "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E30.Hindi.720p.mkv"
-        },
-        {
-            "name": "Elite Force",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Elite.Force.(2026).S01.Dual.480p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E21.Hindi.720p.mkv"
         },
         {
             "name": "Deliver Us from Evil  Dual",
@@ -987,16 +873,40 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Deliver.Us.from.Evil.(2014).Dual.720P.mkv"
         },
         {
-            "name": "Good Luck Have Fun Dont Die  Dual",
-            "year": "2025",
+            "name": "Disclosure Day  Dual",
+            "year": "2026",
             "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Good.Luck.Have.Fun.Dont.Die.(2025).Dual.720p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Disclosure.Day.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Roopkathar Radio",
+            "year": "2021",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Roopkathar.Radio.(2021).S01E01-06.Bengali.720p.mkv"
+        },
+        {
+            "name": "Brothers and Sisters",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Brothers.and.Sisters.S01E33-36.Dual.1080P.mkv"
+        },
+        {
+            "name": "The Cabin Guard 2019  Bangla",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Cabin.Guard.2019.720p.Bangla.mkv"
+        },
+        {
+            "name": "Lock Upp",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E21.Hindi.1080p.mkv"
         },
         {
             "name": "Disclosure Day  Dual",
             "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Disclosure.Day.(2026).Dual.1080p.mkv"
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Disclosure.Day.(2026).Dual.480p.mkv"
         },
         {
             "name": "The Devil Wears Prada 2006 Dual",
@@ -1005,16 +915,16 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Devil.Wears.Prada.2006.Dual.720P.mkv"
         },
         {
-            "name": "The Devil Wears Prada 2006 Dual",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Devil.Wears.Prada.2006.Dual.1080P.mkv"
-        },
-        {
             "name": "Alliance",
             "year": "2026",
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E28.Hindi.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E29.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Roopkathar Radio",
+            "year": "2021",
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Roopkathar.Radio.(2021).S01E01-06.Bengali.480p.mkv"
         },
         {
             "name": "Deliver Us from Evil  Dual",
@@ -1023,76 +933,16 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Deliver.Us.from.Evil.(2014).Dual.1080P.mkv"
         },
         {
-            "name": "Alliance",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E28.Hindi.720p.mkv"
-        },
-        {
-            "name": "Good Luck Have Fun Dont Die  Dual",
-            "year": "2025",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Good.Luck.Have.Fun.Dont.Die.(2025).Dual.1080p.mkv"
-        },
-        {
-            "name": "See You at Work Tomorrow",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E09.Dual.720p.mkv"
-        },
-        {
-            "name": "The Devil Wears Prada 2 2026 Hindi Dubbed",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Devil.Wears.Prada.2.2026.Hindi.Dubbed.720p.mkv"
-        },
-        {
             "name": "Love 2020 Dual",
             "year": null,
             "quality": "1080p",
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Love.2020.Dual.1080p.mkv"
         },
         {
-            "name": "Lock Upp",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E20.Hindi.720p.mkv"
-        },
-        {
-            "name": "Lock Upp",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E20.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Good Luck Have Fun Dont Die  Dual",
-            "year": "2025",
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Good.Luck.Have.Fun.Dont.Die.(2025).Dual.480p.mkv"
-        },
-        {
-            "name": "Naate 2026 Bangla",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Naate.2026.Bangla.720p.mkv"
-        },
-        {
-            "name": "Naate 2026 Bangla",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Naate.2026.Bangla.1080p.mkv"
-        },
-        {
             "name": "See You at Work Tomorrow",
             "year": null,
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E09.Dual.1080p.mkv"
-        },
-        {
-            "name": "The Devil Wears Prada 2 2026 Hindi Dubbed",
-            "year": null,
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Devil.Wears.Prada.2.2026.Hindi.Dubbed.480p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E10.Dual.1080p.mkv"
         },
         {
             "name": "Love 2020 Dual",
@@ -1101,88 +951,262 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Love.2020.Dual.720p.mkv"
         },
         {
-            "name": "The Truthers  Multi",
+            "name": "See You at Work Tomorrow",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]See.You.at.Work.Tomorrow.S01E10.Dual.720p.mkv"
+        },
+        {
+            "name": "Disclosure Day  Dual",
             "year": "2026",
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Truthers.(2026).Multi.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Disclosure.Day.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Roopkathar Radio",
+            "year": "2021",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Roopkathar.Radio.(2021).S01E01-06.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E29.Hindi.720p.mkv"
+        },
+        {
+            "name": "Masters of the Universe 2026 Dual",
+            "year": null,
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Masters.of.the.Universe.2026.Dual.480p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E30.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Elize Shadows of a Woman 2026 Dual",
+            "year": null,
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Elize.Shadows.of.a.Woman.2026.Dual.480p.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E30.Hindi.720p.mkv"
+        },
+        {
+            "name": "Masters of the Universe 2026 Dual",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Masters.of.the.Universe.2026.Dual.1080p.mkv"
+        },
+        {
+            "name": "Elite Force",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Elite.Force.(2026).S01.Dual.720p.mkv"
+        },
+        {
+            "name": "Elite Force",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Elite.Force.(2026).S01.Dual.480p.mkv"
+        },
+        {
+            "name": "Elite Force",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Elite.Force.(2026).S01.Dual.1080p.mkv"
+        },
+        {
+            "name": "Masters of the Universe 2026 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Masters.of.the.Universe.2026.Dual.720p.mkv"
+        },
+        {
+            "name": "Elize Shadows of a Woman 2026 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Elize.Shadows.of.a.Woman.2026.Dual.720p.mkv"
+        },
+        {
+            "name": "Rockstar 2026",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Rockstar.2026.1080p.mkv"
+        },
+        {
+            "name": "The Outer Threat  Hindi Dubbed",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Outer.Threat.(2026).Hindi.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Rockstar 2026",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Rockstar.2026.720p.mkv"
+        },
+        {
+            "name": "Elize Shadows of a Woman 2026 Dual",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Elize.Shadows.of.a.Woman.2026.Dual.1080p.mkv"
+        },
+        {
+            "name": "The Cabin Guard 2019  Bangla",
+            "year": null,
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Cabin.Guard.2019.480p.Bangla.mkv"
+        },
+        {
+            "name": "Rockstar 2026",
+            "year": null,
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Rockstar.2026.480p.mkv"
+        },
+        {
+            "name": "The Outer Threat  Hindi Dubbed",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Outer.Threat.(2026).Hindi.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Dahan",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dahan.(2026).S01.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Laughter Chefs Unlimited Entertainment",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E70.Hindi.1080P.mkv"
+        },
+        {
+            "name": "Indian Idol",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indian.Idol.(2025).S16E80.1080p.mkv"
+        },
+        {
+            "name": "Dadagiri Unlimited",
+            "year": null,
+            "quality": "480P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E05.480P.mkv"
+        },
+        {
+            "name": "Scary Movie 2026 Dual",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Scary.Movie.2026.Dual.1080p.mkv"
+        },
+        {
+            "name": "Lock Upp",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E19.Hindi.720p.mkv"
+        },
+        {
+            "name": "Lock Upp",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E19.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Dadagiri Unlimited",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E05.1080P.mkv"
+        },
+        {
+            "name": "Indias Best Dancer",
+            "year": null,
+            "quality": "720P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Best.Dancer.S05E14.720P.mkv"
+        },
+        {
+            "name": "Scary Movie 2026 Dual",
+            "year": null,
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Scary.Movie.2026.Dual.480p.mkv"
+        },
+        {
+            "name": "Dadagiri Unlimited",
+            "year": null,
+            "quality": "720P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E05.720P.mkv"
+        },
+        {
+            "name": "Final Spain vs Argentina Full Match",
+            "year": null,
+            "quality": null,
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Final.Spain.vs.Argentina.Full.Match.mkv"
+        },
+        {
+            "name": "Lock Upp",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E18.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Indian Idol",
+            "year": "2025",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indian.Idol.(2025).S16E80.720p.mkv"
+        },
+        {
+            "name": "Lock Upp",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E18.Hindi.720p.mkv"
+        },
+        {
+            "name": "Indias Best Dancer",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Best.Dancer.S05E14.1080P.mkv"
+        },
+        {
+            "name": "Dahan",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dahan.(2026).S01.Bengali.720p.mkv"
+        },
+        {
+            "name": "Scary Movie 2026 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Scary.Movie.2026.Dual.720p.mkv"
+        },
+        {
+            "name": "Laughter Chefs Unlimited Entertainment",
+            "year": null,
+            "quality": "720P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E70.Hindi.720P.mkv"
+        },
+        {
+            "name": "Alliance",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E27.Hindi.720p.mkv"
+        },
+        {
+            "name": "Opus  Dual BluRay",
+            "year": "2025",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Opus.(2025).Dual.BluRay.720p.mkv"
         },
         {
             "name": "72 HOURS  Dual",
             "year": "2026",
             "quality": "720p",
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]72.HOURS.(2026).Dual.720p.mkv"
-        },
-        {
-            "name": "Governor  Hindi",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Governor.(2026).Hindi.480p.mkv"
-        },
-        {
-            "name": "Colony 2026  Korean",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Colony.2026.720p.Korean.mkv"
-        },
-        {
-            "name": "Governor  Hindi",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Governor.(2026).Hindi.1080p.mkv"
-        },
-        {
-            "name": "Opus  Dual BluRay",
-            "year": "2025",
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Opus.(2025).Dual.BluRay.480p.mkv"
-        },
-        {
-            "name": "Colony 2026  Korean",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Colony.2026.1080p.Korean.mkv"
-        },
-        {
-            "name": "The Truthers  Multi",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Truthers.(2026).Multi.720p.mkv"
-        },
-        {
-            "name": "72 HOURS  Dual",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]72.HOURS.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "Musafir Cafe",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Musafir.Cafe.(2026).S01.Hindi.720p.mkv"
-        },
-        {
-            "name": "Protector  Dual",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Protector.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "72 HOURS  Dual",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]72.HOURS.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "Musafir Cafe",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Musafir.Cafe.(2026).S01.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Arafta",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Arafta.(2026).S02E01.Dual.720p.mkv"
         },
         {
             "name": "The Truthers  Multi",
@@ -1197,16 +1221,22 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Governor.(2026).Hindi.720p.mkv"
         },
         {
-            "name": "Protector  Dual",
+            "name": "Musafir Cafe",
             "year": "2026",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Protector.(2026).Dual.720p.mkv"
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Musafir.Cafe.(2026).S01.Hindi.1080p.mkv"
         },
         {
-            "name": "Opus  Dual BluRay",
-            "year": "2025",
+            "name": "The Truthers  Multi",
+            "year": "2026",
             "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Opus.(2025).Dual.BluRay.720p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Truthers.(2026).Multi.720p.mkv"
+        },
+        {
+            "name": "Colony 2026  Korean",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Colony.2026.1080p.Korean.mkv"
         },
         {
             "name": "Colony 2026  Korean",
@@ -1215,130 +1245,196 @@
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Colony.2026.480p.Korean.mkv"
         },
         {
+            "name": "Governor  Hindi",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Governor.(2026).Hindi.1080p.mkv"
+        },
+        {
+            "name": "Opus  Dual BluRay",
+            "year": "2025",
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Opus.(2025).Dual.BluRay.480p.mkv"
+        },
+        {
+            "name": "72 HOURS  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]72.HOURS.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Arafta",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Arafta.(2026).S02E01.Dual.720p.mkv"
+        },
+        {
+            "name": "Musafir Cafe",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Musafir.Cafe.(2026).S01.Hindi.720p.mkv"
+        },
+        {
+            "name": "Colony 2026  Korean",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Colony.2026.720p.Korean.mkv"
+        },
+        {
+            "name": "Governor  Hindi",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Governor.(2026).Hindi.480p.mkv"
+        },
+        {
+            "name": "The Truthers  Multi",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Truthers.(2026).Multi.1080p.mkv"
+        },
+        {
+            "name": "72 HOURS  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]72.HOURS.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Protector  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Protector.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Protector  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Protector.(2026).Dual.720p.mkv"
+        },
+        {
             "name": "Musafir Cafe",
             "year": "2026",
             "quality": "480p",
             "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Musafir.Cafe.(2026).S01.Hindi.480p.mkv"
         },
         {
-            "name": "Rahun Main Tere Rubaru 2026 Hindi HDTC",
-            "year": null,
+            "name": "Alliance",
+            "year": "2026",
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Rahun.Main.Tere.Rubaru.2026.Hindi.HDTC.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E26.Hindi.1080p.mkv"
         },
         {
-            "name": "Ebar Shabor  Bengali",
-            "year": "2015",
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ebar.Shabor.(2015).Bengali.1080p.mkv"
+            "name": "Not All Movies Are the Same Dual  Dual",
+            "year": "2025",
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Not.All.Movies.Are.the.Same.Dual.(2025).Dual.720p.mkv"
+        },
+        {
+            "name": "Indias Best Dancer",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Best.Dancer.S05E13.1080P.mkv"
+        },
+        {
+            "name": "Indias Best Dancer",
+            "year": null,
+            "quality": "720P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indias.Best.Dancer.S05E13.720P.mkv"
+        },
+        {
+            "name": "Spooky in Love",
+            "year": null,
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Spooky.in.Love.S01E01.Dual.720p.mkv"
+        },
+        {
+            "name": "Dadagiri Unlimited",
+            "year": null,
+            "quality": "480P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E04.480P.mkv"
+        },
+        {
+            "name": "Dadagiri Unlimited",
+            "year": null,
+            "quality": "720P",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E04.720P.mkv"
         },
         {
             "name": "Alliance",
             "year": "2026",
             "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E27.Hindi.720p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E26.Hindi.720p.mkv"
         },
         {
-            "name": "Spooky in Love",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Spooky.in.Love.S01E02.Dual.1080p.mkv"
-        },
-        {
-            "name": "Ebar Shabor  Bengali",
-            "year": "2015",
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Ebar.Shabor.(2015).Bengali.720p.mkv"
-        },
-        {
-            "name": "Rahun Main Tere Rubaru 2026 Hindi HDTC",
+            "name": "The East Palace",
             "year": null,
             "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Rahun.Main.Tere.Rubaru.2026.Hindi.HDTC.720p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.East.Palace.S01E05-08.Dual.720p.mkv"
         },
         {
-            "name": "Felon 2008 Dual",
+            "name": "The East Palace",
             "year": null,
-            "quality": "720P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Felon.2008.Dual.720P.mkv"
+            "quality": "720p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.East.Palace.S01E01-04.Dual.720p.mkv"
         },
         {
-            "name": "The Invisible Boy  Dual",
-            "year": "2014",
+            "name": "Lock Upp",
+            "year": null,
             "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.Invisible.Boy.(2014).Dual.720p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E15-17.Hindi.720p.mkv"
         },
         {
             "name": "Dadagiri Unlimited",
             "year": null,
             "quality": "1080P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E05.1080P.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Dadagiri.Unlimited.S11E04.1080P.mkv"
         },
         {
             "name": "Lock Upp",
             "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E19.Hindi.720p.mkv"
-        },
-        {
-            "name": "[The Apartment Job",
-            "year": null,
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[[Fibwatch.Com]The.Apartment.Job.S01E04.Dual.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E15-17.Hindi.1080p.mkv"
         },
         {
-            "name": "Lock Upp",
-            "year": null,
+            "name": "Indian Idol",
+            "year": "2025",
             "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E18.Hindi.720p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indian.Idol.(2025).S16E79.720p.mkv"
         },
         {
-            "name": "Alliance",
-            "year": "2026",
+            "name": "Indian Idol",
+            "year": "2025",
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Alliance.(2026).S01E27.Hindi.1080p.mkv"
-        },
-        {
-            "name": "[The Apartment Job",
-            "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[[Fibwatch.Com]The.Apartment.Job.S01E04.Dual.720p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Indian.Idol.(2025).S16E79.1080p.mkv"
         },
         {
             "name": "Spooky in Love",
             "year": null,
-            "quality": "720p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Spooky.in.Love.S01E02.Dual.720p.mkv"
+            "quality": "1080p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Spooky.in.Love.S01E01.Dual.1080p.mkv"
         },
         {
-            "name": "Felon 2008 Dual",
+            "name": "Laughter Chefs Unlimited Entertainment",
             "year": null,
             "quality": "1080P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Felon.2008.Dual.1080P.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Laughter.Chefs.Unlimited.Entertainment.S03E68.Hindi.1080P.mkv"
         },
         {
-            "name": "Lock Upp",
+            "name": "Not All Movies Are the Same Dual  Dual",
+            "year": "2025",
+            "quality": "480p",
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Not.All.Movies.Are.the.Same.Dual.(2025).Dual.480p.mkv"
+        },
+        {
+            "name": "The East Palace",
             "year": null,
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E18.Hindi.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]The.East.Palace.S01E05-08.Dual.1080p.mkv"
         },
         {
-            "name": "Brazentina Club",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Brazentina.Club.(2026).S01E03.720P.mkv"
-        },
-        {
-            "name": "Brazentina Club",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Brazentina.Club.(2026).S01E03.1080P.mkv"
-        },
-        {
-            "name": "Lock Upp",
-            "year": null,
+            "name": "Not All Movies Are the Same Dual  Dual",
+            "year": "2025",
             "quality": "1080p",
-            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Lock.Upp.S02E19.Hindi.1080p.mkv"
+            "link": "https://lrtyg.b-cdn.net/s3/upload/videos/2026/07/[Fibwatch.Com]Not.All.Movies.Are.the.Same.Dual.(2025).Dual.1080p.mkv"
         }
     ]
 }
