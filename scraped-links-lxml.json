@@ -1,12 +1,18 @@
 {
     "made_by": "@siam3310",
-    "last_update_time": "2026-08-14 17:24:51 UTC",
+    "last_update_time": "2026-08-14 18:13:42 UTC",
     "scraped_media": [
         {
-            "name": "Awarapan 2  Hindi HDTC",
+            "name": "To The Max  Dual",
             "year": "2026",
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Awarapan.2.(2026).Hindi.HDTC.480p.mkv"
+            "quality": "480P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]To.The.Max.(2026).Dual.480P.mkv"
+        },
+        {
+            "name": "Dont Say Good Luck  Dual",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Dont.Say.Good.Luck.(2026).Dual.1080P.mkv"
         },
         {
             "name": "Awarapan 2  Hindi HQ HDTC",
@@ -15,40 +21,16 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Awarapan.2.(2026).Hindi.HQ.HDTC.1080p.mkv"
         },
         {
-            "name": "Dont Say Good Luck  Dual",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Dont.Say.Good.Luck.(2026).Dual.480P.mkv"
-        },
-        {
-            "name": "To The Max  Dual",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]To.The.Max.(2026).Dual.720P.mkv"
-        },
-        {
-            "name": "Sahasam  Dual",
-            "year": "2025",
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sahasam.(2025).Dual.1080p.mkv"
-        },
-        {
-            "name": "Silo",
+            "name": "Partner Track",
             "year": null,
             "quality": "1080P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Silo.S03E07.English.1080P.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Partner.Track.S01E06-10.Dual.1080P.mkv"
         },
         {
-            "name": "Emergency Room",
-            "year": null,
-            "quality": "480P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Emergency.Room.S01E01-03.480P.mkv"
-        },
-        {
-            "name": "To The Max  Dual",
+            "name": "Awarapan 2  Hindi HDTC",
             "year": "2026",
-            "quality": "1080P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]To.The.Max.(2026).Dual.1080P.mkv"
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Awarapan.2.(2026).Hindi.HDTC.480p.mkv"
         },
         {
             "name": "Emergency Room",
@@ -57,10 +39,70 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Emergency.Room.S01E01-03.1080P.mkv"
         },
         {
+            "name": "Dont Say Good Luck  Dual",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Dont.Say.Good.Luck.(2026).Dual.480P.mkv"
+        },
+        {
+            "name": "Silo",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Silo.S03E07.English.1080P.mkv"
+        },
+        {
+            "name": "Partner Track",
+            "year": null,
+            "quality": "720P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Partner.Track.S01E06-10.Dual.720P.mkv"
+        },
+        {
+            "name": "Silo",
+            "year": null,
+            "quality": "720P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Silo.S03E07.English.720P.mkv"
+        },
+        {
+            "name": "Sahasam  Dual",
+            "year": "2025",
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sahasam.(2025).Dual.720p.mkv"
+        },
+        {
+            "name": "Awarapan 2  Hindi HDTC",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Awarapan.2.(2026).Hindi.HDTC.720p.mkv"
+        },
+        {
+            "name": "To The Max  Dual",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]To.The.Max.(2026).Dual.720P.mkv"
+        },
+        {
             "name": "Maharani",
             "year": null,
             "quality": "720p",
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Maharani.S02E06-10.Bangla.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Dont Say Good Luck  Dual",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Dont.Say.Good.Luck.(2026).Dual.720P.mkv"
+        },
+        {
+            "name": "Emergency Room",
+            "year": null,
+            "quality": "480P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Emergency.Room.S01E01-03.480P.mkv"
+        },
+        {
+            "name": "Sahasam  Dual",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sahasam.(2025).Dual.1080p.mkv"
         },
         {
             "name": "Sahasam  Dual",
@@ -71,44 +113,8 @@
         {
             "name": "To The Max  Dual",
             "year": "2026",
-            "quality": "480P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]To.The.Max.(2026).Dual.480P.mkv"
-        },
-        {
-            "name": "Dont Say Good Luck  Dual",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Dont.Say.Good.Luck.(2026).Dual.720P.mkv"
-        },
-        {
-            "name": "Dont Say Good Luck  Dual",
-            "year": "2026",
             "quality": "1080P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Dont.Say.Good.Luck.(2026).Dual.1080P.mkv"
-        },
-        {
-            "name": "Awarapan 2  Hindi HDTC",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Awarapan.2.(2026).Hindi.HDTC.720p.mkv"
-        },
-        {
-            "name": "Sahasam  Dual",
-            "year": "2025",
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sahasam.(2025).Dual.720p.mkv"
-        },
-        {
-            "name": "Partner Track",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Partner.Track.S01E06-10.Dual.1080P.mkv"
-        },
-        {
-            "name": "Silo",
-            "year": null,
-            "quality": "720P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Silo.S03E07.English.720P.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]To.The.Max.(2026).Dual.1080P.mkv"
         },
         {
             "name": "Emergency Room",
@@ -117,10 +123,16 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Emergency.Room.S01E01-03.720P.mkv"
         },
         {
-            "name": "Partner Track",
+            "name": "Maharani",
             "year": null,
-            "quality": "720P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Partner.Track.S01E06-10.Dual.720P.mkv"
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Maharani.S02E06-10.Bangla.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Brothers and Sisters",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Brothers.and.Sisters.S01E45-48.Dual.1080P.mkv"
         },
         {
             "name": "Snake Woman  Dual",
@@ -129,46 +141,28 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Snake.Woman.(2025).Dual.1080P.mkv"
         },
         {
-            "name": "Snake Woman  Dual",
-            "year": "2025",
-            "quality": "720P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Snake.Woman.(2025).Dual.720P.mkv"
-        },
-        {
-            "name": "My Brilliant Career",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Brilliant.Career.(2026).S01.Dual.480P.mkv"
-        },
-        {
             "name": "Maharani",
             "year": null,
             "quality": "1080p",
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Maharani.S02E01-05.Bangla.Dubbed.1080p.mkv"
         },
         {
-            "name": "The Traitors",
-            "year": null,
-            "quality": "720P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Traitors.S02E01-03.720P.mkv"
-        },
-        {
             "name": "Gold  Dual BluRay",
             "year": "2022",
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Gold.(2022).Dual.BluRay.1080p.mkv"
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Gold.(2022).Dual.BluRay.480p.mkv"
         },
         {
-            "name": "Close to Me  Dual",
+            "name": "Thukra Ke Mera Pyaar",
+            "year": null,
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Thukra.Ke.Mera.Pyaar.S02E34-37.Dual.720p.new.mkv"
+        },
+        {
+            "name": "Snake Woman  Dual",
             "year": "2025",
             "quality": "720P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Close.to.Me.(2025).Dual.720P.mkv"
-        },
-        {
-            "name": "Brothers and Sisters",
-            "year": null,
-            "quality": "720P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Brothers.and.Sisters.S01E45-48.Dual.720P.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Snake.Woman.(2025).Dual.720P.mkv"
         },
         {
             "name": "Thukra Ke Mera Pyaar",
@@ -177,10 +171,46 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Thukra.Ke.Mera.Pyaar.S02E34-37.Dual.1080p.new.mkv"
         },
         {
-            "name": "Maharani",
-            "year": null,
+            "name": "Close to Me  Dual",
+            "year": "2025",
+            "quality": "480P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Close.to.Me.(2025).Dual.480P.mkv"
+        },
+        {
+            "name": "Gold  Dual BluRay",
+            "year": "2022",
             "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Maharani.S02E06-10.Bangla.Dubbed.1080p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Gold.(2022).Dual.BluRay.1080p.mkv"
+        },
+        {
+            "name": "My Brilliant Career",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Brilliant.Career.(2026).S01.Dual.480P.mkv"
+        },
+        {
+            "name": "The Traitors",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Traitors.S02E01-03.1080P.mkv"
+        },
+        {
+            "name": "My Brilliant Career",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Brilliant.Career.(2026).S01.Dual.1080P.mkv"
+        },
+        {
+            "name": "My Brilliant Career",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Brilliant.Career.(2026).S01.Dual.720P.mkv"
+        },
+        {
+            "name": "Gold  Dual BluRay",
+            "year": "2022",
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Gold.(2022).Dual.BluRay.720p.mkv"
         },
         {
             "name": "Maharani",
@@ -191,14 +221,14 @@
         {
             "name": "Brothers and Sisters",
             "year": null,
-            "quality": "1080P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Brothers.and.Sisters.S01E45-48.Dual.1080P.mkv"
+            "quality": "720P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Brothers.and.Sisters.S01E45-48.Dual.720P.mkv"
         },
         {
-            "name": "My Brilliant Career",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Brilliant.Career.(2026).S01.Dual.1080P.mkv"
+            "name": "The Traitors",
+            "year": null,
+            "quality": "720P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Traitors.S02E01-03.720P.mkv"
         },
         {
             "name": "Close to Me  Dual",
@@ -207,154 +237,10 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Close.to.Me.(2025).Dual.1080P.mkv"
         },
         {
-            "name": "Gold  Dual BluRay",
-            "year": "2022",
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Gold.(2022).Dual.BluRay.720p.mkv"
-        },
-        {
-            "name": "Thukra Ke Mera Pyaar",
-            "year": null,
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Thukra.Ke.Mera.Pyaar.S02E34-37.Dual.720p.new.mkv"
-        },
-        {
-            "name": "Gold  Dual BluRay",
-            "year": "2022",
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Gold.(2022).Dual.BluRay.480p.mkv"
-        },
-        {
             "name": "Close to Me  Dual",
             "year": "2025",
-            "quality": "480P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Close.to.Me.(2025).Dual.480P.mkv"
-        },
-        {
-            "name": "My Brilliant Career",
-            "year": "2026",
             "quality": "720P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Brilliant.Career.(2026).S01.Dual.720P.mkv"
-        },
-        {
-            "name": "The Traitors",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Traitors.S02E01-03.1080P.mkv"
-        },
-        {
-            "name": "Maa Inti Bangaram  Dual",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Maa.Inti.Bangaram.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "Bharat Bhhagya Viddhaata  Hindi",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Bharat.Bhhagya.Viddhaata.(2026).Hindi.480p.mkv"
-        },
-        {
-            "name": "Star Trek Strange New Worlds",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Star.Trek.Strange.New.Worlds.S04E04.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Cocktail 2  Hindi",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Cocktail.2.(2026).Hindi.1080p.mkv"
-        },
-        {
-            "name": "Balan The Boy 2026 Dual  New",
-            "year": null,
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Balan.The.Boy.2026.Dual.480p.New.mkv"
-        },
-        {
-            "name": "Bharat Bhhagya Viddhaata  Hindi",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Bharat.Bhhagya.Viddhaata.(2026).Hindi.1080p.mkv"
-        },
-        {
-            "name": "Nibba Nibbi  Bengali",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Nibba.Nibbi.(2026).Bengali.480p.mkv"
-        },
-        {
-            "name": "Aroopi  Dual",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aroopi.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "Balan The Boy 2026 Dual  New",
-            "year": null,
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Balan.The.Boy.2026.Dual.720p.New.mkv"
-        },
-        {
-            "name": "Maa Inti Bangaram  Dual",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Maa.Inti.Bangaram.(2026).Dual.720p.mkv"
-        },
-        {
-            "name": "Nibba Nibbi  Bengali",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Nibba.Nibbi.(2026).Bengali.1080p.mkv"
-        },
-        {
-            "name": "Aroopi  Dual",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aroopi.(2026).Dual.720p.mkv"
-        },
-        {
-            "name": "Balan The Boy 2026 Dual  New",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Balan.The.Boy.2026.Dual.1080p.New.mkv"
-        },
-        {
-            "name": "Bharat Bhhagya Viddhaata  Hindi",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Bharat.Bhhagya.Viddhaata.(2026).Hindi.720p.mkv"
-        },
-        {
-            "name": "Cocktail 2  Hindi",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Cocktail.2.(2026).Hindi.480p.mkv"
-        },
-        {
-            "name": "Star Trek Strange New Worlds",
-            "year": null,
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Star.Trek.Strange.New.Worlds.S04E04.Hindi.720p.mkv"
-        },
-        {
-            "name": "Cocktail 2  Hindi",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Cocktail.2.(2026).Hindi.720p.mkv"
-        },
-        {
-            "name": "Aroopi  Dual",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aroopi.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "Nibba Nibbi  Bengali",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Nibba.Nibbi.(2026).Bengali.720p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Close.to.Me.(2025).Dual.720P.mkv"
         },
         {
             "name": "Maa Inti Bangaram  Dual",
@@ -363,34 +249,124 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Maa.Inti.Bangaram.(2026).Dual.1080p.mkv"
         },
         {
-            "name": "Kattalan  Dual Hindi HQ",
+            "name": "Cocktail 2  Hindi",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Cocktail.2.(2026).Hindi.1080p.mkv"
+        },
+        {
+            "name": "Cocktail 2  Hindi",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Cocktail.2.(2026).Hindi.720p.mkv"
+        },
+        {
+            "name": "Nibba Nibbi  Bengali",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Nibba.Nibbi.(2026).Bengali.720p.mkv"
+        },
+        {
+            "name": "Nibba Nibbi  Bengali",
             "year": "2026",
             "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Kattalan.(2026).Dual.Hindi.HQ.480p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Nibba.Nibbi.(2026).Bengali.480p.mkv"
         },
         {
-            "name": "Aakhri Sawal  Hindi",
+            "name": "Maa Inti Bangaram  Dual",
             "year": "2026",
-            "quality": "480P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aakhri.Sawal.(2026).Hindi.480P.mkv"
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Maa.Inti.Bangaram.(2026).Dual.720p.mkv"
         },
         {
-            "name": "Sultan Salahuddin Ayyubi",
+            "name": "Bharat Bhhagya Viddhaata  Hindi",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Bharat.Bhhagya.Viddhaata.(2026).Hindi.480p.mkv"
+        },
+        {
+            "name": "Maa Inti Bangaram  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Maa.Inti.Bangaram.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Cocktail 2  Hindi",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Cocktail.2.(2026).Hindi.480p.mkv"
+        },
+        {
+            "name": "Nibba Nibbi  Bengali",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Nibba.Nibbi.(2026).Bengali.1080p.mkv"
+        },
+        {
+            "name": "Balan The Boy 2026 Dual  New",
             "year": null,
-            "quality": "720P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E10.720P.mkv"
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Balan.The.Boy.2026.Dual.1080p.New.mkv"
         },
         {
-            "name": "Kattalan  Dual Hindi HQ",
+            "name": "Aroopi  Dual",
             "year": "2026",
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Kattalan.(2026).Dual.Hindi.HQ.720p.mkv"
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aroopi.(2026).Dual.1080p.mkv"
         },
         {
-            "name": "Ferar Opekkhay  Bangla",
+            "name": "Balan The Boy 2026 Dual  New",
+            "year": null,
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Balan.The.Boy.2026.Dual.480p.New.mkv"
+        },
+        {
+            "name": "Aroopi  Dual",
             "year": "2026",
             "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Ferar.Opekkhay.(2026).Bangla.720p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aroopi.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Bharat Bhhagya Viddhaata  Hindi",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Bharat.Bhhagya.Viddhaata.(2026).Hindi.720p.mkv"
+        },
+        {
+            "name": "Star Trek Strange New Worlds",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Star.Trek.Strange.New.Worlds.S04E04.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Bharat Bhhagya Viddhaata  Hindi",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Bharat.Bhhagya.Viddhaata.(2026).Hindi.1080p.mkv"
+        },
+        {
+            "name": "Balan The Boy 2026 Dual  New",
+            "year": null,
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Balan.The.Boy.2026.Dual.720p.New.mkv"
+        },
+        {
+            "name": "Star Trek Strange New Worlds",
+            "year": null,
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Star.Trek.Strange.New.Worlds.S04E04.Hindi.720p.mkv"
+        },
+        {
+            "name": "Aroopi  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aroopi.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Curse of the Seven Seas 2024 Indonesian",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Curse.of.the.Seven.Seas.2024.Indonesian.1080p.mkv"
         },
         {
             "name": "Moda Kavida Vaatavarana  Dual",
@@ -399,34 +375,46 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Moda.Kavida.Vaatavarana.(2026).Dual.1080p.mkv"
         },
         {
+            "name": "Aakhri Sawal  Hindi",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aakhri.Sawal.(2026).Hindi.1080P.mkv"
+        },
+        {
+            "name": "Kattalan  Dual Hindi HQ",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Kattalan.(2026).Dual.Hindi.HQ.1080p.mkv"
+        },
+        {
+            "name": "G D N 2026 Dual HDTC",
+            "year": null,
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]G.D.N.2026.Dual.HDTC.720p.mkv"
+        },
+        {
+            "name": "Aakhri Sawal  Hindi",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aakhri.Sawal.(2026).Hindi.720P.mkv"
+        },
+        {
+            "name": "Kattalan  Dual Hindi HQ",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Kattalan.(2026).Dual.Hindi.HQ.480p.mkv"
+        },
+        {
             "name": "Moda Kavida Vaatavarana  Dual",
             "year": "2026",
             "quality": "720p",
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Moda.Kavida.Vaatavarana.(2026).Dual.720p.mkv"
         },
         {
-            "name": "Moda Kavida Vaatavarana  Dual",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Moda.Kavida.Vaatavarana.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "G D N 2026 Dual HDTC",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]G.D.N.2026.Dual.HDTC.1080p.mkv"
-        },
-        {
             "name": "Achyuta Avataaram  Dual",
             "year": "2026",
             "quality": "1080P",
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Achyuta.Avataaram.(2026).Dual.1080P.mkv"
-        },
-        {
-            "name": "Aakhri Sawal  Hindi",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aakhri.Sawal.(2026).Hindi.1080P.mkv"
         },
         {
             "name": "Curse of the Seven Seas 2024 Indonesian",
@@ -443,32 +431,20 @@
         {
             "name": "Kattalan  Dual Hindi HQ",
             "year": "2026",
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Kattalan.(2026).Dual.Hindi.HQ.1080p.mkv"
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Kattalan.(2026).Dual.Hindi.HQ.720p.mkv"
         },
         {
-            "name": "Curse of the Seven Seas 2024 Indonesian",
+            "name": "Sultan Salahuddin Ayyubi",
             "year": null,
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Curse.of.the.Seven.Seas.2024.Indonesian.1080p.mkv"
+            "quality": "720P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E10.720P.mkv"
         },
         {
             "name": "G D N 2026 Dual HDTC",
             "year": null,
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]G.D.N.2026.Dual.HDTC.720p.mkv"
-        },
-        {
-            "name": "Aakhri Sawal  Hindi",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aakhri.Sawal.(2026).Hindi.720P.mkv"
-        },
-        {
-            "name": "Achyuta Avataaram  Dual",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Achyuta.Avataaram.(2026).Dual.480P.mkv"
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]G.D.N.2026.Dual.HDTC.1080p.mkv"
         },
         {
             "name": "G D N 2026 Dual HDTC",
@@ -477,40 +453,40 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]G.D.N.2026.Dual.HDTC.480p.mkv"
         },
         {
+            "name": "Aakhri Sawal  Hindi",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aakhri.Sawal.(2026).Hindi.480P.mkv"
+        },
+        {
+            "name": "Moda Kavida Vaatavarana  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Moda.Kavida.Vaatavarana.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Achyuta Avataaram  Dual",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Achyuta.Avataaram.(2026).Dual.480P.mkv"
+        },
+        {
+            "name": "Ferar Opekkhay  Bangla",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Ferar.Opekkhay.(2026).Bangla.720p.mkv"
+        },
+        {
             "name": "Achyuta Avataaram  Dual",
             "year": "2026",
             "quality": "720P",
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Achyuta.Avataaram.(2026).Dual.720P.mkv"
         },
         {
-            "name": "Partner Track",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Partner.Track.S01E01-05.Dual.1080P.mkv"
-        },
-        {
-            "name": "Jumper 2026 Hindi",
-            "year": null,
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Jumper.2026.Hindi.720p.mkv"
-        },
-        {
-            "name": "Heart Beat",
-            "year": null,
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Heart.Beat.S03E09-12.Dual.720p.mkv"
-        },
-        {
-            "name": "Ferar Opekkhay  Bangla",
+            "name": "In the Grey  Dual",
             "year": "2026",
             "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Ferar.Opekkhay.(2026).Bangla.1080p.mkv"
-        },
-        {
-            "name": "Rongin Shurma  Bengali",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Rongin.Shurma.(2026).Bengali.720p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]In.the.Grey.(2026).Dual.1080p.mkv"
         },
         {
             "name": "Sultan Salahuddin Ayyubi",
@@ -519,28 +495,22 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E09.720P.mkv"
         },
         {
-            "name": "Partner Track",
+            "name": "Aarshikathan 2026 Bengali",
             "year": null,
-            "quality": "720P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Partner.Track.S01E01-05.Dual.720P.mkv"
-        },
-        {
-            "name": "In the Grey  Dual",
-            "year": "2026",
             "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]In.the.Grey.(2026).Dual.720p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aarshikathan.2026.Bengali.720p.mkv"
         },
         {
-            "name": "Arafta",
-            "year": "2026",
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E09.1080P.mkv"
+        },
+        {
+            "name": "Heart Beat",
+            "year": null,
             "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Arafta.(2026).S02E06.Hindi.Dubbed.1080p.mkv"
-        },
-        {
-            "name": "My Bias My Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Bias.My.Boss.S01E04.Dual.720p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Heart.Beat.S03E09-12.Dual.1080p.mkv"
         },
         {
             "name": "Jumper 2026 Hindi",
@@ -561,34 +531,34 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Arafta.(2026).S02E06.Hindi.Dubbed.720p.mkv"
         },
         {
+            "name": "Arafta",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Arafta.(2026).S02E06.Hindi.Dubbed.1080p.mkv"
+        },
+        {
             "name": "Heart Beat",
             "year": null,
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Heart.Beat.S03E09-12.Dual.1080p.mkv"
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Heart.Beat.S03E09-12.Dual.720p.mkv"
         },
         {
-            "name": "Aarshikathan 2026 Bengali",
+            "name": "My Bias My Boss",
             "year": null,
             "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aarshikathan.2026.Bengali.720p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Bias.My.Boss.S01E04.Dual.720p.mkv"
         },
         {
-            "name": "Sultan Salahuddin Ayyubi",
+            "name": "Jumper 2026 Hindi",
             "year": null,
-            "quality": "1080P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E09.1080P.mkv"
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Jumper.2026.Hindi.720p.mkv"
         },
         {
             "name": "In the Grey  Dual",
             "year": "2026",
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]In.the.Grey.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "Aarshikathan 2026 Bengali",
-            "year": null,
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aarshikathan.2026.Bengali.480p.mkv"
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]In.the.Grey.(2026).Dual.720p.mkv"
         },
         {
             "name": "Rongin Shurma  Bengali",
@@ -597,82 +567,58 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Rongin.Shurma.(2026).Bengali.1080p.mkv"
         },
         {
+            "name": "Partner Track",
+            "year": null,
+            "quality": "720P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Partner.Track.S01E01-05.Dual.720P.mkv"
+        },
+        {
+            "name": "Partner Track",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Partner.Track.S01E01-05.Dual.1080P.mkv"
+        },
+        {
+            "name": "Aarshikathan 2026 Bengali",
+            "year": null,
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aarshikathan.2026.Bengali.480p.mkv"
+        },
+        {
             "name": "In the Grey  Dual",
             "year": "2026",
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]In.the.Grey.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "Filter",
-            "year": null,
             "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Filter.S01E21-32.Hindi.Dubbed.480p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]In.the.Grey.(2026).Dual.480p.mkv"
         },
         {
-            "name": "The Tudors",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S04.Hindi.Dubbed.1080p.mkv"
-        },
-        {
-            "name": "The Tudors",
-            "year": null,
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S04.Hindi.Dubbed.480p.mkv"
-        },
-        {
-            "name": "Filter",
-            "year": null,
+            "name": "Rongin Shurma  Bengali",
+            "year": "2026",
             "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Filter.S01E11-20.Hindi.Dubbed.720p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Rongin.Shurma.(2026).Bengali.720p.mkv"
         },
         {
-            "name": "Ip Man Kung Fu Legend  English",
+            "name": "Ferar Opekkhay  Bangla",
             "year": "2026",
             "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Ip.Man.Kung.Fu.Legend.(2026).English.1080p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Ferar.Opekkhay.(2026).Bangla.1080p.mkv"
         },
         {
             "name": "The Tudors",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S03.Hindi.Dubbed.1080p.mkv"
-        },
-        {
-            "name": "The Tudors",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S02.Hindi.Dubbed.1080p.mkv"
-        },
-        {
-            "name": "Filter",
             "year": null,
             "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Filter.S01E01-10.Hindi.Dubbed.480p.mkv"
-        },
-        {
-            "name": "Filter",
-            "year": null,
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Filter.S01E21-32.Hindi.Dubbed.720p.mkv"
-        },
-        {
-            "name": "Filter",
-            "year": null,
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Filter.S01E11-20.Hindi.Dubbed.480p.mkv"
-        },
-        {
-            "name": "The Tudors",
-            "year": null,
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S03.Hindi.Dubbed.720p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S03.Hindi.Dubbed.480p.mkv"
         },
         {
             "name": "Ip Man Kung Fu Legend  English",
             "year": "2026",
             "quality": "720p",
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Ip.Man.Kung.Fu.Legend.(2026).English.720p.mkv"
+        },
+        {
+            "name": "The Tudors",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S02.Hindi.Dubbed.1080p.mkv"
         },
         {
             "name": "Reacher",
@@ -684,13 +630,49 @@
             "name": "The Tudors",
             "year": null,
             "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S02.Hindi.Dubbed.720p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S04.Hindi.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Filter",
+            "year": null,
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Filter.S01E01-10.Hindi.Dubbed.480p.mkv"
         },
         {
             "name": "The Tudors",
             "year": null,
             "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S04.Hindi.Dubbed.720p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S02.Hindi.Dubbed.720p.mkv"
+        },
+        {
+            "name": "The Tudors",
+            "year": null,
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S04.Hindi.Dubbed.480p.mkv"
+        },
+        {
+            "name": "Ip Man Kung Fu Legend  English",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Ip.Man.Kung.Fu.Legend.(2026).English.1080p.mkv"
+        },
+        {
+            "name": "Filter",
+            "year": null,
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Filter.S01E21-32.Hindi.Dubbed.480p.mkv"
+        },
+        {
+            "name": "Filter",
+            "year": null,
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Filter.S01E01-10.Hindi.Dubbed.720p.mkv"
+        },
+        {
+            "name": "My Bias My Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Bias.My.Boss.S01E04.Dual.1080p.mkv"
         },
         {
             "name": "The Tudors",
@@ -701,14 +683,14 @@
         {
             "name": "The Tudors",
             "year": null,
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S03.Hindi.Dubbed.480p.mkv"
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S03.Hindi.Dubbed.1080p.mkv"
         },
         {
             "name": "Filter",
             "year": null,
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Filter.S01E01-10.Hindi.Dubbed.720p.mkv"
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Filter.S01E11-20.Hindi.Dubbed.480p.mkv"
         },
         {
             "name": "Reacher",
@@ -717,22 +699,28 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Reacher.(2026).S04E01-03.Dual.1080p.mkv"
         },
         {
-            "name": "My Bias My Boss",
+            "name": "The Tudors",
             "year": null,
             "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Bias.My.Boss.S01E04.Dual.1080p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S04.Hindi.Dubbed.1080p.mkv"
         },
         {
-            "name": "In Hell  Dual",
-            "year": "2003",
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]In.Hell.(2003).Dual.720p.mkv"
-        },
-        {
-            "name": "The Super Husband 2024 Hindi",
+            "name": "Filter",
             "year": null,
             "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Super.Husband.2024.Hindi.720p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Filter.S01E11-20.Hindi.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Filter",
+            "year": null,
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Filter.S01E21-32.Hindi.Dubbed.720p.mkv"
+        },
+        {
+            "name": "The Tudors",
+            "year": null,
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Tudors.S03.Hindi.Dubbed.720p.mkv"
         },
         {
             "name": "In Hell  Dual",
@@ -741,40 +729,16 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]In.Hell.(2003).Dual.1080p.mkv"
         },
         {
-            "name": "My Bias My Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Bias.My.Boss.S01E03.Dual.720p.mkv"
-        },
-        {
             "name": "Vampires Of The Velvet Lounge 2026 Dual",
             "year": null,
             "quality": "1080p",
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Vampires.Of.The.Velvet.Lounge.2026.Dual.1080p.mkv"
         },
         {
-            "name": "Young Washington 2026 English",
+            "name": "The Super Husband 2024 Hindi",
             "year": null,
             "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Young.Washington.2026.English.720p.mkv"
-        },
-        {
-            "name": "Wrangler 2026 Dual",
-            "year": null,
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Wrangler.2026.Dual.480p.mkv"
-        },
-        {
-            "name": "Night Nurse 2026 English",
-            "year": null,
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Night.Nurse.2026.English.480p.mkv"
-        },
-        {
-            "name": "Vampires Of The Velvet Lounge 2026 Dual",
-            "year": null,
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Vampires.Of.The.Velvet.Lounge.2026.Dual.480p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Super.Husband.2024.Hindi.720p.mkv"
         },
         {
             "name": "The Super Husband 2024 Hindi",
@@ -783,10 +747,28 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]The.Super.Husband.2024.Hindi.1080p.mkv"
         },
         {
+            "name": "My Bias My Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]My.Bias.My.Boss.S01E03.Dual.720p.mkv"
+        },
+        {
             "name": "Sultan Salahuddin Ayyubi",
             "year": null,
             "quality": "720P",
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E08.720P.mkv"
+        },
+        {
+            "name": "Wrangler 2026 Dual",
+            "year": null,
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Wrangler.2026.Dual.480p.mkv"
+        },
+        {
+            "name": "In Hell  Dual",
+            "year": "2003",
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]In.Hell.(2003).Dual.720p.mkv"
         },
         {
             "name": "Night Nurse 2026 English",
@@ -795,34 +777,34 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Night.Nurse.2026.English.720p.mkv"
         },
         {
-            "name": "Sultan Salahuddin Ayyubi",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E08.1080P.mkv"
-        },
-        {
             "name": "Rabid  Dual",
             "year": "1977",
             "quality": "720p",
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Rabid.(1977).Dual.720p.mkv"
         },
         {
-            "name": "Wrangler 2026 Dual",
-            "year": null,
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Wrangler.2026.Dual.720p.mkv"
-        },
-        {
-            "name": "Rabid  Dual",
-            "year": "1977",
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Rabid.(1977).Dual.1080p.mkv"
-        },
-        {
             "name": "Vampires Of The Velvet Lounge 2026 Dual",
             "year": null,
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Vampires.Of.The.Velvet.Lounge.2026.Dual.480p.mkv"
+        },
+        {
+            "name": "Young Washington 2026 English",
+            "year": null,
             "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Vampires.Of.The.Velvet.Lounge.2026.Dual.720p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Young.Washington.2026.English.720p.mkv"
+        },
+        {
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E08.1080P.mkv"
+        },
+        {
+            "name": "Night Nurse 2026 English",
+            "year": null,
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Night.Nurse.2026.English.480p.mkv"
         },
         {
             "name": "My Bias My Boss",
@@ -837,16 +819,28 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Young.Washington.2026.English.1080p.mkv"
         },
         {
+            "name": "Rabid  Dual",
+            "year": "1977",
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Rabid.(1977).Dual.1080p.mkv"
+        },
+        {
+            "name": "Vampires Of The Velvet Lounge 2026 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Vampires.Of.The.Velvet.Lounge.2026.Dual.720p.mkv"
+        },
+        {
+            "name": "Wrangler 2026 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Wrangler.2026.Dual.720p.mkv"
+        },
+        {
             "name": "Wrangler 2026 Dual",
             "year": null,
             "quality": "1080p",
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Wrangler.2026.Dual.1080p.mkv"
-        },
-        {
-            "name": "Aryabhatt Ka Zero  Hindi HDTC",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aryabhatt.Ka.Zero.(2026).Hindi.HDTC.720p.mkv"
         },
         {
             "name": "Minions & Monsters  Dual",
@@ -855,10 +849,28 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Minions.&.Monsters.(2026).Dual.720p.mkv"
         },
         {
-            "name": "Kaun Banega Crorepati",
+            "name": "Naagin",
             "year": null,
             "quality": "1080P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Kaun.Banega.Crorepati.S18E01.1080P.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Naagin.S03E06-10.1080P.mkv"
+        },
+        {
+            "name": "Choddobeshi",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Choddobeshi.(2026).S01.Hindi.720p.mkv"
+        },
+        {
+            "name": "Aryabhatt Ka Zero  Hindi HDTC",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aryabhatt.Ka.Zero.(2026).Hindi.HDTC.720p.mkv"
+        },
+        {
+            "name": "Aryabhatt Ka Zero  Hindi HDTC",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aryabhatt.Ka.Zero.(2026).Hindi.HDTC.1080p.mkv"
         },
         {
             "name": "Shimla Mirchi  Hindi",
@@ -869,8 +881,44 @@
         {
             "name": "Teenage Sex and Death at Camp Miasma  English HDTC",
             "year": "2026",
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Teenage.Sex.and.Death.at.Camp.Miasma.(2026).English.HDTC.720p.mkv"
+        },
+        {
+            "name": "Minions & Monsters  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Minions.&.Monsters.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Kaun Banega Crorepati",
+            "year": null,
+            "quality": "720P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Kaun.Banega.Crorepati.S18E01.720P.mkv"
+        },
+        {
+            "name": "Minions & Monsters  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Minions.&.Monsters.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Choddobeshi",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Choddobeshi.(2026).S01.Hindi.480p.mkv"
+        },
+        {
+            "name": "Teenage Sex and Death at Camp Miasma  English HDTC",
+            "year": "2026",
             "quality": "1080p",
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Teenage.Sex.and.Death.at.Camp.Miasma.(2026).English.HDTC.1080p.mkv"
+        },
+        {
+            "name": "Shimla Mirchi  Hindi",
+            "year": "2020",
+            "quality": "1080p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Shimla.Mirchi.(2020).Hindi.1080p.mkv"
         },
         {
             "name": "Sultan Salahuddin Ayyubi",
@@ -881,50 +929,8 @@
         {
             "name": "Choddobeshi",
             "year": "2026",
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Choddobeshi.(2026).S01.Hindi.480p.mkv"
-        },
-        {
-            "name": "Minions & Monsters  Dual",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Minions.&.Monsters.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "Naagin",
-            "year": null,
-            "quality": "720P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Naagin.S03E06-10.720P.mkv"
-        },
-        {
-            "name": "Teenage Sex and Death at Camp Miasma  English HDTC",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Teenage.Sex.and.Death.at.Camp.Miasma.(2026).English.HDTC.720p.mkv"
-        },
-        {
-            "name": "Choddobeshi",
-            "year": "2026",
             "quality": "1080p",
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Choddobeshi.(2026).S01.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Aryabhatt Ka Zero  Hindi HDTC",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Aryabhatt.Ka.Zero.(2026).Hindi.HDTC.1080p.mkv"
-        },
-        {
-            "name": "I Me aur Main  Hindi",
-            "year": "2013",
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]I.Me.aur.Main.(2013).Hindi.720p.mkv"
-        },
-        {
-            "name": "Choddobeshi",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Choddobeshi.(2026).S01.Hindi.720p.mkv"
         },
         {
             "name": "Sultan Salahuddin Ayyubi",
@@ -933,10 +939,16 @@
             "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E07.1080P.mkv"
         },
         {
-            "name": "Shimla Mirchi  Hindi",
-            "year": "2020",
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Shimla.Mirchi.(2020).Hindi.1080p.mkv"
+            "name": "I Me aur Main  Hindi",
+            "year": "2013",
+            "quality": "720p",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]I.Me.aur.Main.(2013).Hindi.720p.mkv"
+        },
+        {
+            "name": "Naagin",
+            "year": null,
+            "quality": "720P",
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Naagin.S03E06-10.720P.mkv"
         },
         {
             "name": "I Me aur Main  Hindi",
@@ -947,20 +959,8 @@
         {
             "name": "Kaun Banega Crorepati",
             "year": null,
-            "quality": "720P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Kaun.Banega.Crorepati.S18E01.720P.mkv"
-        },
-        {
-            "name": "Naagin",
-            "year": null,
             "quality": "1080P",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Naagin.S03E06-10.1080P.mkv"
-        },
-        {
-            "name": "Minions & Monsters  Dual",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Minions.&.Monsters.(2026).Dual.1080p.mkv"
+            "link": "https://myujkh.b-cdn.net/s3/upload/videos/2026/08/[Fibwatch.Com]Kaun.Banega.Crorepati.S18E01.1080P.mkv"
         }
     ]
 }
