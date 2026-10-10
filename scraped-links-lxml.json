@@ -1,12 +1,18 @@
 {
     "made_by": "@siam3310",
-    "last_update_time": "2026-10-10 20:53:17 UTC",
+    "last_update_time": "2026-10-10 23:59:43 UTC",
     "scraped_media": [
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E42.Bengali.1080p.mkv"
+        },
         {
             "name": "India Ke Top 1 parcent",
             "year": null,
-            "quality": "720P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E07.720P.mkv"
+            "quality": "1080P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E07.1080P.mkv"
         },
         {
             "name": "Adam And Eve  Hindi",
@@ -21,22 +27,40 @@
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E35.Hindi.720p.mkv"
         },
         {
-            "name": "Rise And Fall",
-            "year": null,
-            "quality": "720P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E15.720P.mkv"
-        },
-        {
             "name": "A Love Other than Yours",
             "year": null,
             "quality": "1080p",
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Love.Other.than.Yours.S01E07.Multi.Audio.1080p.mkv"
         },
         {
-            "name": "The Great Indian Kapil Show",
+            "name": "India Ke Top 1 parcent",
             "year": null,
             "quality": "720P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Great.Indian.Kapil.Show.S05E03.720P.mkv"
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E07.720P.mkv"
+        },
+        {
+            "name": "A Love Other than Yours",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Love.Other.than.Yours.S01E07.Multi.Audio.720p.mkv"
+        },
+        {
+            "name": "MTV Hustle",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MTV.Hustle.S05E19.1080p.mkv"
+        },
+        {
+            "name": "Adam And Eve  Hindi",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Adam.And.Eve.(2026).Hindi.720p.mkv"
+        },
+        {
+            "name": "Rise And Fall",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E15.1080P.mkv"
         },
         {
             "name": "You Me & Tuscany  Dual",
@@ -47,14 +71,26 @@
         {
             "name": "You Me & Tuscany  Dual",
             "year": "2026",
-            "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]You.Me.&.Tuscany.(2026).Dual.480p.mkv"
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]You.Me.&.Tuscany.(2026).Dual.1080p.mkv"
         },
         {
-            "name": "A Love Other than Yours",
+            "name": "The Great Indian Kapil Show",
             "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Love.Other.than.Yours.S01E07.Multi.Audio.720p.mkv"
+            "quality": "720P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Great.Indian.Kapil.Show.S05E03.720P.mkv"
+        },
+        {
+            "name": "Dadagiri Unlimited",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dadagiri.Unlimited.S11E28.1080P.mkv"
+        },
+        {
+            "name": "You Me & Tuscany  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]You.Me.&.Tuscany.(2026).Dual.480p.mkv"
         },
         {
             "name": "Bigg Boss",
@@ -69,10 +105,10 @@
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MTV.Hustle.S05E19.720p.mkv"
         },
         {
-            "name": "Adam And Eve  Hindi",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Adam.And.Eve.(2026).Hindi.720p.mkv"
+            "name": "Dadagiri Unlimited",
+            "year": null,
+            "quality": "720P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dadagiri.Unlimited.S11E28.720P.mkv"
         },
         {
             "name": "Bigg Boss",
@@ -83,44 +119,14 @@
         {
             "name": "Rise And Fall",
             "year": null,
-            "quality": "1080P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E15.1080P.mkv"
-        },
-        {
-            "name": "MTV Hustle",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MTV.Hustle.S05E19.1080p.mkv"
-        },
-        {
-            "name": "India Ke Top 1 parcent",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E07.1080P.mkv"
-        },
-        {
-            "name": "Dadagiri Unlimited",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dadagiri.Unlimited.S11E28.1080P.mkv"
-        },
-        {
-            "name": "You Me & Tuscany  Dual",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]You.Me.&.Tuscany.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "Dadagiri Unlimited",
-            "year": null,
             "quality": "720P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dadagiri.Unlimited.S11E28.720P.mkv"
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E15.720P.mkv"
         },
         {
-            "name": "Bigg Boss",
+            "name": "Ananta Bhalobasha",
             "year": null,
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E42.Bengali.1080p.mkv"
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E49.Bangla.Dubbed.720p.mkv"
         },
         {
             "name": "Gopal Bhar",
@@ -129,76 +135,10 @@
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1286.mkv"
         },
         {
-            "name": "Tarpan  Bengali",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Tarpan.(2026).Bengali.720p.mkv"
-        },
-        {
-            "name": "Tarpan  Bengali",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Tarpan.(2026).Bengali.1080p.mkv"
-        },
-        {
-            "name": "Vijaynagarer Hirey  Bengali  new",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Vijaynagarer.Hirey.(2026).Bengali.480p.new.mkv"
-        },
-        {
-            "name": "The Great Indian Kapil Show",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Great.Indian.Kapil.Show.S05E03.1080P.mkv"
-        },
-        {
-            "name": "Doctor X",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Doctor.X.S01E01.Dual.English-Korean.720p.mkv"
-        },
-        {
-            "name": "Vijaynagarer Hirey  Bengali  new",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Vijaynagarer.Hirey.(2026).Bengali.1080p.new.mkv"
-        },
-        {
             "name": "Maremma  Dual",
             "year": "2026",
-            "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Maremma.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "Pradhama Drishtiya Kuttakkar  Malayalam",
-            "year": "2026",
             "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Pradhama.Drishtiya.Kuttakkar.(2026).Malayalam.1080p.mkv"
-        },
-        {
-            "name": "Gopal Bhar",
-            "year": null,
-            "quality": null,
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1285.mkv"
-        },
-        {
-            "name": "Vijaynagarer Hirey  Bengali  new",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Vijaynagarer.Hirey.(2026).Bengali.720p.new.mkv"
-        },
-        {
-            "name": "Maremma  Dual",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Maremma.(2026).Dual.720p.mkv"
-        },
-        {
-            "name": "Monty & Bubly  Bengali",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Monty.&.Bubly.(2026).Bengali.720p.mkv"
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Maremma.(2026).Dual.1080p.mkv"
         },
         {
             "name": "Tarpan  Bengali",
@@ -209,32 +149,26 @@
         {
             "name": "Monty & Bubly  Bengali",
             "year": "2026",
-            "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Monty.&.Bubly.(2026).Bengali.480p.mkv"
-        },
-        {
-            "name": "Monty & Bubly  Bengali",
-            "year": "2026",
             "quality": "1080p",
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Monty.&.Bubly.(2026).Bengali.1080p.mkv"
         },
         {
-            "name": "Ananta Bhalobasha",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E49.Bangla.Dubbed.720p.mkv"
-        },
-        {
-            "name": "Pradhama Drishtiya Kuttakkar  Malayalam",
+            "name": "Tarpan  Bengali",
             "year": "2026",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Pradhama.Drishtiya.Kuttakkar.(2026).Malayalam.720p.mkv"
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Tarpan.(2026).Bengali.1080p.mkv"
         },
         {
             "name": "Maremma  Dual",
             "year": "2026",
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Maremma.(2026).Dual.1080p.mkv"
+            "quality": "480p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Maremma.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Gopal Bhar",
+            "year": null,
+            "quality": null,
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1285.mkv"
         },
         {
             "name": "Ananta Bhalobasha",
@@ -243,34 +177,82 @@
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E49.Bangla.Dubbed.1080p.mkv"
         },
         {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E41.Bengali.1080p.mkv"
-        },
-        {
-            "name": "You Me Tuscany  Dual",
+            "name": "Pradhama Drishtiya Kuttakkar  Malayalam",
             "year": "2026",
-            "quality": "720P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]You.Me.Tuscany.(2026).Dual.720P.mkv"
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Pradhama.Drishtiya.Kuttakkar.(2026).Malayalam.1080p.mkv"
         },
         {
-            "name": "The Ordinary Jackpot",
+            "name": "Vijaynagarer Hirey  Bengali  new",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Vijaynagarer.Hirey.(2026).Bengali.1080p.new.mkv"
+        },
+        {
+            "name": "Monty & Bubly  Bengali",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Monty.&.Bubly.(2026).Bengali.480p.mkv"
+        },
+        {
+            "name": "The Great Indian Kapil Show",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Great.Indian.Kapil.Show.S05E03.1080P.mkv"
+        },
+        {
+            "name": "Monty & Bubly  Bengali",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Monty.&.Bubly.(2026).Bengali.720p.mkv"
+        },
+        {
+            "name": "Tarpan  Bengali",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Tarpan.(2026).Bengali.720p.mkv"
+        },
+        {
+            "name": "Vijaynagarer Hirey  Bengali  new",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Vijaynagarer.Hirey.(2026).Bengali.480p.new.mkv"
+        },
+        {
+            "name": "Vijaynagarer Hirey  Bengali  new",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Vijaynagarer.Hirey.(2026).Bengali.720p.new.mkv"
+        },
+        {
+            "name": "Doctor X",
             "year": null,
             "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Ordinary.Jackpot.S01E10.Dual.720p.mkv"
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Doctor.X.S01E01.Dual.English-Korean.720p.mkv"
         },
         {
-            "name": "Matchbox the Movie  English",
+            "name": "Maremma  Dual",
             "year": "2026",
-            "quality": "720P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Matchbox.the.Movie.(2026).English.720P.mkv"
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Maremma.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Pradhama Drishtiya Kuttakkar  Malayalam",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Pradhama.Drishtiya.Kuttakkar.(2026).Malayalam.720p.mkv"
+        },
+        {
+            "name": "Doctor X",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Doctor.X.S01E01.Dual.English-Korean.1080p.mkv"
         },
         {
             "name": "Raandhuni Na Kaanduni",
             "year": "2026",
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E06.Bengali.1080p.mkv"
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E06.Bengali.720p.mkv"
         },
         {
             "name": "MobLand",
@@ -281,26 +263,14 @@
         {
             "name": "Above And Below 2026 Dual",
             "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Above.And.Below.2026.Dual.720p.mkv"
-        },
-        {
-            "name": "Raandhuni Na Kaanduni",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E06.Bengali.720p.mkv"
-        },
-        {
-            "name": "Above And Below 2026 Dual",
-            "year": null,
-            "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Above.And.Below.2026.Dual.480p.mkv"
-        },
-        {
-            "name": "Doctor X",
-            "year": null,
             "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Doctor.X.S01E01.Dual.English-Korean.1080p.mkv"
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Above.And.Below.2026.Dual.1080p.mkv"
+        },
+        {
+            "name": "Matchbox the Movie  English",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Matchbox.the.Movie.(2026).English.720P.mkv"
         },
         {
             "name": "MobLand",
@@ -309,52 +279,10 @@
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MobLand.S02E04.Dual.1080p.mkv"
         },
         {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E34.Hindi.1080p.mkv"
-        },
-        {
             "name": "Rise And Fall",
             "year": null,
             "quality": "1080P",
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E14.1080P.mkv"
-        },
-        {
-            "name": "Above And Below 2026 Dual",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Above.And.Below.2026.Dual.1080p.mkv"
-        },
-        {
-            "name": "Matchbox the Movie  English",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Matchbox.the.Movie.(2026).English.1080P.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E34.Hindi.720p.mkv"
-        },
-        {
-            "name": "Rise And Fall",
-            "year": null,
-            "quality": "720P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E14.720P.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E41.Bengali.720p.mkv"
-        },
-        {
-            "name": "You Me Tuscany  Dual",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]You.Me.Tuscany.(2026).Dual.480P.mkv"
         },
         {
             "name": "You Me Tuscany  Dual",
@@ -363,16 +291,106 @@
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]You.Me.Tuscany.(2026).Dual.1080P.mkv"
         },
         {
-            "name": "The Ordinary Jackpot",
-            "year": null,
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
             "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Ordinary.Jackpot.S01E09.Dual.1080p.mkv"
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E06.Bengali.1080p.mkv"
         },
         {
-            "name": "Reporting Live  Hindi",
+            "name": "You Me Tuscany  Dual",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]You.Me.Tuscany.(2026).Dual.480P.mkv"
+        },
+        {
+            "name": "Matchbox the Movie  English",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Matchbox.the.Movie.(2026).English.1080P.mkv"
+        },
+        {
+            "name": "Above And Below 2026 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Above.And.Below.2026.Dual.720p.mkv"
+        },
+        {
+            "name": "You Me Tuscany  Dual",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]You.Me.Tuscany.(2026).Dual.720P.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E41.Bengali.720p.mkv"
+        },
+        {
+            "name": "Rise And Fall",
+            "year": null,
+            "quality": "720P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E14.720P.mkv"
+        },
+        {
+            "name": "The Ordinary Jackpot",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Ordinary.Jackpot.S01E10.Dual.720p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E41.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Above And Below 2026 Dual",
+            "year": null,
+            "quality": "480p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Above.And.Below.2026.Dual.480p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E34.Hindi.720p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E34.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Least Eligible Bachelor",
             "year": "2026",
             "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Reporting.Live.(2026).Hindi.480p.mkv"
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Least.Eligible.Bachelor.(2026).S01.Dual.480p.mkv"
+        },
+        {
+            "name": "Take Charge of My Heart",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Take.Charge.of.My.Heart.(2026).S01.Dual.1080p.mkv"
+        },
+        {
+            "name": "Animals  Dual",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Animals.(2026).Dual.480P.mkv"
+        },
+        {
+            "name": "Take Charge of My Heart",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Take.Charge.of.My.Heart.(2026).S01.Dual.480p.mkv"
+        },
+        {
+            "name": "Take Charge of My Heart",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Take.Charge.of.My.Heart.(2026).S01.Dual.720p.mkv"
         },
         {
             "name": "Reporting Live  Hindi",
@@ -383,38 +401,26 @@
         {
             "name": "Adbhut  Hindi",
             "year": "2024",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Adbhut.(2024).Hindi.720p.mkv"
-        },
-        {
-            "name": "Animals  Dual",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Animals.(2026).Dual.480P.mkv"
-        },
-        {
-            "name": "Least Eligible Bachelor",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Least.Eligible.Bachelor.(2026).S01.Dual.1080p.mkv"
-        },
-        {
-            "name": "The Ordinary Jackpot",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Ordinary.Jackpot.S01E09.Dual.720p.mkv"
-        },
-        {
-            "name": "Adbhut  Hindi",
-            "year": "2024",
             "quality": "480p",
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Adbhut.(2024).Hindi.480p.mkv"
         },
         {
-            "name": "Animals  Dual",
+            "name": "Reporting Live  Hindi",
             "year": "2026",
-            "quality": "1080P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Animals.(2026).Dual.1080P.mkv"
+            "quality": "480p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Reporting.Live.(2026).Hindi.480p.mkv"
+        },
+        {
+            "name": "Least Eligible Bachelor",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Least.Eligible.Bachelor.(2026).S01.Dual.720p.mkv"
+        },
+        {
+            "name": "Adbhut  Hindi",
+            "year": "2024",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Adbhut.(2024).Hindi.720p.mkv"
         },
         {
             "name": "Adbhut  Hindi",
@@ -426,19 +432,25 @@
             "name": "The Ordinary Jackpot",
             "year": null,
             "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Ordinary.Jackpot.S01E10.Dual.1080p.mkv"
-        },
-        {
-            "name": "Take Charge of My Heart",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Take.Charge.of.My.Heart.(2026).S01.Dual.1080p.mkv"
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Ordinary.Jackpot.S01E09.Dual.1080p.mkv"
         },
         {
             "name": "Premik Premika aar Petnee",
             "year": "2026",
             "quality": "1080P",
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Premik.Premika.aar.Petnee.(2026).S01E04.1080P.mkv"
+        },
+        {
+            "name": "Premik Premika aar Petnee",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Premik.Premika.aar.Petnee.(2026).S01E04.720P.mkv"
+        },
+        {
+            "name": "The Ordinary Jackpot",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Ordinary.Jackpot.S01E09.Dual.720p.mkv"
         },
         {
             "name": "Gopal Bhar",
@@ -449,14 +461,8 @@
         {
             "name": "Least Eligible Bachelor",
             "year": "2026",
-            "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Least.Eligible.Bachelor.(2026).S01.Dual.480p.mkv"
-        },
-        {
-            "name": "Least Eligible Bachelor",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Least.Eligible.Bachelor.(2026).S01.Dual.720p.mkv"
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Least.Eligible.Bachelor.(2026).S01.Dual.1080p.mkv"
         },
         {
             "name": "Animals  Dual",
@@ -465,136 +471,16 @@
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Animals.(2026).Dual.720P.mkv"
         },
         {
-            "name": "Premik Premika aar Petnee",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Premik.Premika.aar.Petnee.(2026).S01E04.720P.mkv"
-        },
-        {
-            "name": "Take Charge of My Heart",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Take.Charge.of.My.Heart.(2026).S01.Dual.720p.mkv"
-        },
-        {
-            "name": "Take Charge of My Heart",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Take.Charge.of.My.Heart.(2026).S01.Dual.480p.mkv"
-        },
-        {
-            "name": "Part Timers",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Part.Timers.S01E25-28.Hindi.720p.mkv"
-        },
-        {
-            "name": "Khalifa The Ruler  Dual",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Khalifa.The.Ruler.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "Brothers and Sisters",
-            "year": null,
-            "quality": "720P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Brothers.and.Sisters.S01E77-80.Dual.720P.mkv"
-        },
-        {
-            "name": "Chumbak  Dual",
-            "year": "2018",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Chumbak.(2018).Dual.720p.mkv"
-        },
-        {
-            "name": "The Court",
+            "name": "Animals  Dual",
             "year": "2026",
             "quality": "1080P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Court.(2026).S01E21-24.Dual.1080P.mkv"
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Animals.(2026).Dual.1080P.mkv"
         },
         {
-            "name": "Prince of Mollywood",
+            "name": "The Ordinary Jackpot",
             "year": null,
             "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Prince.of.Mollywood.S01E17-20.Dual.1080p.mkv"
-        },
-        {
-            "name": "Chumbak  Dual",
-            "year": "2018",
-            "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Chumbak.(2018).Dual.480p.mkv"
-        },
-        {
-            "name": "Part Timers",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Part.Timers.S01E25-28.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Epic First Semester  Dual",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Epic.First.Semester.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "Ali Baba aur 40 Bhoot",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ali.Baba.aur.40.Bhoot.S01E17-20.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Epic First Semester  Dual",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Epic.First.Semester.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "Brothers and Sisters",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Brothers.and.Sisters.S01E77-80.Dual.1080P.mkv"
-        },
-        {
-            "name": "The Court",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Court.(2026).S01E21-24.Dual.720P.mkv"
-        },
-        {
-            "name": "Reporting Live  Hindi",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Reporting.Live.(2026).Hindi.1080p.mkv"
-        },
-        {
-            "name": "Epic First Semester  Dual",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Epic.First.Semester.(2026).Dual.720p.mkv"
-        },
-        {
-            "name": "Apollo Has Fallen",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Apollo.Has.Fallen.S01E05.Dual.720p.mkv"
-        },
-        {
-            "name": "Apollo Has Fallen",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Apollo.Has.Fallen.S01E05.Dual.1080p.mkv"
-        },
-        {
-            "name": "Ali Baba aur 40 Bhoot",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ali.Baba.aur.40.Bhoot.S01E17-20.Hindi.720p.mkv"
-        },
-        {
-            "name": "Prince of Mollywood",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Prince.of.Mollywood.S01E17-20.Dual.720p.mkv"
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Ordinary.Jackpot.S01E10.Dual.1080p.mkv"
         },
         {
             "name": "Chumbak  Dual",
@@ -603,16 +489,154 @@
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Chumbak.(2018).Dual.1080p.mkv"
         },
         {
-            "name": "Reacher",
-            "year": "2023",
+            "name": "Epic First Semester  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Epic.First.Semester.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Part Timers",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Part.Timers.S01E25-28.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Part Timers",
+            "year": null,
             "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Reacher.(2023).S02E04-08.Dul.720p.mkv"
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Part.Timers.S01E25-28.Hindi.720p.mkv"
+        },
+        {
+            "name": "Prince of Mollywood",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Prince.of.Mollywood.S01E17-20.Dual.1080p.mkv"
+        },
+        {
+            "name": "The Court",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Court.(2026).S01E21-24.Dual.1080P.mkv"
+        },
+        {
+            "name": "Chumbak  Dual",
+            "year": "2018",
+            "quality": "480p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Chumbak.(2018).Dual.480p.mkv"
+        },
+        {
+            "name": "Apollo Has Fallen",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Apollo.Has.Fallen.S01E05.Dual.720p.mkv"
+        },
+        {
+            "name": "Epic First Semester  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Epic.First.Semester.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Ali Baba aur 40 Bhoot",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ali.Baba.aur.40.Bhoot.S01E17-20.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Apollo Has Fallen",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Apollo.Has.Fallen.S01E05.Dual.1080p.mkv"
+        },
+        {
+            "name": "Epic First Semester  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Epic.First.Semester.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Reporting Live  Hindi",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Reporting.Live.(2026).Hindi.1080p.mkv"
+        },
+        {
+            "name": "Brothers and Sisters",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Brothers.and.Sisters.S01E77-80.Dual.1080P.mkv"
+        },
+        {
+            "name": "Khalifa The Ruler  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Khalifa.The.Ruler.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "The Court",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Court.(2026).S01E21-24.Dual.720P.mkv"
+        },
+        {
+            "name": "Prince of Mollywood",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Prince.of.Mollywood.S01E17-20.Dual.720p.mkv"
+        },
+        {
+            "name": "Ali Baba aur 40 Bhoot",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ali.Baba.aur.40.Bhoot.S01E17-20.Hindi.720p.mkv"
+        },
+        {
+            "name": "Chumbak  Dual",
+            "year": "2018",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Chumbak.(2018).Dual.720p.mkv"
+        },
+        {
+            "name": "Brothers and Sisters",
+            "year": null,
+            "quality": "720P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Brothers.and.Sisters.S01E77-80.Dual.720P.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E33.Hindi.720p.mkv"
+        },
+        {
+            "name": "Keu Bole Biplobi Keu Bole Dakat",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Keu.Bole.Biplobi.Keu.Bole.Dakat.(2026).1080P.mkv"
+        },
+        {
+            "name": "Biswasghatak 2003",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Biswasghatak.2003.720p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E40.Bengali.720p.mkv"
+        },
+        {
+            "name": "The Punisher",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S01E13.Dual.Hindi.HQ.1080p.mkv"
         },
         {
             "name": "Bigg Boss",
             "year": null,
             "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E33.Hindi.1080p.mkv"
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E40.Bengali.1080p.mkv"
         },
         {
             "name": "Rise And Fall",
@@ -623,68 +647,14 @@
         {
             "name": "Keu Bole Biplobi Keu Bole Dakat",
             "year": "2026",
-            "quality": "720P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Keu.Bole.Biplobi.Keu.Bole.Dakat.(2026).720P.mkv"
-        },
-        {
-            "name": "The Punisher",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S01E13.Dual.Hindi.HQ.720p.mkv"
-        },
-        {
-            "name": "Reacher",
-            "year": "2023",
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Reacher.(2023).S02E04-08.Dul.1080p.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E40.Bengali.720p.mkv"
-        },
-        {
-            "name": "Keu Bole Biplobi Keu Bole Dakat",
-            "year": "2026",
             "quality": "480P",
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Keu.Bole.Biplobi.Keu.Bole.Dakat.(2026).480P.mkv"
         },
         {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E40.Bengali.1080p.mkv"
-        },
-        {
-            "name": "Biswasghatak 2003",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Biswasghatak.2003.720p.mkv"
-        },
-        {
-            "name": "Khalifa The Ruler  Dual",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Khalifa.The.Ruler.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "Reacher",
-            "year": "2023",
-            "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Reacher.(2023).S02E04-08.Dul.480p.mkv"
-        },
-        {
             "name": "Keu Bole Biplobi Keu Bole Dakat",
             "year": "2026",
-            "quality": "1080P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Keu.Bole.Biplobi.Keu.Bole.Dakat.(2026).1080P.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E33.Hindi.720p.mkv"
+            "quality": "720P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Keu.Bole.Biplobi.Keu.Bole.Dakat.(2026).720P.mkv"
         },
         {
             "name": "Rise And Fall",
@@ -693,10 +663,52 @@
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E13.1080P.mkv"
         },
         {
-            "name": "The Punisher",
+            "name": "Reacher",
+            "year": "2023",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Reacher.(2023).S02E04-08.Dul.720p.mkv"
+        },
+        {
+            "name": "Reacher",
+            "year": "2023",
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Reacher.(2023).S02E04-08.Dul.1080p.mkv"
+        },
+        {
+            "name": "Khalifa The Ruler  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Khalifa.The.Ruler.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Biswasghatak 2003",
             "year": null,
             "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S01E13.Dual.Hindi.HQ.1080p.mkv"
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Biswasghatak.2003.1080p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E33.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Reacher",
+            "year": "2023",
+            "quality": "480p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Reacher.(2023).S02E04-08.Dul.480p.mkv"
+        },
+        {
+            "name": "The Punisher",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S01E13.Dual.Hindi.HQ.720p.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E05.Bengali.720p.mkv"
         },
         {
             "name": "Raandhuni Na Kaanduni",
@@ -711,28 +723,22 @@
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Khalifa.The.Ruler.(2026).Dual.720p.mkv"
         },
         {
-            "name": "Raandhuni Na Kaanduni",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E05.Bengali.720p.mkv"
-        },
-        {
-            "name": "Biswasghatak 2003",
+            "name": "Sultan Salahuddin Ayyubi",
             "year": null,
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Biswasghatak.2003.1080p.mkv"
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E50.720p.mkv"
         },
         {
-            "name": "Below",
+            "name": "Premik Premika aar Petnee",
             "year": "2026",
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Below.(2026).S01.Dual.1080p.mkv"
+            "quality": "1080P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Premik.Premika.aar.Petnee.(2026).S01E01-03.1080P.mkv"
         },
         {
-            "name": "Eyes",
+            "name": "Deiva Thirumagal  Bengali Dubbed",
             "year": "2026",
-            "quality": "480P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Eyes.(2026).S01.Dual.480P.mkv"
+            "quality": "720P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Deiva.Thirumagal.(2026).Bengali.Dubbed.720P.mkv"
         },
         {
             "name": "Sultan Salahuddin Ayyubi",
@@ -741,16 +747,40 @@
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E50.1080p.mkv"
         },
         {
-            "name": "Ananta Bhalobasha",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E48.Bangla.Dubbed.1080p.mkv"
+            "name": "Unicorn Academy Secrets Revealed",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Unicorn.Academy.Secrets.Revealed.(2026).S02.Dual.720p.mkv"
+        },
+        {
+            "name": "Eyes",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Eyes.(2026).S01.Dual.480P.mkv"
         },
         {
             "name": "Unicorn Academy Secrets Revealed",
             "year": "2026",
-            "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Unicorn.Academy.Secrets.Revealed.(2026).S02.Dual.480p.mkv"
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Unicorn.Academy.Secrets.Revealed.(2026).S02.Dual.1080p.mkv"
+        },
+        {
+            "name": "Eyes",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Eyes.(2026).S01.Dual.1080P.mkv"
+        },
+        {
+            "name": "Deiva Thirumagal  Bengali Dubbed",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Deiva.Thirumagal.(2026).Bengali.Dubbed.1080P.mkv"
+        },
+        {
+            "name": "Below",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Below.(2026).S01.Dual.720p.mkv"
         },
         {
             "name": "Below",
@@ -759,16 +789,40 @@
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Below.(2026).S01.Dual.480p.mkv"
         },
         {
+            "name": "Gopal Bhar",
+            "year": null,
+            "quality": null,
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1283.mkv"
+        },
+        {
+            "name": "Premik Premika aar Petnee",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Premik.Premika.aar.Petnee.(2026).S01E01-03.720P.mkv"
+        },
+        {
             "name": "Eyes",
             "year": "2026",
             "quality": "720P",
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Eyes.(2026).S01.Dual.720P.mkv"
         },
         {
-            "name": "Deiva Thirumagal  Bengali Dubbed",
+            "name": "Unicorn Academy Secrets Revealed",
             "year": "2026",
-            "quality": "720P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Deiva.Thirumagal.(2026).Bengali.Dubbed.720P.mkv"
+            "quality": "480p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Unicorn.Academy.Secrets.Revealed.(2026).S02.Dual.480p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E48.Bangla.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E48.Bangla.Dubbed.1080p.mkv"
         },
         {
             "name": "Deiva Thirumagal  Bengali Dubbed",
@@ -783,106 +837,16 @@
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Batchmates.(2026).S01E93-96.Hindi.720p.mkv"
         },
         {
-            "name": "Ananta Bhalobasha",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E48.Bangla.Dubbed.720p.mkv"
-        },
-        {
-            "name": "Deiva Thirumagal  Bengali Dubbed",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Deiva.Thirumagal.(2026).Bengali.Dubbed.1080P.mkv"
-        },
-        {
-            "name": "Unicorn Academy Secrets Revealed",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Unicorn.Academy.Secrets.Revealed.(2026).S02.Dual.1080p.mkv"
-        },
-        {
-            "name": "Unicorn Academy Secrets Revealed",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Unicorn.Academy.Secrets.Revealed.(2026).S02.Dual.720p.mkv"
-        },
-        {
-            "name": "Gopal Bhar",
-            "year": null,
-            "quality": null,
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1283.mkv"
-        },
-        {
             "name": "Below",
             "year": "2026",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Below.(2026).S01.Dual.720p.mkv"
-        },
-        {
-            "name": "Eyes",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Eyes.(2026).S01.Dual.1080P.mkv"
-        },
-        {
-            "name": "Premik Premika aar Petnee",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Premik.Premika.aar.Petnee.(2026).S01E01-03.720P.mkv"
-        },
-        {
-            "name": "Premik Premika aar Petnee",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Premik.Premika.aar.Petnee.(2026).S01E01-03.1080P.mkv"
-        },
-        {
-            "name": "Sultan Salahuddin Ayyubi",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E50.720p.mkv"
-        },
-        {
-            "name": "A Korean Odyssey",
-            "year": "2017",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Korean.Odyssey.(2017).S01.Hindi.Dubbed.720p.mkv"
-        },
-        {
-            "name": "Mandaadi 2026 Dual",
-            "year": null,
             "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Mandaadi.2026.Dual.1080p.mkv"
-        },
-        {
-            "name": "Mandaadi 2026 Dual",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Mandaadi.2026.Dual.720p.mkv"
-        },
-        {
-            "name": "A Korean Odyssey",
-            "year": "2017",
-            "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Korean.Odyssey.(2017).S01.Hindi.Dubbed.480p.mkv"
-        },
-        {
-            "name": "Pressure Cooker  Bengali  n",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Pressure.Cooker.(2026).Bengali.1080P.n.mkv"
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Below.(2026).S01.Dual.1080p.mkv"
         },
         {
             "name": "Happily Married  Bengali",
             "year": "2026",
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Happily.Married.(2026).Bengali.1080p.mkv"
-        },
-        {
-            "name": "Pressure Cooker  Bengali  n",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Pressure.Cooker.(2026).Bengali.720P.n.mkv"
+            "quality": "480p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Happily.Married.(2026).Bengali.480p.mkv"
         },
         {
             "name": "Raandhuni Na Kaanduni",
@@ -891,10 +855,82 @@
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E04.Bengali.1080p.mkv"
         },
         {
+            "name": "Heart Beat",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Heart.Beat.S03E41-44.Dual.720p.mkv"
+        },
+        {
+            "name": "Happily Married  Bengali",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Happily.Married.(2026).Bengali.720p.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E04.Bengali.720p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E32.Hindi.720p.mkv"
+        },
+        {
+            "name": "Mandaadi 2026 Dual",
+            "year": null,
+            "quality": "480p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Mandaadi.2026.Dual.480p.mkv"
+        },
+        {
+            "name": "Pressure Cooker  Bengali  n",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Pressure.Cooker.(2026).Bengali.1080P.n.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E39.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Mandaadi 2026 Dual",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Mandaadi.2026.Dual.1080p.mkv"
+        },
+        {
             "name": "Batchmates",
             "year": "2026",
             "quality": "1080p",
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Batchmates.(2026).S01E93-96.Hindi.1080p.mkv"
+        },
+        {
+            "name": "A Korean Odyssey",
+            "year": "2017",
+            "quality": "480p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Korean.Odyssey.(2017).S01.Hindi.Dubbed.480p.mkv"
+        },
+        {
+            "name": "Mandaadi 2026 Dual",
+            "year": null,
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Mandaadi.2026.Dual.720p.mkv"
+        },
+        {
+            "name": "Pressure Cooker  Bengali  n",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Pressure.Cooker.(2026).Bengali.720P.n.mkv"
+        },
+        {
+            "name": "Heart Beat",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Heart.Beat.S03E41-44.Dual.1080p.mkv"
         },
         {
             "name": "Bigg Boss",
@@ -905,38 +941,8 @@
         {
             "name": "Happily Married  Bengali",
             "year": "2026",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Happily.Married.(2026).Bengali.720p.mkv"
-        },
-        {
-            "name": "Mandaadi 2026 Dual",
-            "year": null,
-            "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Mandaadi.2026.Dual.480p.mkv"
-        },
-        {
-            "name": "Heart Beat",
-            "year": null,
             "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Heart.Beat.S03E41-44.Dual.1080p.mkv"
-        },
-        {
-            "name": "Heart Beat",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Heart.Beat.S03E41-44.Dual.720p.mkv"
-        },
-        {
-            "name": "Pressure Cooker  Bengali  n",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Pressure.Cooker.(2026).Bengali.480P.n.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E39.Bengali.1080p.mkv"
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Happily.Married.(2026).Bengali.1080p.mkv"
         },
         {
             "name": "Bigg Boss",
@@ -945,22 +951,16 @@
             "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E39.Bengali.720p.mkv"
         },
         {
-            "name": "Happily Married  Bengali",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Happily.Married.(2026).Bengali.480p.mkv"
+            "name": "A Korean Odyssey",
+            "year": "2017",
+            "quality": "720p",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Korean.Odyssey.(2017).S01.Hindi.Dubbed.720p.mkv"
         },
         {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E32.Hindi.720p.mkv"
-        },
-        {
-            "name": "Raandhuni Na Kaanduni",
+            "name": "Pressure Cooker  Bengali  n",
             "year": "2026",
-            "quality": "720p",
-            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E04.Bengali.720p.mkv"
+            "quality": "480P",
+            "link": "https://derfe.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Pressure.Cooker.(2026).Bengali.480P.n.mkv"
         }
     ]
 }
