@@ -1,24 +1,60 @@
 {
     "made_by": "@siam3310",
-    "last_update_time": "2026-10-23 05:15:11 UTC",
+    "last_update_time": "2026-10-23 10:24:11 UTC",
     "scraped_media": [
         {
-            "name": "Rise And Fall",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E27.1080P.mkv"
-        },
-        {
-            "name": "Ali Baba aur 40 Bhoot",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ali.Baba.aur.40.Bhoot.S01E25-28.Hindi.720p.mkv"
-        },
-        {
-            "name": "Shwetkali",
+            "name": "Sumo Didi  Hindi",
             "year": "2026",
             "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Shwetkali.(2026).S02.720P.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sumo.Didi.(2026).Hindi.720P.mkv"
+        },
+        {
+            "name": "Gajab Raat  Hindi",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gajab.Raat.(2026).Hindi.480P.mkv"
+        },
+        {
+            "name": "Gajab Raat  Hindi",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gajab.Raat.(2026).Hindi.720P.mkv"
+        },
+        {
+            "name": "Chaar Yaar",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Chaar.Yaar.(2026).S01.Hindi.720P.mkv"
+        },
+        {
+            "name": "Chaar Yaar",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Chaar.Yaar.(2026).S01.Hindi.480P.mkv"
+        },
+        {
+            "name": "Dhoomakethu  Dual",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhoomakethu.(2026).Dual.1080P.mkv"
+        },
+        {
+            "name": "Dhoomakethu  Dual",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhoomakethu.(2026).Dual.720P.mkv"
+        },
+        {
+            "name": "Dorothy  Dual",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dorothy.(2026).Dual.720P.mkv"
+        },
+        {
+            "name": "Matargashti",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Matargashti.(2026).S01.Hindi.1080P.mkv"
         },
         {
             "name": "Sumo Didi  Hindi",
@@ -27,16 +63,70 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sumo.Didi.(2026).Hindi.480P.mkv"
         },
         {
+            "name": "DeSu7  Bengali HDTS",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]DeSu7.(2026).Bengali.HDTS.480P.mkv"
+        },
+        {
+            "name": "Dhoomakethu  Dual",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhoomakethu.(2026).Dual.480P.mkv"
+        },
+        {
+            "name": "DeSu7  Bengali HDTS",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]DeSu7.(2026).Bengali.HDTS.720P.mkv"
+        },
+        {
+            "name": "Matargashti",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Matargashti.(2026).S01.Hindi.480P.mkv"
+        },
+        {
+            "name": "Chaar Yaar",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Chaar.Yaar.(2026).S01.Hindi.1080P.mkv"
+        },
+        {
+            "name": "DeSu7  Bengali HDTS",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]DeSu7.(2026).Bengali.HDTS.1080P.mkv"
+        },
+        {
+            "name": "Matargashti",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Matargashti.(2026).S01.Hindi.720P.mkv"
+        },
+        {
+            "name": "Dorothy  Dual",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dorothy.(2026).Dual.480P.mkv"
+        },
+        {
+            "name": "Gajab Raat  Hindi",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gajab.Raat.(2026).Hindi.1080P.mkv"
+        },
+        {
             "name": "Dorothy  Dual",
             "year": "2026",
             "quality": "1080P",
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dorothy.(2026).Dual.1080P.mkv"
         },
         {
-            "name": "Legend of the White Dragon  Dual",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Legend.of.the.White.Dragon.(2026).Dual.1080p.mkv"
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E47.Hindi.720p.mkv"
         },
         {
             "name": "Ali Baba aur 40 Bhoot",
@@ -51,10 +141,94 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Legend.of.the.White.Dragon.(2026).Dual.720p.mkv"
         },
         {
-            "name": "Sumo Didi  Hindi",
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E54.Bengali.720p.mkv"
+        },
+        {
+            "name": "Nobody Wants This",
             "year": "2026",
+            "quality": "480P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Nobody.Wants.This.(2026).S03.Dual.480P.mkv"
+        },
+        {
+            "name": "Shwetkali",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Shwetkali.(2026).S02.480P.mkv"
+        },
+        {
+            "name": "Rise And Fall",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E27.1080P.mkv"
+        },
+        {
+            "name": "Legend of the White Dragon  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Legend.of.the.White.Dragon.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Ali Baba aur 40 Bhoot",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ali.Baba.aur.40.Bhoot.S01E25-28.Hindi.720p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E54.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Murphy  Dual",
+            "year": "2024",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Murphy.(2024).Dual.1080P.mkv"
+        },
+        {
+            "name": "Rise And Fall",
+            "year": null,
             "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sumo.Didi.(2026).Hindi.720P.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E27.720P.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E15.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Shwetkali",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Shwetkali.(2026).S02.1080P.mkv"
+        },
+        {
+            "name": "Murphy  Dual",
+            "year": "2024",
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Murphy.(2024).Dual.720P.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E47.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Legend of the White Dragon  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Legend.of.the.White.Dragon.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E15.Bengali.720p.mkv"
         },
         {
             "name": "Sumo Didi  Hindi",
@@ -65,98 +239,26 @@
         {
             "name": "Shwetkali",
             "year": "2026",
-            "quality": "480P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Shwetkali.(2026).S02.480P.mkv"
-        },
-        {
-            "name": "Murphy  Dual",
-            "year": "2024",
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Murphy.(2024).Dual.1080P.mkv"
-        },
-        {
-            "name": "Shwetkali",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Shwetkali.(2026).S02.1080P.mkv"
-        },
-        {
-            "name": "Dorothy  Dual",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dorothy.(2026).Dual.480P.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E54.Bengali.720p.mkv"
-        },
-        {
-            "name": "Murphy  Dual",
-            "year": "2024",
             "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Murphy.(2024).Dual.720P.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Shwetkali.(2026).S02.720P.mkv"
         },
         {
-            "name": "Legend of the White Dragon  Dual",
+            "name": "Marshals",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Marshals.S02E03.Dual.1080p.mkv"
+        },
+        {
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E58.1080p.mkv"
+        },
+        {
+            "name": "Ek Kanya Kunwari",
             "year": "2026",
             "quality": "480p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Legend.of.the.White.Dragon.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "Dorothy  Dual",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dorothy.(2026).Dual.720P.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E54.Bengali.1080p.mkv"
-        },
-        {
-            "name": "Rise And Fall",
-            "year": null,
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E27.720P.mkv"
-        },
-        {
-            "name": "Heart Beat",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Heart.Beat.S03E49-52.Dual.1080p.mkv"
-        },
-        {
-            "name": "Jeena Dil Se  Hindi",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Jeena.Dil.Se.(2026).Hindi.480P.mkv"
-        },
-        {
-            "name": "Ek Kanya Kunwari",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ek.Kanya.Kunwari.(2026).S01.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Ek Kanya Kunwari",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ek.Kanya.Kunwari.(2026).S01.Hindi.720p.mkv"
-        },
-        {
-            "name": "Raandhuni Na Kaanduni",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E15.Bengali.1080p.mkv"
-        },
-        {
-            "name": "Ananta Bhalobasha",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E60.Bangla.Dubbed.720p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ek.Kanya.Kunwari.(2026).S01.Hindi.480p.mkv"
         },
         {
             "name": "Heart Beat",
@@ -171,28 +273,22 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E60.Bangla.Dubbed.1080p.mkv"
         },
         {
-            "name": "Sultan Salahuddin Ayyubi",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E58.1080p.mkv"
-        },
-        {
-            "name": "Gopal Bhar",
-            "year": null,
-            "quality": null,
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1298.mkv"
+            "name": "Snow Bride",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Snow.Bride.(2026).S01.Hindi.480P.mkv"
         },
         {
             "name": "Jeena Dil Se  Hindi",
             "year": "2026",
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Jeena.Dil.Se.(2026).Hindi.1080P.mkv"
+            "quality": "480P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Jeena.Dil.Se.(2026).Hindi.480P.mkv"
         },
         {
-            "name": "Bigg Boss",
+            "name": "Heart Beat",
             "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E47.Hindi.720p.mkv"
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Heart.Beat.S03E49-52.Dual.1080p.mkv"
         },
         {
             "name": "Sultan Salahuddin Ayyubi",
@@ -201,10 +297,16 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E58.720p.mkv"
         },
         {
-            "name": "Bigg Boss",
+            "name": "Ek Kanya Kunwari",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ek.Kanya.Kunwari.(2026).S01.Hindi.720p.mkv"
+        },
+        {
+            "name": "Gopal Bhar",
             "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E47.Hindi.1080p.mkv"
+            "quality": null,
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1298.mkv"
         },
         {
             "name": "Nobody Wants This",
@@ -213,34 +315,28 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Nobody.Wants.This.(2026).S03.Dual.720P.mkv"
         },
         {
+            "name": "Snow Bride",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Snow.Bride.(2026).S01.Hindi.1080P.mkv"
+        },
+        {
+            "name": "Ek Kanya Kunwari",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ek.Kanya.Kunwari.(2026).S01.Hindi.1080p.mkv"
+        },
+        {
             "name": "Nobody Wants This",
             "year": "2026",
             "quality": "1080P",
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Nobody.Wants.This.(2026).S03.Dual.1080P.mkv"
         },
         {
-            "name": "Jeena Dil Se  Hindi",
+            "name": "Snow Bride",
             "year": "2026",
             "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Jeena.Dil.Se.(2026).Hindi.720P.mkv"
-        },
-        {
-            "name": "Ek Kanya Kunwari",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ek.Kanya.Kunwari.(2026).S01.Hindi.480p.mkv"
-        },
-        {
-            "name": "Raandhuni Na Kaanduni",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E15.Bengali.720p.mkv"
-        },
-        {
-            "name": "Nobody Wants This",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Nobody.Wants.This.(2026).S03.Dual.480P.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Snow.Bride.(2026).S01.Hindi.720P.mkv"
         },
         {
             "name": "Marshals",
@@ -249,70 +345,28 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Marshals.S02E03.Dual.720p.mkv"
         },
         {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E60.Bangla.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Jeena Dil Se  Hindi",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Jeena.Dil.Se.(2026).Hindi.720P.mkv"
+        },
+        {
+            "name": "Jeena Dil Se  Hindi",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Jeena.Dil.Se.(2026).Hindi.1080P.mkv"
+        },
+        {
             "name": "The Paradise  Dual",
             "year": "2026",
             "quality": "480P",
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Paradise.(2026).Dual.480P.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E46.Hindi.720p.mkv"
-        },
-        {
-            "name": "Fagun Eivabeo Ashe 2026 Bengali",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Fagun.Eivabeo.Ashe.2026.Bengali.1080p.mkv"
-        },
-        {
-            "name": "Cerita Lila  Hindi Horror",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Cerita.Lila.(2026).Hindi.Horror.720P.mkv"
-        },
-        {
-            "name": "The Paradise  Dual",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Paradise.(2026).Dual.1080P.mkv"
-        },
-        {
-            "name": "Cocoons  Dual",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Cocoons.(2026).Dual.720P.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E53.Bengali.1080p.mkv"
-        },
-        {
-            "name": "Snow Bride",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Snow.Bride.(2026).S01.Hindi.480P.mkv"
-        },
-        {
-            "name": "Cocoons  Dual",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Cocoons.(2026).Dual.480P.mkv"
-        },
-        {
-            "name": "Cerita Lila  Hindi Horror",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Cerita.Lila.(2026).Hindi.Horror.480P.mkv"
-        },
-        {
-            "name": "The Paradise  Dual",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Paradise.(2026).Dual.720P.mkv"
         },
         {
             "name": "Fagun Eivabeo Ashe 2026 Bengali",
@@ -324,13 +378,61 @@
             "name": "Bigg Boss",
             "year": null,
             "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E53.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E46.Hindi.720p.mkv"
+        },
+        {
+            "name": "Koffee with Karan",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Koffee.with.Karan.(2026).S09E02.1080P.mkv"
+        },
+        {
+            "name": "The Paradise  Dual",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Paradise.(2026).Dual.1080P.mkv"
+        },
+        {
+            "name": "The Terminal List",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Terminal.List.(2026).S02E01-08.Dual.480p.mkv"
+        },
+        {
+            "name": "The Paradise  Dual",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Paradise.(2026).Dual.720P.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E46.Hindi.1080p.mkv"
         },
         {
-            "name": "Marshals",
+            "name": "Cerita Lila  Hindi Horror",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Cerita.Lila.(2026).Hindi.Horror.720P.mkv"
+        },
+        {
+            "name": "Fagun Eivabeo Ashe 2026 Bengali",
             "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Marshals.S02E03.Dual.1080p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Fagun.Eivabeo.Ashe.2026.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Cocoons  Dual",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Cocoons.(2026).Dual.480P.mkv"
         },
         {
             "name": "Cocoons  Dual",
@@ -339,22 +441,34 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Cocoons.(2026).Dual.1080P.mkv"
         },
         {
-            "name": "Snow Bride",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Snow.Bride.(2026).S01.Hindi.720P.mkv"
-        },
-        {
             "name": "Cerita Lila  Hindi Horror",
             "year": "2026",
             "quality": "1080P",
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Cerita.Lila.(2026).Hindi.Horror.1080P.mkv"
         },
         {
-            "name": "Snow Bride",
+            "name": "Cocoons  Dual",
             "year": "2026",
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Snow.Bride.(2026).S01.Hindi.1080P.mkv"
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Cocoons.(2026).Dual.720P.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E14.Bengali.720p.mkv"
+        },
+        {
+            "name": "Koffee with Karan",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Koffee.with.Karan.(2026).S09E02.720P.mkv"
+        },
+        {
+            "name": "Cerita Lila  Hindi Horror",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Cerita.Lila.(2026).Hindi.Horror.480P.mkv"
         },
         {
             "name": "Raandhuni Na Kaanduni",
@@ -363,10 +477,22 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E14.Bengali.1080p.mkv"
         },
         {
+            "name": "Brothers and Sisters",
+            "year": null,
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Brothers.and.Sisters.S01E81-88.Dual.720P.mkv"
+        },
+        {
             "name": "The Terminal List",
             "year": "2026",
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Terminal.List.(2026).S02E01-08.Dual.720p.mkv"
+        },
+        {
+            "name": "VisionQuest",
+            "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Terminal.List.(2026).S02E01-08.Dual.1080p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]VisionQuest.S01E03.Dual.1080p.mkv"
         },
         {
             "name": "Super Hit  Dual",
@@ -375,10 +501,22 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Super.Hit.(2026).Dual.1080p.mkv"
         },
         {
+            "name": "The Terminal List",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Terminal.List.(2026).S02E01-08.Dual.1080p.mkv"
+        },
+        {
             "name": "Ananta Bhalobasha",
             "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E59.Bangla.Dubbed.720p.mkv"
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E59.Bangla.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Moana  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Moana.(2026).Dual.1080p..mkv"
         },
         {
             "name": "The Punisher",
@@ -393,46 +531,10 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Super.Hit.(2026).Dual.720p.mkv"
         },
         {
-            "name": "Rise And Fall",
-            "year": null,
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E26.720P.mkv"
-        },
-        {
-            "name": "Rise And Fall",
+            "name": "Brothers and Sisters",
             "year": null,
             "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E26.1080P.mkv"
-        },
-        {
-            "name": "The Terminal List",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Terminal.List.(2026).S02E01-08.Dual.720p.mkv"
-        },
-        {
-            "name": "Raandhuni Na Kaanduni",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E14.Bengali.720p.mkv"
-        },
-        {
-            "name": "Koffee with Karan",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Koffee.with.Karan.(2026).S09E02.1080P.mkv"
-        },
-        {
-            "name": "Moana  Dual",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Moana.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "The Punisher",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E07.Dual.Hindi.HQ.720p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Brothers.and.Sisters.S01E81-88.Dual.1080P.mkv"
         },
         {
             "name": "Super Hit  Dual",
@@ -441,10 +543,40 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Super.Hit.(2026).Dual.480p.mkv"
         },
         {
+            "name": "The Punisher",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E07.Dual.Hindi.HQ.720p.mkv"
+        },
+        {
+            "name": "Rise And Fall",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E26.1080P.mkv"
+        },
+        {
+            "name": "VisionQuest",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]VisionQuest.S01E03.Dual.720p.mkv"
+        },
+        {
             "name": "Moana  Dual",
             "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Moana.(2026).Dual.1080p..mkv"
+            "quality": "480p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Moana.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "VisionQuest",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]VisionQuest.S01E04.Dual.720p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E59.Bangla.Dubbed.720p.mkv"
         },
         {
             "name": "Moana  Dual",
@@ -453,34 +585,34 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Moana.(2026).Dual.720p..mkv"
         },
         {
-            "name": "Brothers and Sisters",
-            "year": null,
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Brothers.and.Sisters.S01E81-88.Dual.720P.mkv"
-        },
-        {
-            "name": "Koffee with Karan",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Koffee.with.Karan.(2026).S09E02.720P.mkv"
-        },
-        {
-            "name": "The Terminal List",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Terminal.List.(2026).S02E01-08.Dual.480p.mkv"
-        },
-        {
-            "name": "Ananta Bhalobasha",
+            "name": "VisionQuest",
             "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E59.Bangla.Dubbed.1080p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]VisionQuest.S01E04.Dual.1080p.mkv"
         },
         {
-            "name": "Ghost in the Cell  Dual",
+            "name": "Rise And Fall",
+            "year": null,
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E26.720P.mkv"
+        },
+        {
+            "name": "Memsaab  Odia",
             "year": "2026",
-            "quality": "480p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ghost.in.the.Cell.(2026).Dual.480p.mkv"
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Memsaab.(2026).Odia.1080p.mkv"
+        },
+        {
+            "name": "The Punisher",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E06.Dual.Hindi.HQ.720p.mkv"
+        },
+        {
+            "name": "Love in Disguise",
+            "year": null,
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Love.in.Disguise.S01E02.Dual.720P.mkv"
         },
         {
             "name": "Love in Disguise",
@@ -498,91 +630,7 @@
             "name": "Bigg Boss",
             "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E52.Bengali.1080p.mkv"
-        },
-        {
-            "name": "Memsaab  Odia",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Memsaab.(2026).Odia.1080p.mkv"
-        },
-        {
-            "name": "Love in Disguise",
-            "year": null,
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Love.in.Disguise.S01E02.Dual.720P.mkv"
-        },
-        {
-            "name": "VisionQuest",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]VisionQuest.S01E03.Dual.1080p.mkv"
-        },
-        {
-            "name": "Gopal Bhar",
-            "year": null,
-            "quality": null,
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1296.mkv"
-        },
-        {
-            "name": "VisionQuest",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]VisionQuest.S01E03.Dual.720p.mkv"
-        },
-        {
-            "name": "Ghost in the Cell  Dual",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ghost.in.the.Cell.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "VisionQuest",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]VisionQuest.S01E04.Dual.720p.mkv"
-        },
-        {
-            "name": "Gopal Bhar",
-            "year": null,
-            "quality": null,
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1297.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "1080p",
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E45.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E45.Hindi.720p.mkv"
-        },
-        {
-            "name": "The Eken Kerala-e Kurukshetra  Bengali HDTC",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Eken.Kerala-e.Kurukshetra.(2026).Bengali.HDTC.480P.mkv"
-        },
-        {
-            "name": "Brothers and Sisters",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Brothers.and.Sisters.S01E81-88.Dual.1080P.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E52.Bengali.720p.mkv"
-        },
-        {
-            "name": "Gopal Bhar",
-            "year": null,
-            "quality": null,
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1295.mkv"
         },
         {
             "name": "Memsaab  Odia",
@@ -591,34 +639,28 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Memsaab.(2026).Odia.720p.mkv"
         },
         {
-            "name": "VisionQuest",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]VisionQuest.S01E04.Dual.1080p.mkv"
-        },
-        {
-            "name": "Raandhuni Na Kaanduni",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E13.Bengali.1080p.mkv"
-        },
-        {
-            "name": "Raandhuni Na Kaanduni",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E12.Bengali.1080p.mkv"
-        },
-        {
-            "name": "The Punisher",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E06.Dual.Hindi.HQ.1080p.mkv"
-        },
-        {
-            "name": "Street Fighter  Hindi TS-Rip",
+            "name": "The Eken Kerala-e Kurukshetra  Bengali HDTC",
             "year": "2026",
             "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Street.Fighter.(2026).Hindi.TS-Rip.720P.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Eken.Kerala-e.Kurukshetra.(2026).Bengali.HDTC.720P.mkv"
+        },
+        {
+            "name": "Gopal Bhar",
+            "year": null,
+            "quality": null,
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1297.mkv"
+        },
+        {
+            "name": "Ghost in the Cell  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ghost.in.the.Cell.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E45.Hindi.720p.mkv"
         },
         {
             "name": "The Punisher",
@@ -627,82 +669,28 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E05.Dual.Hindi.HQ.720p.mkv"
         },
         {
-            "name": "Sultan Salahuddin Ayyubi",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E57.720p.mkv"
-        },
-        {
-            "name": "Sultan Salahuddin Ayyubi",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E57.1080p.mkv"
-        },
-        {
-            "name": "The Punisher",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E04.Dual.Hindi.HQ.720p.mkv"
-        },
-        {
-            "name": "Rise And Fall",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E25.1080P.mkv"
-        },
-        {
-            "name": "Raandhuni Na Kaanduni",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E13.Bengali.720p.mkv"
-        },
-        {
-            "name": "Street Fighter  Hindi TS-Rip",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Street.Fighter.(2026).Hindi.TS-Rip.480P.mkv"
-        },
-        {
-            "name": "Rise And Fall",
-            "year": null,
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E25.720P.mkv"
-        },
-        {
             "name": "The Eken Kerala-e Kurukshetra  Bengali HDTC",
             "year": "2026",
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Eken.Kerala-e.Kurukshetra.(2026).Bengali.HDTC.720P.mkv"
+            "quality": "480P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Eken.Kerala-e.Kurukshetra.(2026).Bengali.HDTC.480P.mkv"
         },
         {
-            "name": "Street Fighter  Hindi TS-Rip",
+            "name": "Ghost in the Cell  Dual",
             "year": "2026",
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Street.Fighter.(2026).Hindi.TS-Rip.1080P.mkv"
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ghost.in.the.Cell.(2026).Dual.1080p.mkv"
         },
         {
-            "name": "The Punisher",
+            "name": "Bigg Boss",
             "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E04.Dual.Hindi.HQ.1080p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E52.Bengali.1080p.mkv"
         },
         {
-            "name": "The Punisher",
+            "name": "Gopal Bhar",
             "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E06.Dual.Hindi.HQ.720p.mkv"
-        },
-        {
-            "name": "Raandhuni Na Kaanduni",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E12.Bengali.720p.mkv"
-        },
-        {
-            "name": "Ananta Bhalobasha",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E58.Bangla.Dubbed.720p.mkv"
+            "quality": null,
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1295.mkv"
         },
         {
             "name": "The Eken Kerala-e Kurukshetra  Bengali HDTC",
@@ -714,31 +702,157 @@
             "name": "The Punisher",
             "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E05.Dual.Hindi.HQ.1080p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E06.Dual.Hindi.HQ.1080p.mkv"
+        },
+        {
+            "name": "Gopal Bhar",
+            "year": null,
+            "quality": null,
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1296.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E52.Bengali.720p.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E13.Bengali.720p.mkv"
+        },
+        {
+            "name": "Street Fighter  Hindi TS-Rip",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Street.Fighter.(2026).Hindi.TS-Rip.1080P.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E128.720p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "480p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E121-128.480p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E58.Bangla.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E58.Bangla.Dubbed.720p.mkv"
+        },
+        {
+            "name": "The Punisher",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E04.Dual.Hindi.HQ.1080p.mkv"
+        },
+        {
+            "name": "Rise And Fall",
+            "year": null,
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E25.720P.mkv"
+        },
+        {
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E57.1080p.mkv"
         },
         {
             "name": "Bachelor Point",
             "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E127.1080p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E121-128.1080p.mkv"
         },
         {
             "name": "Bachelor Point",
             "year": null,
             "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E125.720p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E121-128.720p.mkv"
+        },
+        {
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E57.720p.mkv"
+        },
+        {
+            "name": "Street Fighter  Hindi TS-Rip",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Street.Fighter.(2026).Hindi.TS-Rip.480P.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E12.Bengali.1080p.mkv"
+        },
+        {
+            "name": "The Punisher",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E05.Dual.Hindi.HQ.1080p.mkv"
+        },
+        {
+            "name": "Rise And Fall",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E25.1080P.mkv"
+        },
+        {
+            "name": "Street Fighter  Hindi TS-Rip",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Street.Fighter.(2026).Hindi.TS-Rip.720P.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E13.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E12.Bengali.720p.mkv"
+        },
+        {
+            "name": "The Punisher",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E04.Dual.Hindi.HQ.720p.mkv"
         },
         {
             "name": "Bachelor Point",
             "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E126.720p.mkv"
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E121.1080p.mkv"
         },
         {
             "name": "Bachelor Point",
             "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E122.1080p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
             "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E123.720p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E57.Bangla.Dubbed.720p.mkv"
         },
         {
             "name": "Bachelor Point",
@@ -750,25 +864,37 @@
             "name": "Bachelor Point",
             "year": null,
             "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E121-128.720p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E121.720p.mkv"
         },
         {
             "name": "Bachelor Point",
             "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E122.1080p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E123.1080p.mkv"
         },
         {
             "name": "Bachelor Point",
             "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E121-128.1080p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E124.1080p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E51.Bengali.720p.mkv"
+        },
+        {
+            "name": "Ice Cream  Bengali",
+            "year": "2016",
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ice.Cream.(2016).Bengali.720P.mkv"
         },
         {
             "name": "Bachelor Point",
             "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E125.1080p.mkv"
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E123.720p.mkv"
         },
         {
             "name": "Bachelor Point",
@@ -779,26 +905,32 @@
         {
             "name": "Bachelor Point",
             "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E128.1080p.mkv"
-        },
-        {
-            "name": "Bachelor Point",
-            "year": null,
-            "quality": "480p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E121-128.480p.mkv"
-        },
-        {
-            "name": "Bachelor Point",
-            "year": null,
             "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E121.720p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E125.720p.mkv"
         },
         {
             "name": "Bachelor Point",
             "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E124.1080p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E127.1080p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E57.Bangla.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E126.1080p.mkv"
+        },
+        {
+            "name": "Ice Cream  Bengali",
+            "year": "2016",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ice.Cream.(2016).Bengali.1080P.mkv"
         },
         {
             "name": "Bachelor Point",
@@ -810,61 +942,19 @@
             "name": "Bachelor Point",
             "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E126.1080p.mkv"
-        },
-        {
-            "name": "Bachelor Point",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E123.1080p.mkv"
-        },
-        {
-            "name": "Ananta Bhalobasha",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E58.Bangla.Dubbed.1080p.mkv"
-        },
-        {
-            "name": "Bachelor Point",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E121.1080p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E128.1080p.mkv"
         },
         {
             "name": "Bachelor Point",
             "year": null,
             "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E128.720p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E126.720p.mkv"
         },
         {
-            "name": "Family Full House With Rohit Sharma",
-            "year": null,
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Family.Full.House.With.Rohit.Sharma.S01E10.720P.mkv"
-        },
-        {
-            "name": "Ananta Bhalobasha",
+            "name": "Bachelor Point",
             "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E56.Bangla.Dubbed.1080p.mkv"
-        },
-        {
-            "name": "Rise And Fall",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E24.1080P.mkv"
-        },
-        {
-            "name": "A Love Other than Yours",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Love.Other.than.Yours.S01E10.Multi.Audio.720p.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E44.Hindi.720p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bachelor.Point.S05E125.1080p.mkv"
         },
         {
             "name": "Bigg Boss",
@@ -875,26 +965,50 @@
         {
             "name": "Beg for Life  Bengali",
             "year": "2020",
-            "quality": "480p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Beg.for.Life.(2020).Bengali.480p.mkv"
-        },
-        {
-            "name": "Ice Cream  Bengali",
-            "year": "2016",
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ice.Cream.(2016).Bengali.720P.mkv"
-        },
-        {
-            "name": "Beg for Life  Bengali",
-            "year": "2020",
             "quality": "720p",
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Beg.for.Life.(2020).Bengali.720p.mkv"
         },
         {
+            "name": "Family Full House With Rohit Sharma",
+            "year": null,
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Family.Full.House.With.Rohit.Sharma.S01E10.720P.mkv"
+        },
+        {
+            "name": "Drop Out  Hindi",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Drop.Out.(2026).Hindi.480p.mkv"
+        },
+        {
+            "name": "Beg for Life  Bengali",
+            "year": "2020",
+            "quality": "480p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Beg.for.Life.(2020).Bengali.480p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E56.Bangla.Dubbed.720p.mkv"
+        },
+        {
             "name": "A Love Other than Yours",
             "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Love.Other.than.Yours.S01E10.Multi.Audio.720p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Love.Other.than.Yours.S01E10.Multi.Audio.1080p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E56.Bangla.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Drop Out  Hindi",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Drop.Out.(2026).Hindi.720p.mkv"
         },
         {
             "name": "Family Full House With Rohit Sharma",
@@ -903,10 +1017,40 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Family.Full.House.With.Rohit.Sharma.S01E10.1080P.mkv"
         },
         {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E44.Hindi.720p.mkv"
+        },
+        {
+            "name": "Bad Apples  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bad.Apples.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Rise And Fall",
+            "year": null,
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E24.720P.mkv"
+        },
+        {
             "name": "Love in Disguise",
             "year": null,
             "quality": "1080P",
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Love.in.Disguise.S01E01.Dual.1080P.mkv"
+        },
+        {
+            "name": "Rise And Fall",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E24.1080P.mkv"
+        },
+        {
+            "name": "A Love Other than Yours",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Love.Other.than.Yours.S01E10.Multi.Audio.1080p.mkv"
         },
         {
             "name": "Bigg Boss",
@@ -921,40 +1065,10 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Love.in.Disguise.S01E01.Dual.720P.mkv"
         },
         {
-            "name": "Ananta Bhalobasha",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E57.Bangla.Dubbed.720p.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E51.Bengali.720p.mkv"
-        },
-        {
-            "name": "Ananta Bhalobasha",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E57.Bangla.Dubbed.1080p.mkv"
-        },
-        {
-            "name": "Ananta Bhalobasha",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E56.Bangla.Dubbed.720p.mkv"
-        },
-        {
-            "name": "Rise And Fall",
-            "year": null,
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E24.720P.mkv"
-        },
-        {
-            "name": "Ice Cream  Bengali",
-            "year": "2016",
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ice.Cream.(2016).Bengali.1080P.mkv"
+            "name": "Bad Apples  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bad.Apples.(2026).Dual.480p.mkv"
         },
         {
             "name": "Bad Apples  Dual",
@@ -963,34 +1077,16 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bad.Apples.(2026).Dual.720p.mkv"
         },
         {
-            "name": "Sa Re Ga Ma Pa",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.(2026).S01E10.Hindi.1080P.mkv"
-        },
-        {
-            "name": "Bigg Boss",
+            "name": "Sultan Salahuddin Ayyubi",
             "year": null,
             "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E43.Hindi.720p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E56.720p.mkv"
         },
         {
-            "name": "India Ke Top 1 parcent",
-            "year": null,
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E10.720P.mkv"
-        },
-        {
-            "name": "Dhamaal with Pati Patni Aur Panga",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhamaal.with.Pati.Patni.Aur.Panga.(2026).S02E04.1080P.mkv"
-        },
-        {
-            "name": "Dhamaal with Pati Patni Aur Panga",
+            "name": "Sa Re Ga Ma Pa",
             "year": "2026",
             "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhamaal.with.Pati.Patni.Aur.Panga.(2026).S02E04.720P.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.(2026).S01E10.Hindi.720P.mkv"
         },
         {
             "name": "Bigg Boss",
@@ -999,46 +1095,16 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E50.Bengali.720p.mkv"
         },
         {
+            "name": "MTV Roadies",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MTV.Roadies.(2026).S21E02.Hindi.1080p.mkv"
+        },
+        {
             "name": "Drop Out  Hindi",
             "year": "2026",
             "quality": "1080p",
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Drop.Out.(2026).Hindi.1080p.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E50.Bengali.1080p.mkv"
-        },
-        {
-            "name": "Bad Apples  Dual",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bad.Apples.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "Bad Apples  Dual",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bad.Apples.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "Rise And Fall",
-            "year": null,
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E23.720P.mkv"
-        },
-        {
-            "name": "Sultan Salahuddin Ayyubi",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E56.720p.mkv"
-        },
-        {
-            "name": "Rise And Fall",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E23.1080P.mkv"
         },
         {
             "name": "Bigg Boss",
@@ -1053,112 +1119,16 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E10.1080P.mkv"
         },
         {
-            "name": "Drop Out  Hindi",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Drop.Out.(2026).Hindi.720p.mkv"
-        },
-        {
-            "name": "Sa Re Ga Ma Pa",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.(2026).S01E10.Hindi.720P.mkv"
-        },
-        {
-            "name": "Sultan Salahuddin Ayyubi",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E56.1080p.mkv"
-        },
-        {
-            "name": "Drop Out  Hindi",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Drop.Out.(2026).Hindi.480p.mkv"
-        },
-        {
-            "name": "Family Full House With Rohit Sharma",
+            "name": "Rise And Fall",
             "year": null,
             "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Family.Full.House.With.Rohit.Sharma.S01E09.1080P.mkv"
-        },
-        {
-            "name": "MTV Roadies",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MTV.Roadies.(2026).S21E02.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Dhamaal with Pati Patni Aur Panga",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhamaal.with.Pati.Patni.Aur.Panga.(2026).S02E03.720P.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E49.Bengali.720p.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E49.Bengali.1080p.mkv"
-        },
-        {
-            "name": "Family Full House With Rohit Sharma",
-            "year": null,
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Family.Full.House.With.Rohit.Sharma.S01E09.720P.mkv"
-        },
-        {
-            "name": "Gopal Bhar",
-            "year": null,
-            "quality": null,
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1294.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E23.1080P.mkv"
         },
         {
             "name": "Sa Re Ga Ma Pa",
             "year": "2026",
             "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.(2026).S01E09.Hindi.1080P.mkv"
-        },
-        {
-            "name": "Aryabhatt Ka Zero  Hindi",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Aryabhatt.Ka.Zero.(2026).Hindi.1080P.mkv"
-        },
-        {
-            "name": "India Ke Top 1 parcent",
-            "year": null,
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E09.720P.mkv"
-        },
-        {
-            "name": "Dhamaal with Pati Patni Aur Panga",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhamaal.with.Pati.Patni.Aur.Panga.(2026).S02E03.1080P.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E42.Hindi.1080p.mkv"
-        },
-        {
-            "name": "A Love Other than Yours",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Love.Other.than.Yours.S01E09.Multi.Audio.720p.mkv"
-        },
-        {
-            "name": "MTV Roadies",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MTV.Roadies.(2026).S21E02.Hindi.720p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.(2026).S01E10.Hindi.1080P.mkv"
         },
         {
             "name": "Aryabhatt Ka Zero  Hindi",
@@ -1167,10 +1137,22 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Aryabhatt.Ka.Zero.(2026).Hindi.480P.mkv"
         },
         {
-            "name": "India Ke Top 1 parcent",
+            "name": "Bigg Boss",
             "year": null,
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E09.1080P.mkv"
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E43.Hindi.720p.mkv"
+        },
+        {
+            "name": "Dhamaal with Pati Patni Aur Panga",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhamaal.with.Pati.Patni.Aur.Panga.(2026).S02E04.720P.mkv"
+        },
+        {
+            "name": "Gopal Bhar",
+            "year": null,
+            "quality": null,
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1294.mkv"
         },
         {
             "name": "Aryabhatt Ka Zero  Hindi",
@@ -1179,22 +1161,88 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Aryabhatt.Ka.Zero.(2026).Hindi.720P.mkv"
         },
         {
+            "name": "India Ke Top 1 parcent",
+            "year": null,
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E10.720P.mkv"
+        },
+        {
+            "name": "Dhamaal with Pati Patni Aur Panga",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhamaal.with.Pati.Patni.Aur.Panga.(2026).S02E04.1080P.mkv"
+        },
+        {
+            "name": "MTV Roadies",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MTV.Roadies.(2026).S21E02.Hindi.720p.mkv"
+        },
+        {
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E56.1080p.mkv"
+        },
+        {
+            "name": "Rise And Fall",
+            "year": null,
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E23.720P.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E50.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E42.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Dhamaal with Pati Patni Aur Panga",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhamaal.with.Pati.Patni.Aur.Panga.(2026).S02E03.1080P.mkv"
+        },
+        {
+            "name": "Rise And Fall",
+            "year": null,
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E21.720P.mkv"
+        },
+        {
             "name": "Bigg Boss",
             "year": null,
             "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E42.Hindi.720p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E49.Bengali.720p.mkv"
+        },
+        {
+            "name": "Rise And Fall",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E22.1080P.mkv"
         },
         {
             "name": "A Love Other than Yours",
             "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Love.Other.than.Yours.S01E09.Multi.Audio.1080p.mkv"
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Love.Other.than.Yours.S01E09.Multi.Audio.720p.mkv"
         },
         {
-            "name": "Sa Re Ga Ma Pa",
-            "year": "2026",
+            "name": "Family Full House With Rohit Sharma",
+            "year": null,
             "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.(2026).S01E09.Hindi.720P.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Family.Full.House.With.Rohit.Sharma.S01E09.720P.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E49.Bengali.1080p.mkv"
         },
         {
             "name": "Rise And Fall",
@@ -1203,28 +1251,28 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E22.720P.mkv"
         },
         {
-            "name": "The Punisher",
+            "name": "India Ke Top 1 parcent",
             "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E03.Dual.Hindi.HQ.720p.mkv"
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E09.1080P.mkv"
         },
         {
-            "name": "Raandhuni Na Kaanduni",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E10.Bengali.720p.mkv"
-        },
-        {
-            "name": "The Punisher",
+            "name": "A Love Other than Yours",
             "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E03.Dual.Hindi.HQ.1080p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]A.Love.Other.than.Yours.S01E09.Multi.Audio.1080p.mkv"
         },
         {
-            "name": "Dadagiri Unlimited",
+            "name": "India Ke Top 1 parcent",
             "year": null,
             "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dadagiri.Unlimited.S11E30.720P.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E09.720P.mkv"
+        },
+        {
+            "name": "Aryabhatt Ka Zero  Hindi",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Aryabhatt.Ka.Zero.(2026).Hindi.1080P.mkv"
         },
         {
             "name": "Indian Idol Legends Return",
@@ -1233,10 +1281,10 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Indian.Idol.Legends.Return.(2026).S02E01.1080P.mkv"
         },
         {
-            "name": "Ananta Bhalobasha",
+            "name": "Family Full House With Rohit Sharma",
             "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E55.Bangla.Dubbed.720p.mkv"
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Family.Full.House.With.Rohit.Sharma.S01E09.1080P.mkv"
         },
         {
             "name": "Indian Idol Legends Return",
@@ -1245,16 +1293,34 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Indian.Idol.Legends.Return.(2026).S02E01.720P.mkv"
         },
         {
-            "name": "Ananta Bhalobasha",
+            "name": "Bigg Boss",
             "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E55.Bangla.Dubbed.1080p.mkv"
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E42.Hindi.720p.mkv"
         },
         {
-            "name": "Rise And Fall",
-            "year": null,
+            "name": "Sa Re Ga Ma Pa",
+            "year": "2026",
             "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E21.720P.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.(2026).S01E09.Hindi.720P.mkv"
+        },
+        {
+            "name": "Sa Re Ga Ma Pa",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.(2026).S01E09.Hindi.1080P.mkv"
+        },
+        {
+            "name": "Dhamaal with Pati Patni Aur Panga",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhamaal.with.Pati.Patni.Aur.Panga.(2026).S02E03.720P.mkv"
+        },
+        {
+            "name": "Make Me Tingle",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Make.Me.Tingle.S01E01-04.Dual.1080p.mkv"
         },
         {
             "name": "Dadagiri Unlimited",
@@ -1269,34 +1335,22 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E11.Bengali.720p.mkv"
         },
         {
-            "name": "The Great Indian Kapil Show",
+            "name": "Ananta Bhalobasha",
             "year": null,
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Great.Indian.Kapil.Show.S05E04.720P.mkv"
-        },
-        {
-            "name": "Dadagiri Unlimited",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dadagiri.Unlimited.S11E30.1080P.mkv"
-        },
-        {
-            "name": "The Great Indian Kapil Show",
-            "year": null,
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Great.Indian.Kapil.Show.S05E04.1080P.mkv"
-        },
-        {
-            "name": "Raandhuni Na Kaanduni",
-            "year": "2026",
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E11.Bengali.1080p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E55.Bangla.Dubbed.1080p.mkv"
         },
         {
-            "name": "Rise And Fall",
+            "name": "Odvuture Ekti Raat  Bengali",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Odvuture.Ekti.Raat.(2026).Bengali.720p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
             "year": null,
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E22.1080P.mkv"
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ananta.Bhalobasha.S01E55.Bangla.Dubbed.720p.mkv"
         },
         {
             "name": "Rise And Fall",
@@ -1305,10 +1359,22 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Rise.And.Fall.S02E21.1080P.mkv"
         },
         {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E10.Bengali.720p.mkv"
+        },
+        {
+            "name": "The Great Indian Kapil Show",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Great.Indian.Kapil.Show.S05E04.1080P.mkv"
+        },
+        {
             "name": "Dadagiri Unlimited",
             "year": null,
             "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dadagiri.Unlimited.S11E31.720P.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dadagiri.Unlimited.S11E30.720P.mkv"
         },
         {
             "name": "Raandhuni Na Kaanduni",
@@ -1317,76 +1383,16 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E10.Bengali.1080p.mkv"
         },
         {
-            "name": "Amanush",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Amanush.(2026).S01.Bengali.480p.mkv"
-        },
-        {
-            "name": "MobLand",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MobLand.S02E05.Dual.720p.mkv"
-        },
-        {
-            "name": "Amanush",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Amanush.(2026).S01.Bengali.1080p.mkv"
-        },
-        {
-            "name": "Make Me Tingle",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Make.Me.Tingle.S01E01-04.Dual.1080p.mkv"
-        },
-        {
-            "name": "Odvuture Ekti Raat  Bengali",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Odvuture.Ekti.Raat.(2026).Bengali.1080p.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E48.Bengali.1080p.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E48.Bengali.720p.mkv"
-        },
-        {
-            "name": "Gopal Bhar",
-            "year": null,
-            "quality": null,
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1292.mkv"
-        },
-        {
-            "name": "Amanush",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Amanush.(2026).S01.Bengali.720p.mkv"
-        },
-        {
-            "name": "MTV Roadies",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MTV.Roadies.(2026).S21E01.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Prince of Mollywood",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Prince.of.Mollywood.S01E21-24.Dual.720p.mkv"
-        },
-        {
             "name": "Make Me Tingle",
             "year": null,
             "quality": "480p",
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Make.Me.Tingle.S01E01-04.Dual.480p.mkv"
+        },
+        {
+            "name": "Dadagiri Unlimited",
+            "year": null,
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dadagiri.Unlimited.S11E31.720P.mkv"
         },
         {
             "name": "Make Me Tingle",
@@ -1395,10 +1401,58 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Make.Me.Tingle.S01E01-04.Dual.720p.mkv"
         },
         {
-            "name": "Prince of Mollywood",
+            "name": "Dadagiri Unlimited",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dadagiri.Unlimited.S11E30.1080P.mkv"
+        },
+        {
+            "name": "Odvuture Ekti Raat  Bengali",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Odvuture.Ekti.Raat.(2026).Bengali.1080p.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E11.Bengali.1080p.mkv"
+        },
+        {
+            "name": "The Great Indian Kapil Show",
+            "year": null,
+            "quality": "720P",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Great.Indian.Kapil.Show.S05E04.720P.mkv"
+        },
+        {
+            "name": "The Punisher",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E03.Dual.Hindi.HQ.720p.mkv"
+        },
+        {
+            "name": "The Punisher",
             "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Prince.of.Mollywood.S01E21-24.Dual.1080p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E03.Dual.Hindi.HQ.1080p.mkv"
+        },
+        {
+            "name": "Seriously Single Too  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Seriously.Single.Too.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E48.Bengali.720p.mkv"
+        },
+        {
+            "name": "Seriously Single Too  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Seriously.Single.Too.(2026).Dual.480p.mkv"
         },
         {
             "name": "MobLand",
@@ -1407,16 +1461,16 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MobLand.S02E05.Dual.1080p.mkv"
         },
         {
-            "name": "Gopal Bhar",
+            "name": "Bigg Boss",
             "year": null,
-            "quality": null,
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1293.mkv"
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S01E48.Bengali.1080p.mkv"
         },
         {
-            "name": "Odvuture Ekti Raat  Bengali",
+            "name": "Amanush",
             "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Odvuture.Ekti.Raat.(2026).Bengali.720p.mkv"
+            "quality": "480p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Amanush.(2026).S01.Bengali.480p.mkv"
         },
         {
             "name": "MTV Roadies",
@@ -1431,10 +1485,100 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Court.(2026).S01E25-28.Dual.720P.mkv"
         },
         {
+            "name": "Gopal Bhar",
+            "year": null,
+            "quality": null,
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1293.mkv"
+        },
+        {
             "name": "The Court",
             "year": "2026",
             "quality": "1080P",
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Court.(2026).S01E25-28.Dual.1080P.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E41.Hindi.720p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E41.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Seriously Single Too  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Seriously.Single.Too.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Prince of Mollywood",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Prince.of.Mollywood.S01E21-24.Dual.720p.mkv"
+        },
+        {
+            "name": "Amanush",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Amanush.(2026).S01.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Amanush",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Amanush.(2026).S01.Bengali.720p.mkv"
+        },
+        {
+            "name": "MobLand",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MobLand.S02E05.Dual.720p.mkv"
+        },
+        {
+            "name": "MTV Roadies",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]MTV.Roadies.(2026).S21E01.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Gopal Bhar",
+            "year": null,
+            "quality": null,
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Gopal.Bhar.S13E1292.mkv"
+        },
+        {
+            "name": "Prince of Mollywood",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Prince.of.Mollywood.S01E21-24.Dual.1080p.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E07.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E08.Bengali.720p.mkv"
+        },
+        {
+            "name": "The Punisher",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E02.Dual.Hindi.HQ.720p.mkv"
+        },
+        {
+            "name": "The Punisher",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E01.Dual.Hindi.HQ.1080p.mkv"
         },
         {
             "name": "Raandhuni Na Kaanduni",
@@ -1449,22 +1593,22 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Prahaar.(2026).Hindi.HDTC.1080p.mkv"
         },
         {
-            "name": "Raandhuni Na Kaanduni",
-            "year": "2026",
+            "name": "The Punisher",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E01.Dual.Hindi.HQ.720p.mkv"
+        },
+        {
+            "name": "Part Timers",
+            "year": null,
+            "quality": "720p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Part.Timers.S01E29-32.Hindi.720p.mkv"
+        },
+        {
+            "name": "Part Timers",
+            "year": null,
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E07.Bengali.1080p.mkv"
-        },
-        {
-            "name": "Seriously Single Too  Dual",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Seriously.Single.Too.(2026).Dual.720p.mkv"
-        },
-        {
-            "name": "Prahaar  Hindi HDTC",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Prahaar.(2026).Hindi.HDTC.720p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Part.Timers.S01E29-32.Hindi.1080p.mkv"
         },
         {
             "name": "Raandhuni Na Kaanduni",
@@ -1473,46 +1617,28 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E07.Bengali.720p.mkv"
         },
         {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E41.Hindi.720p.mkv"
+            "name": "Prahaar  Hindi HDTC",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Prahaar.(2026).Hindi.HDTC.480p.mkv"
         },
         {
-            "name": "The Punisher",
-            "year": null,
+            "name": "Nayyi Navelli  Hindi HQ HDTC-Rip",
+            "year": "2026",
             "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E02.Dual.Hindi.HQ.720p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Nayyi.Navelli.(2026).Hindi.HQ.HDTC-Rip.720p.mkv"
+        },
+        {
+            "name": "Ali Baba aur 40 Bhoot",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ali.Baba.aur.40.Bhoot.S01E21-24.Hindi.1080p.mkv"
         },
         {
             "name": "Nayyi Navelli  Hindi HQ HDTC-Rip",
             "year": "2026",
             "quality": "1080p",
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Nayyi.Navelli.(2026).Hindi.HQ.HDTC-Rip.1080p.mkv"
-        },
-        {
-            "name": "The Punisher",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E02.Dual.Hindi.HQ.1080p.mkv"
-        },
-        {
-            "name": "Seriously Single Too  Dual",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Seriously.Single.Too.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "Raandhuni Na Kaanduni",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E09.Bengali.1080p.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Bigg.Boss.S20E41.Hindi.1080p.mkv"
         },
         {
             "name": "Raandhuni Na Kaanduni",
@@ -1523,116 +1649,14 @@
         {
             "name": "The Punisher",
             "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E01.Dual.Hindi.HQ.720p.mkv"
+            "quality": "1080p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E02.Dual.Hindi.HQ.1080p.mkv"
         },
         {
             "name": "Prahaar  Hindi HDTC",
             "year": "2026",
-            "quality": "480p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Prahaar.(2026).Hindi.HDTC.480p.mkv"
-        },
-        {
-            "name": "Raandhuni Na Kaanduni",
-            "year": "2026",
             "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E08.Bengali.720p.mkv"
-        },
-        {
-            "name": "Nayyi Navelli  Hindi HQ HDTC-Rip",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Nayyi.Navelli.(2026).Hindi.HQ.HDTC-Rip.480p.mkv"
-        },
-        {
-            "name": "Nayyi Navelli  Hindi HQ HDTC-Rip",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Nayyi.Navelli.(2026).Hindi.HQ.HDTC-Rip.720p.mkv"
-        },
-        {
-            "name": "Seriously Single Too  Dual",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Seriously.Single.Too.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "Part Timers",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Part.Timers.S01E29-32.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Ali Baba aur 40 Bhoot",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ali.Baba.aur.40.Bhoot.S01E21-24.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Masterplan  Dual",
-            "year": "2026",
-            "quality": "480p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Masterplan.(2026).Dual.480p.mkv"
-        },
-        {
-            "name": "Jeet Ki Zid The Movie",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Jeet.Ki.Zid.The.Movie.(2026).1080P.mkv"
-        },
-        {
-            "name": "Apurnata",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Apurnata.(2026).S01.480P.mkv"
-        },
-        {
-            "name": "Jeet Ki Zid The Movie",
-            "year": "2026",
-            "quality": "480P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Jeet.Ki.Zid.The.Movie.(2026).480P.mkv"
-        },
-        {
-            "name": "The Punisher",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]The.Punisher.S02E01.Dual.Hindi.HQ.1080p.mkv"
-        },
-        {
-            "name": "Dhrubor Aschorjo Jibon  Bengali",
-            "year": "2025",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhrubor.Aschorjo.Jibon.(2025).Bengali.1080p.mkv"
-        },
-        {
-            "name": "Dhrubor Aschorjo Jibon  Bengali",
-            "year": "2025",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Dhrubor.Aschorjo.Jibon.(2025).Bengali.720p.mkv"
-        },
-        {
-            "name": "Part Timers",
-            "year": null,
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Part.Timers.S01E29-32.Hindi.720p.mkv"
-        },
-        {
-            "name": "Apurnata",
-            "year": "2026",
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Apurnata.(2026).S01.720P.mkv"
-        },
-        {
-            "name": "Blue  Dual",
-            "year": "2026",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Blue.(2026).Dual.1080p.mkv"
-        },
-        {
-            "name": "Blue  Dual",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Blue.(2026).Dual.720p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Prahaar.(2026).Hindi.HDTC.720p.mkv"
         },
         {
             "name": "Ali Baba aur 40 Bhoot",
@@ -1641,40 +1665,16 @@
             "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Ali.Baba.aur.40.Bhoot.S01E21-24.Hindi.720p.mkv"
         },
         {
-            "name": "Haati Haati Paa Paa  Bengali",
-            "year": "2025",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Haati.Haati.Paa.Paa.(2025).Bengali.720p.mkv"
-        },
-        {
-            "name": "Haati Haati Paa Paa  Bengali",
-            "year": "2025",
-            "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Haati.Haati.Paa.Paa.(2025).Bengali.1080p.mkv"
-        },
-        {
-            "name": "Masterplan  Dual",
+            "name": "Raandhuni Na Kaanduni",
             "year": "2026",
             "quality": "1080p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Masterplan.(2026).Dual.1080p.mkv"
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E09.Bengali.1080p.mkv"
         },
         {
-            "name": "Jeet Ki Zid The Movie",
+            "name": "Nayyi Navelli  Hindi HQ HDTC-Rip",
             "year": "2026",
-            "quality": "720P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Jeet.Ki.Zid.The.Movie.(2026).720P.mkv"
-        },
-        {
-            "name": "Apurnata",
-            "year": "2026",
-            "quality": "1080P",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Apurnata.(2026).S01.1080P.mkv"
-        },
-        {
-            "name": "Masterplan  Dual",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Masterplan.(2026).Dual.720p.mkv"
+            "quality": "480p",
+            "link": "https://aertg.b-cdn.net/s3/upload/videos/2026/10/[Fibwatch.Com]Nayyi.Navelli.(2026).Hindi.HQ.HDTC-Rip.480p.mkv"
         }
     ]
 }
