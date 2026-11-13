@@ -1,126 +1,1686 @@
 {
     "made_by": "@siam3310",
-    "last_update_time": "2026-11-12 05:58:00 UTC",
+    "last_update_time": "2026-11-13 02:21:48 UTC",
     "scraped_media": [
+        {
+            "name": "Vibe  Hindi",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Vibe.(2026).Hindi.1080p.mkv"
+        },
         {
             "name": "Bigg Boss",
             "year": null,
-            "quality": "1080p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E74.Bengali.1080p.mkv"
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E68.Hindi.720p.mkv"
         },
         {
-            "name": "Jailer 2  Dual",
+            "name": "Parivarik ManuRanjan  Hindi",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Parivarik.ManuRanjan.(2026).Hindi.720p.mkv"
+        },
+        {
+            "name": "Vibe  Hindi",
             "year": "2026",
             "quality": "480p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Jailer.2.(2026).Dual.480p.mkv"
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Vibe.(2026).Hindi.480p.mkv"
         },
         {
-            "name": "Raandhuni Na Kaanduni",
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E73.720p.mkv"
+        },
+        {
+            "name": "Parivarik ManuRanjan  Hindi",
             "year": "2026",
             "quality": "1080p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E29.Bengali.1080p.mkv"
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Parivarik.ManuRanjan.(2026).Hindi.1080p.mkv"
         },
         {
-            "name": "Alexa  Bengali Dubbed",
-            "year": "2026",
+            "name": "Heart Beat",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Heart.Beat.S03E61-64.Dual.1080p.mkv"
+        },
+        {
+            "name": "Pushpaka Vimanam",
+            "year": null,
             "quality": "720p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Alexa.(2026).Bengali.Dubbed.720p.mkv"
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Pushpaka.Vimanam.S01E01-04.Dual.720p.mkv"
         },
         {
-            "name": "Jailer 2  Dual",
-            "year": "2026",
-            "quality": "720p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Jailer.2.(2026).Dual.720p.mkv"
-        },
-        {
-            "name": "Koffee with Karan",
+            "name": "Premik Premika aar Petnee",
             "year": "2026",
             "quality": "1080P",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Koffee.with.Karan.(2026).S09E05.1080P.mkv"
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Premik.Premika.aar.Petnee.(2026).S01E28.1080P.mkv"
         },
         {
             "name": "Gopal Bhar",
             "year": null,
             "quality": null,
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Gopal.Bhar.S13E1318.mkv"
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Gopal.Bhar.S13E1319.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E68.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ananta.Bhalobasha.S01E78.Bangla.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Parivarik ManuRanjan  Hindi",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Parivarik.ManuRanjan.(2026).Hindi.480p.mkv"
+        },
+        {
+            "name": "Premik Premika aar Petnee",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Premik.Premika.aar.Petnee.(2026).S01E28.720P.mkv"
+        },
+        {
+            "name": "Heart Beat",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Heart.Beat.S03E61-64.Dual.720p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E75.Bengali.720p.mkv"
+        },
+        {
+            "name": "Vibe  Hindi",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Vibe.(2026).Hindi.720p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E75.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Pushpaka Vimanam",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Pushpaka.Vimanam.S01E01-04.Dual.1080p.mkv"
+        },
+        {
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E73.1080p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bachelor.Point.S05E131.1080p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bachelor.Point.S05E134.720p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bachelor.Point.S05E129-134.480p.mkv"
+        },
+        {
+            "name": "Street Fighter  Dual Hindi LiNE-English",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Street.Fighter.(2026).Dual.Hindi.LiNE-English.720p.mkv"
+        },
+        {
+            "name": "Ethos",
+            "year": null,
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ethos.S01.Dual.480p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bachelor.Point.S05E131.720p.mkv"
+        },
+        {
+            "name": "Street Fighter  Dual Hindi LiNE-English",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Street.Fighter.(2026).Dual.Hindi.LiNE-English.1080p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bachelor.Point.S05E129.720p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bachelor.Point.S05E133.1080p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bachelor.Point.S05E129.1080p.mkv"
+        },
+        {
+            "name": "Street Fighter  Dual Hindi LiNE-English",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Street.Fighter.(2026).Dual.Hindi.LiNE-English.480p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bachelor.Point.S05E130.720p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bachelor.Point.S05E132.1080p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bachelor.Point.S05E132.720p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bachelor.Point.S05E133.720p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bachelor.Point.S05E130.1080p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ananta.Bhalobasha.S01E78.Bangla.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bachelor.Point.S05E134.1080p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bachelor.Point.S05E129-134.720p.mkv"
+        },
+        {
+            "name": "Bachelor Point",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bachelor.Point.S05E129-134.1080p.mkv"
+        },
+        {
+            "name": "Aarekti Premer Golpo  Bengali DvD-Rip",
+            "year": "2010",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Aarekti.Premer.Golpo.(2010).Bengali.DvD-Rip.1080p.mkv"
+        },
+        {
+            "name": "Alexa  Bengali Dubbed",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Alexa.(2026).Bengali.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Allen  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Allen.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Ethos",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ethos.(2026).S02E01-04.Multi.480p.mkv"
+        },
+        {
+            "name": "Ethos",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ethos.(2026).S02E01-04.Multi.1080p.mkv"
+        },
+        {
+            "name": "Never Surrender  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Never.Surrender.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Never Surrender  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Never.Surrender.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Ethos",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ethos.S01.Dual.1080p.mkv"
+        },
+        {
+            "name": "Ethos",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ethos.(2026).S02E01-04.Multi.720p.mkv"
         },
         {
             "name": "Alexa  Bengali Dubbed",
             "year": "2026",
             "quality": "1080p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Alexa.(2026).Bengali.Dubbed.1080p.mkv"
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Alexa.(2026).Bengali.Dubbed.1080p.mkv"
         },
         {
             "name": "Aarekti Premer Golpo  Bengali DvD-Rip",
             "year": "2010",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Aarekti.Premer.Golpo.(2010).Bengali.DvD-Rip.720p.mkv"
+        },
+        {
+            "name": "Allen  Dual",
+            "year": "2026",
             "quality": "1080p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Aarekti.Premer.Golpo.(2010).Bengali.DvD-Rip.1080p.mkv"
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Allen.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Allen  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Allen.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Never Surrender  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Never.Surrender.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "The Empress",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Empress.(2026).S03.Dual.480P.mkv"
+        },
+        {
+            "name": "The Empress",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Empress.(2026).S03.Dual.1080P.mkv"
+        },
+        {
+            "name": "The Empress",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Empress.(2026).S03.Dual.720P.mkv"
+        },
+        {
+            "name": "Ethos",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ethos.S01.Dual.720p.mkv"
         },
         {
             "name": "Feu Complete Saga",
             "year": "2026",
             "quality": "480p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Feu.Complete.Saga.(2026).S01.480p.mkv"
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Feu.Complete.Saga.(2026).S01.480p.mkv"
+        },
+        {
+            "name": "Gopal Bhar",
+            "year": null,
+            "quality": null,
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Gopal.Bhar.S13E1318.mkv"
         },
         {
             "name": "Feu Complete Saga",
             "year": "2026",
             "quality": "720p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Feu.Complete.Saga.(2026).S01.720p.mkv"
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Feu.Complete.Saga.(2026).S01.720p.mkv"
+        },
+        {
+            "name": "Jailer 2  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Jailer.2.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E72.720p.n.mkv"
+        },
+        {
+            "name": "The Gospel of Christmas  Dual",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Gospel.of.Christmas.(2026).Dual.1080P.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E67.Hindi.720p.mkv"
         },
         {
             "name": "Raandhuni Na Kaanduni",
             "year": "2026",
             "quality": "720p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E29.Bengali.720p.mkv"
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E29.Bengali.720p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E74.Bengali.1080p.mkv"
         },
         {
             "name": "Feu Complete Saga",
             "year": "2026",
             "quality": "1080p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Feu.Complete.Saga.(2026).S01.1080p.mkv"
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Feu.Complete.Saga.(2026).S01.1080p.mkv"
         },
         {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "720p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E74.Bengali.720p.mkv"
-        },
-        {
-            "name": "Bigg Boss",
-            "year": null,
-            "quality": "1080p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E67.Hindi.1080p.mkv"
-        },
-        {
-            "name": "Aarekti Premer Golpo  Bengali DvD-Rip",
-            "year": "2010",
-            "quality": "720p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Aarekti.Premer.Golpo.(2010).Bengali.DvD-Rip.720p.mkv"
+            "name": "The Gospel of Christmas  Dual",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Gospel.of.Christmas.(2026).Dual.480P.mkv"
         },
         {
             "name": "Jailer 2  Dual",
             "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Jailer.2.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
             "quality": "1080p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Jailer.2.(2026).Dual.1080p.mkv"
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E29.Bengali.1080p.mkv"
         },
         {
             "name": "Koffee with Karan",
             "year": "2026",
             "quality": "720P",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Koffee.with.Karan.(2026).S09E05.720P.mkv"
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Koffee.with.Karan.(2026).S09E05.720P.mkv"
+        },
+        {
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E72.1080p.mkv"
         },
         {
             "name": "Bigg Boss",
             "year": null,
             "quality": "720p",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E67.Hindi.720p.mkv"
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E74.Bengali.720p.mkv"
+        },
+        {
+            "name": "Jailer 2  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Jailer.2.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E67.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Koffee with Karan",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Koffee.with.Karan.(2026).S09E05.1080P.mkv"
+        },
+        {
+            "name": "Brothers and Sisters",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Brothers.and.Sisters.S01E97-100.Dual.1080P.mkv"
         },
         {
             "name": "Brothers and Sisters",
             "year": null,
             "quality": "720P",
-            "link": "https://iergf.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Brothers.and.Sisters.S01E97-100.Dual.720P.mkv"
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Brothers.and.Sisters.S01E97-100.Dual.720P.mkv"
+        },
+        {
+            "name": "The Gospel of Christmas  Dual",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Gospel.of.Christmas.(2026).Dual.720P.mkv"
+        },
+        {
+            "name": "The Lord of the Rings",
+            "year": null,
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Lord.of.the.Rings.S03E01-04.Dual.480p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E73.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Study Group",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Study.Group.(2025).S01.Hindi.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E73.Bengali.720p.mkv"
+        },
+        {
+            "name": "The Body",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Body.(2026).S01.Dual.1080p.mkv"
+        },
+        {
+            "name": "The Lord of the Rings",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Lord.of.the.Rings.S03E01-04.Dual.720p.mkv"
+        },
+        {
+            "name": "VisionQuest",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]VisionQuest.S01E08.Dual.720p.mkv"
+        },
+        {
+            "name": "The Body",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Body.(2026).S01.Dual.480p.mkv"
+        },
+        {
+            "name": "The Body",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Body.(2026).S01.Dual.720p.mkv"
+        },
+        {
+            "name": "Blind Game  Hindi",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Blind.Game.(2026).Hindi.1080p.mkv"
+        },
+        {
+            "name": "Study Group",
+            "year": "2025",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Study.Group.(2025).S01.Hindi.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Premik Premika aar Petnee",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Premik.Premika.aar.Petnee.(2026).S01E26-27.1080P.mkv"
+        },
+        {
+            "name": "Blind Game  Hindi",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Blind.Game.(2026).Hindi.480p.mkv"
+        },
+        {
+            "name": "Blind Game  Hindi",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Blind.Game.(2026).Hindi.720p.mkv"
+        },
+        {
+            "name": "VisionQuest",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]VisionQuest.S01E08.Dual.1080p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ananta.Bhalobasha.S01E77.Bangla.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Premik Premika aar Petnee",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Premik.Premika.aar.Petnee.(2026).S01E26-27.720P.mkv"
+        },
+        {
+            "name": "The Lord of the Rings",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Lord.of.the.Rings.S03E01-04.Dual.1080p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ananta.Bhalobasha.S01E77.Bangla.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Study Group",
+            "year": "2025",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Study.Group.(2025).S01.Hindi.Dubbed.480p.mkv"
+        },
+        {
+            "name": "Nishir Daak",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Nishir.Daak.(2025).S01.Hindi.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Other Mommy  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Other.Mommy.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Isha  Bengali Dubbed",
+            "year": "2020",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Isha.(2020).Bengali.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Other Mommy  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Other.Mommy.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E71.720p.mkv"
+        },
+        {
+            "name": "Thamma  Bangla Dubbed",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Thamma.(2025).Bangla.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Isha  Bengali Dubbed",
+            "year": "2020",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Isha.(2020).Bengali.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ananta.Bhalobasha.S01E76.Bangla.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Love in Disguise",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Love.in.Disguise.S01E08.Dual.1080P.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ananta.Bhalobasha.S01E76.Bangla.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Love in Disguise",
+            "year": null,
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Love.in.Disguise.S01E08.Dual.720P.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E28.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Thamma  Bangla Dubbed",
+            "year": "2025",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Thamma.(2025).Bangla.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Other Mommy  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Other.Mommy.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E66.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E66.Hindi.720p.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E28.Bengali.720p.mkv"
+        },
+        {
+            "name": "Gopal Bhar",
+            "year": null,
+            "quality": null,
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Gopal.Bhar.S13E1317.mkv"
+        },
+        {
+            "name": "Nishir Daak",
+            "year": "2025",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Nishir.Daak.(2025).S01.Hindi.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E71.1080p.mkv"
+        },
+        {
+            "name": "Obosheshe Kache Eshe",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Obosheshe.Kache.Eshe.(2026).1080P.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E65.Hindi.720p.mkv"
+        },
+        {
+            "name": "Achanak 37 Saal Baad",
+            "year": "2002",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Achanak.37.Saal.Baad.(2002).S01E171-180.1080p.mkv"
+        },
+        {
+            "name": "Love in Disguise",
+            "year": null,
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Love.in.Disguise.S01E07.Dual.720P.mkv"
+        },
+        {
+            "name": "Parasakthi - Uncensored Version 2026 Dual",
+            "year": null,
+            "quality": "480P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Parasakthi.-.Uncensored.Version.2026.Dual.480P.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E72.Bengali.720p.mkv"
+        },
+        {
+            "name": "Achanak 37 Saal Baad",
+            "year": "2002",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Achanak.37.Saal.Baad.(2002).S01E161-170.1080p.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E27.Bengali.720p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E65.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E72.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Achanak 37 Saal Baad",
+            "year": "2002",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Achanak.37.Saal.Baad.(2002).S01E171-180.720p.mkv"
+        },
+        {
+            "name": "Achanak 37 Saal Baad",
+            "year": "2002",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Achanak.37.Saal.Baad.(2002).S01E161-170.480p.mkv"
+        },
+        {
+            "name": "Achanak 37 Saal Baad",
+            "year": "2002",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Achanak.37.Saal.Baad.(2002).S01E161-170.720p.mkv"
+        },
+        {
+            "name": "Phalana Abbayi Phalana Ammayi  Bengali Dubbed",
+            "year": "2023",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Phalana.Abbayi.Phalana.Ammayi.(2023).Bengali.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E27.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Obosheshe Kache Eshe",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Obosheshe.Kache.Eshe.(2026).720P.mkv"
+        },
+        {
+            "name": "Parasakthi - Uncensored Version 2026 Dual",
+            "year": null,
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Parasakthi.-.Uncensored.Version.2026.Dual.720P.mkv"
+        },
+        {
+            "name": "Achanak 37 Saal Baad",
+            "year": "2002",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Achanak.37.Saal.Baad.(2002).S01E171-180.480p.mkv"
+        },
+        {
+            "name": "Parasakthi - Uncensored Version 2026 Dual",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Parasakthi.-.Uncensored.Version.2026.Dual.1080P.mkv"
+        },
+        {
+            "name": "Phalana Abbayi Phalana Ammayi  Bengali Dubbed",
+            "year": "2023",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Phalana.Abbayi.Phalana.Ammayi.(2023).Bengali.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ananta.Bhalobasha.S01E75.Bangla.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Monty Pilot",
+            "year": "2019",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Monty.Pilot.(2019).S01.Hindi.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Gopal Bhar",
+            "year": null,
+            "quality": null,
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Gopal.Bhar.S13E1316.mkv"
+        },
+        {
+            "name": "The Good Lawyer  Dual",
+            "year": "2026",
+            "quality": "480P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Good.Lawyer.(2026).Dual.480P.mkv"
+        },
+        {
+            "name": "Love in Disguise",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Love.in.Disguise.S01E06.Dual.1080P.mkv"
+        },
+        {
+            "name": "Monty Pilot",
+            "year": "2022",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Monty.Pilot.(2022).S02.Hindi.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Lucky Man  Dual",
+            "year": "2023",
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Lucky.Man.(2023).Dual.720P.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ananta.Bhalobasha.S01E75.Bangla.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E70.720p.mkv"
+        },
+        {
+            "name": "Monty Pilot",
+            "year": "2022",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Monty.Pilot.(2022).S02.Hindi.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Love in Disguise",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Love.in.Disguise.S01E07.Dual.1080P.mkv"
+        },
+        {
+            "name": "The Good Lawyer  Dual",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Good.Lawyer.(2026).Dual.1080P.mkv"
+        },
+        {
+            "name": "The Good Lawyer  Dual",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Good.Lawyer.(2026).Dual.720P.mkv"
+        },
+        {
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E70.1080p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E64.Hindi.720p.mkv"
+        },
+        {
+            "name": "Monty Pilot",
+            "year": "2019",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Monty.Pilot.(2019).S01.Hindi.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E71.Bengali.1080p.mkv"
+        },
+        {
+            "name": "Lucky Man  Dual",
+            "year": "2023",
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Lucky.Man.(2023).Dual.1080P.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E71.Bengali.720p.mkv"
+        },
+        {
+            "name": "Love in Disguise",
+            "year": null,
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Love.in.Disguise.S01E06.Dual.720P.mkv"
+        },
+        {
+            "name": "Viruman  Dual",
+            "year": "2022",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Viruman.(2022).Dual.1080p.mkv"
+        },
+        {
+            "name": "Viruman  Dual",
+            "year": "2022",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Viruman.(2022).Dual.480p.mkv"
+        },
+        {
+            "name": "Indian Idol Legends Return",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Indian.Idol.Legends.Return.(2026).S02E08.720P.mkv"
+        },
+        {
+            "name": "Final Table",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Final.Table.S01E06.Dual.720p.mkv"
+        },
+        {
+            "name": "Final Table",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Final.Table.S01E06.Dual.1080p.mkv"
+        },
+        {
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E69.720p.mkv"
+        },
+        {
+            "name": "Sultan Salahuddin Ayyubi",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Sultan.Salahuddin.Ayyubi.S01E69.1080p.mkv"
+        },
+        {
+            "name": "Dadagiri Unlimited",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Dadagiri.Unlimited.S11E37.1080P.mkv"
+        },
+        {
+            "name": "Premik Premika aar Petnee",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Premik.Premika.aar.Petnee.(2026).S01E21-25.1080P.mkv"
+        },
+        {
+            "name": "Dadagiri Unlimited",
+            "year": null,
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Dadagiri.Unlimited.S11E37.720P.mkv"
+        },
+        {
+            "name": "India Ke Top 1 parcent",
+            "year": null,
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E16.720P.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E64.Hindi.1080p.mkv"
+        },
+        {
+            "name": "India Ke Top 1 parcent",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E16.1080P.mkv"
+        },
+        {
+            "name": "Indian Idol Legends Return",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Indian.Idol.Legends.Return.(2026).S02E08.1080P.mkv"
+        },
+        {
+            "name": "Premik Premika aar Petnee",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Premik.Premika.aar.Petnee.(2026).S01E21-25.720P.mkv"
+        },
+        {
+            "name": "Racharikam  Dual",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Racharikam.(2025).Dual.1080p.mkv"
+        },
+        {
+            "name": "Racharikam  Dual",
+            "year": "2025",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Racharikam.(2025).Dual.720p.mkv"
+        },
+        {
+            "name": "Racharikam  Dual",
+            "year": "2025",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Racharikam.(2025).Dual.480p.mkv"
+        },
+        {
+            "name": "Gopal Bhar",
+            "year": null,
+            "quality": null,
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Gopal.Bhar.S13E1315.mkv"
+        },
+        {
+            "name": "Viruman  Dual",
+            "year": "2022",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Viruman.(2022).Dual.720p.mkv"
+        },
+        {
+            "name": "Dhamaal with Pati Patni Aur Panga",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Dhamaal.with.Pati.Patni.Aur.Panga.(2026).S02E09.720P.mkv"
+        },
+        {
+            "name": "The Dark Heaven  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Dark.Heaven.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Silence Of The Womb  Bengali Dubbed",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Silence.Of.The.Womb.(2026).Bengali.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Clap  Dual",
+            "year": "2022",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Clap.(2022).Dual.480p.mkv"
+        },
+        {
+            "name": "India Ke Top 1 parcent",
+            "year": null,
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E15.720P.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ananta.Bhalobasha.S01E74.Bangla.Dubbed.720p.mkv"
+        },
+        {
+            "name": "The Dark Heaven  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Dark.Heaven.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Dhamaal with Pati Patni Aur Panga",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Dhamaal.with.Pati.Patni.Aur.Panga.(2026).S02E09.1080P.mkv"
+        },
+        {
+            "name": "Family Full House With Rohit Sharma",
+            "year": null,
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Family.Full.House.With.Rohit.Sharma.S01E15.720P.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ananta.Bhalobasha.S01E74.Bangla.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Silence Of The Womb  Bengali Dubbed",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Silence.Of.The.Womb.(2026).Bengali.Dubbed.480p.mkv"
+        },
+        {
+            "name": "Family Full House With Rohit Sharma",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Family.Full.House.With.Rohit.Sharma.S01E15.1080P.mkv"
+        },
+        {
+            "name": "Clap  Dual",
+            "year": "2022",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Clap.(2022).Dual.1080p.mkv"
+        },
+        {
+            "name": "Silence Of The Womb  Bengali Dubbed",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Silence.Of.The.Womb.(2026).Bengali.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Clap  Dual",
+            "year": "2022",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Clap.(2022).Dual.720p.mkv"
+        },
+        {
+            "name": "Software Sudheer  Dual",
+            "year": "2019",
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Software.Sudheer.(2019).Dual.1080P.mkv"
+        },
+        {
+            "name": "Indian Idol Legends Return",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Indian.Idol.Legends.Return.(2026).S02E07.720P.mkv"
+        },
+        {
+            "name": "The Dark Heaven  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Dark.Heaven.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "India Ke Top 1 parcent",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]India.Ke.Top.1.parcent.S01E15.1080P.mkv"
+        },
+        {
+            "name": "Software Sudheer  Dual",
+            "year": "2019",
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Software.Sudheer.(2019).Dual.720P.mkv"
+        },
+        {
+            "name": "Sa Re Ga Ma Pa",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.(2026).S01E15.Hindi.720P.mkv"
+        },
+        {
+            "name": "Buried Alive  Dual",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Buried.Alive.(2025).Dual.1080p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E70.Bengali.720p.mkv"
+        },
+        {
+            "name": "Achanak 37 Saal Baad",
+            "year": "2002",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Achanak.37.Saal.Baad.(2002).S01E151-160.1080p.mkv"
+        },
+        {
+            "name": "MTV Roadies",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]MTV.Roadies.(2026).S21E08.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Sa Re Ga Ma Pa",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.(2026).S01E15.Hindi.1080P.mkv"
+        },
+        {
+            "name": "Final Table",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Final.Table.S01E05.Dual.720p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E70.Bengali.1080p.mkv"
+        },
+        {
+            "name": "MTV Roadies",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]MTV.Roadies.(2026).S21E08.Hindi.720p.mkv"
+        },
+        {
+            "name": "Indian Idol Legends Return",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Indian.Idol.Legends.Return.(2026).S02E07.1080P.mkv"
+        },
+        {
+            "name": "Sa Re Ga Ma Pa",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.(2026).S01E16.Hindi.720P.mkv"
+        },
+        {
+            "name": "Achanak 37 Saal Baad",
+            "year": "2002",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Achanak.37.Saal.Baad.(2002).S01E151-160.480p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E63.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Final Table",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Final.Table.S01E05.Dual.1080p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E63.Hindi.720p.mkv"
+        },
+        {
+            "name": "Buried Alive  Dual",
+            "year": "2025",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Buried.Alive.(2025).Dual.720p.mkv"
+        },
+        {
+            "name": "Sa Re Ga Ma Pa",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Sa.Re.Ga.Ma.Pa.(2026).S01E16.Hindi.1080P.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ananta.Bhalobasha.S01E73.Bangla.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Achanak 37 Saal Baad",
+            "year": "2002",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Achanak.37.Saal.Baad.(2002).S01E151-160.720p.mkv"
+        },
+        {
+            "name": "Gopal Bhar",
+            "year": null,
+            "quality": null,
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Gopal.Bhar.S13E1314.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E26.Bengali.720p.mkv"
+        },
+        {
+            "name": "Godzilla Minus Zero  Japaness TCRip",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Godzilla.Minus.Zero.(2026).Japaness.TCRip.1080p.mkv"
+        },
+        {
+            "name": "Madraskaaran  Dual",
+            "year": "2025",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Madraskaaran.(2025).Dual.1080p.mkv"
+        },
+        {
+            "name": "Dadagiri Unlimited",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Dadagiri.Unlimited.S11E36.1080P.mkv"
+        },
+        {
+            "name": "Scene  Tamil HQ HDTS",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Scene.(2026).Tamil.HQ.HDTS.720p.mkv"
+        },
+        {
+            "name": "Dadagiri Unlimited",
+            "year": null,
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Dadagiri.Unlimited.S11E36.720P.mkv"
+        },
+        {
+            "name": "Scene  Tamil HQ HDTS",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Scene.(2026).Tamil.HQ.HDTS.1080p.mkv"
+        },
+        {
+            "name": "The Great Indian Kapil Show",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Great.Indian.Kapil.Show.S05E07.1080P.mkv"
+        },
+        {
+            "name": "Dexter Resurrection",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Dexter.Resurrection.S02E02.Dual.1080p.mkv"
+        },
+        {
+            "name": "The Odyssey Dual Hindi LiNE-English BluRay",
+            "year": null,
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Odyssey.Dual.Hindi.LiNE-English.BluRay.480p.mkv"
+        },
+        {
+            "name": "Madraskaaran  Dual",
+            "year": "2025",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Madraskaaran.(2025).Dual.720p.mkv"
+        },
+        {
+            "name": "Mahendragiri Vaaraahi  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Mahendragiri.Vaaraahi.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "The Odyssey Dual Hindi LiNE-English BluRay",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Odyssey.Dual.Hindi.LiNE-English.BluRay.720p.mkv"
+        },
+        {
+            "name": "Dexter Resurrection",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Dexter.Resurrection.S02E02.Dual.720p.mkv"
+        },
+        {
+            "name": "The Great Indian Kapil Show",
+            "year": null,
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Great.Indian.Kapil.Show.S05E07.720P.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ananta.Bhalobasha.S01E73.Bangla.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Mahendragiri Vaaraahi  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Mahendragiri.Vaaraahi.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "The Odyssey Dual Hindi LiNE-English BluRay",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Odyssey.Dual.Hindi.LiNE-English.BluRay.1080p.mkv"
+        },
+        {
+            "name": "Mahendragiri Vaaraahi  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Mahendragiri.Vaaraahi.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Godzilla Minus Zero  Japaness TCRip",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Godzilla.Minus.Zero.(2026).Japaness.TCRip.720p.mkv"
+        },
+        {
+            "name": "Prince of Mollywood",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Prince.of.Mollywood.S01E33-36.Dual.720p.mkv"
+        },
+        {
+            "name": "MTV Roadies",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]MTV.Roadies.(2026).S21E07.Hindi.720p.mkv"
+        },
+        {
+            "name": "Gopal Bhar",
+            "year": null,
+            "quality": null,
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Gopal.Bhar.S13E1313.mkv"
+        },
+        {
+            "name": "Prince of Mollywood",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Prince.of.Mollywood.S01E33-36.Dual.1080p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E62.Hindi.1080p.mkv"
+        },
+        {
+            "name": "The Court",
+            "year": "2026",
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Court.(2026).S01E37-40.Dual.720P.mkv"
+        },
+        {
+            "name": "Ali Baba aur 40 Bhoot",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ali.Baba.aur.40.Bhoot.S01E33-36.Hindi.720p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S20E61.Hindi.720p.mkv"
+        },
+        {
+            "name": "Rise And Fall",
+            "year": null,
+            "quality": "720P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Rise.And.Fall.S02E42.720P.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E69.Bengali.720p.mkv"
+        },
+        {
+            "name": "Ali Baba aur 40 Bhoot",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ali.Baba.aur.40.Bhoot.S01E33-36.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Part Timers",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Part.Timers.S0141-44.Hindi.720p.mkv"
+        },
+        {
+            "name": "The Court",
+            "year": "2026",
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]The.Court.(2026).S01E37-40.Dual.1080P.mkv"
+        },
+        {
+            "name": "MTV Roadies",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]MTV.Roadies.(2026).S21E07.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Raandhuni Na Kaanduni",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Raandhuni.Na.Kaanduni.(2026).S01E26.Bengali.1080p.mkv"
+        },
+        {
+            "name": "MobLand",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]MobLand.S02E08.Dual.1080p.mkv"
+        },
+        {
+            "name": "Bigg Boss",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Bigg.Boss.S01E69.Bengali.1080p.mkv"
+        },
+        {
+            "name": "MobLand",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]MobLand.S02E08.Dual.720p.mkv"
+        },
+        {
+            "name": "Part Timers",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Part.Timers.S0141-44.Hindi.1080p.mkv"
+        },
+        {
+            "name": "Rise And Fall",
+            "year": null,
+            "quality": "1080P",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Rise.And.Fall.S02E42.1080P.mkv"
+        },
+        {
+            "name": "Make Me Tingle",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Make.Me.Tingle.S01E10.Dual.720p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ananta.Bhalobasha.S01E72.Bangla.Dubbed.720p.mkv"
+        },
+        {
+            "name": "Ramayana Rise of a Legend Multi Audio HQ HDTC",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ramayana.Rise.of.a.Legend.Multi.Audio.HQ.HDTC.1080p.mkv"
+        },
+        {
+            "name": "Heart of the Beast  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Heart.of.the.Beast.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Campus Drivers",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Campus.Drivers.(2026).S01.Dual.1080p.mkv"
+        },
+        {
+            "name": "Possible Love  Multi",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Possible.Love.(2026).Multi.720p.mkv"
+        },
+        {
+            "name": "Possible Love  Multi",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Possible.Love.(2026).Multi.480p.mkv"
+        },
+        {
+            "name": "Ananta Bhalobasha",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ananta.Bhalobasha.S01E72.Bangla.Dubbed.1080p.mkv"
+        },
+        {
+            "name": "Make Me Tingle",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Make.Me.Tingle.S01E10.Dual.1080p.mkv"
+        },
+        {
+            "name": "Campus Drivers",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Campus.Drivers.(2026).S01.Dual.720p.mkv"
+        },
+        {
+            "name": "Oh Sukumari  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Oh.Sukumari.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Oh Sukumari  Dual",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Oh.Sukumari.(2026).Dual.1080p.mkv"
+        },
+        {
+            "name": "Oh Sukumari  Dual",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Oh.Sukumari.(2026).Dual.480p.mkv"
+        },
+        {
+            "name": "Campus Drivers",
+            "year": "2026",
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Campus.Drivers.(2026).S01.Dual.480p.mkv"
+        },
+        {
+            "name": "Heart of the Beast  Dual",
+            "year": "2026",
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Heart.of.the.Beast.(2026).Dual.720p.mkv"
+        },
+        {
+            "name": "Ramayana Rise of a Legend Multi Audio HQ HDTC",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ramayana.Rise.of.a.Legend.Multi.Audio.HQ.HDTC.720p.mkv"
+        },
+        {
+            "name": "Make Me Tingle",
+            "year": null,
+            "quality": "720p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Make.Me.Tingle.S01E09.Dual.720p.mkv"
+        },
+        {
+            "name": "Make Me Tingle",
+            "year": null,
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Make.Me.Tingle.S01E09.Dual.1080p.mkv"
+        },
+        {
+            "name": "Ramayana Rise of a Legend Multi Audio HQ HDTC",
+            "year": null,
+            "quality": "480p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Ramayana.Rise.of.a.Legend.Multi.Audio.HQ.HDTC.480p.mkv"
+        },
+        {
+            "name": "Possible Love  Multi",
+            "year": "2026",
+            "quality": "1080p",
+            "link": "https://artgh.b-cdn.net/s3/upload/videos/2026/11/[Fibwatch.Com]Possible.Love.(2026).Multi.1080p.mkv"
         }
     ]
 }
